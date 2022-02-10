@@ -11,7 +11,7 @@ author: Josephine Watkins
 By Josephine Watkins
 
 <figure>
-  <img src="{{ '/images/Anirvan-Showcase-1.png' | relative_url }}" alt="Proton-proton collision"/>
+  <img src="{{ 'images/Anirvan-Showcase-1.png' | relative_url }}" alt="Proton-proton collision"/>
   <figcaption class="figure-caption">Two protons colliding. (Image credit: NA61/SHINE collaboration)<br/></figcaption>
 </figure>
 
@@ -29,13 +29,9 @@ For instance, to observe antihelium particles, a researcher must simulate approx
 In his presentation at the OSG School, Anirvan noted that over the last two years, he submitted more than 8 million jobs to the OSPool and used nearly 50 million core hours. [The results](https://doi.org/10.1103/PhysRevD.102.063004) from his simulations generated a spectra that had never been produced before, shown below.
 
 <figure>
-  <img src="{{ '/images/Anirvan-Showcase-2.png' | relative_url }}" alt="Chart" width="500px" >
+  <img src="{{ 'images/Anirvan-Showcase-2.png' | relative_url }}" alt="Chart" width="500px" >
   <figcaption class="figure-caption">Image credit: Shukla, A. Datta, A. Doetinchem, P. Gomez-Coral, D. Kanitz, C. (2020). Large-scale simulations of antihelium production in cosmic-ray interactions. Phys. Rev. D. <a href="https://doi.org/10.1103/PhysRevD.102.063004">https://doi.org/10.1103/PhysRevD.102.063004</a><br/></figcaption>
-</figure> 
-
-
-
-
+</figure>
 
 If Anirvan had tried to run these simulations on his own laptop, he would still be searching for dark matter in the year 14,021. Even the available computing resources at [CERN](https://home.cern/) and the [University of Hawai’i](https://manoa.hawaii.edu/) weren’t enough for this colossal project –– the OSPool was necessary. 
 

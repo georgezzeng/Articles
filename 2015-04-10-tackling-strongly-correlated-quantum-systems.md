@@ -2,7 +2,7 @@
 title: "Tackling Strongly Correlated Quantum Systems on OSPool"
 date: 2015-04-01 12:00:00 -0600
 categories: Particle Physics
-card_image: /assets/images/Fermion-Bag-300x300.jpg
+card_image: images/Fermion-Bag-300x300.jpg
 ---
 
 Duke University Associate Professor of Physics Shailesh Chandrasekharan and his graduate student Venkitesh Ayyar are
@@ -11,13 +11,13 @@ using the OSpool to tackle notoriously difficult problems in quantum systems.
 <div class="row my-5">
   <div class="col-sm-6">
     <figure class="headshot">
-      <img class="w-75" src="{{site.baseurl}}/assets/images/Shailesh-Chandrasekharan-150x150.jpg"/>
+      <img class="w-75" src="images/Shailesh-Chandrasekharan-150x150.jpg"/>
       <figcaption>Shailesh Chandrasekharan, courtesy photo</figcaption>
     </figure>
   </div>
   <div class="col-sm-6">
     <figure class="headshot">
-      <img class="w-75" src="{{site.baseurl}}/assets/images/Venkitesh-150x150.jpg"/>
+      <img class="w-75" src="images/Venkitesh-150x150.jpg"/>
       <br/>
       <figcaption>Venkitesh Ayyar, courtesy photo</figcaption>
     </figure>
@@ -63,7 +63,7 @@ In order to understand a new mechanism for the origin of mass in the universe, A
 study an interacting theory of fermions using the fermion bag approach.
 
 <figure class="my-4">
-  <img src="{{site.baseurl}}/assets/images/Fermion-Bag-300x300.jpg" width="300" height="300" />
+  <img src="images/Fermion-Bag-300x300.jpg" width="300" height="300" />
   <figcaption>Illustration of a fermion bag configuration. Image credit: Shailesh Chandrasekharan</figcaption>
 </figure>
 

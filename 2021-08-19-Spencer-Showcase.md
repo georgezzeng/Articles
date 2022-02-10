@@ -11,7 +11,7 @@ author: Josephine Watkins
 By Josephine Watkins
 
 <figure>
-  <img src="{{ '/images/Spencer-Showcase.jpg' | relative_url }}" alt="Liquid Handler"/>
+  <img src="{{ 'images/Spencer-Showcase.jpg' | relative_url }}" alt="Liquid Handler"/>
   <figcaption class="figure-caption">Image by the National Cancer Institute on Unsplash<br/></figcaption>
 </figure>
 

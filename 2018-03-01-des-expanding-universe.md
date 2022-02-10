@@ -2,7 +2,7 @@
 title: Des Expanding Universe
 date: 2018-03-01T12:00:00+00:00
 publish: true
-card_image: /assets/images/Dark-Matter-Map-II-e1521045294690.jpg
+card_image: images/Dark-Matter-Map-II-e1521045294690.jpg
 ---
 
 Since its beginning, our universe has been expanding. The early work of scientists
@@ -40,7 +40,7 @@ analysis.
     </p>
   </div>
   <div class="col-md-6">
-    <img class="mr-3" alt="Dark matter map" src="{{site.baseurl}}/assets/images/Dark-Matter-Map-II-e1521045294690.jpg">
+    <img class="mr-3" alt="Dark matter map" src="images/Dark-Matter-Map-II-e1521045294690.jpg">
   </div>
 </div>
 

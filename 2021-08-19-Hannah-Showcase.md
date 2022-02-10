@@ -11,7 +11,7 @@ author: Josephine Watkins
 By Josephine Watkins
 
 <figure>
-  <img src="{{ '/images/Hannah-Showcase.jpg' | relative_url }}" alt="Brain Model"/>
+  <img src="{{ 'images/Hannah-Showcase.jpg' | relative_url }}" alt="Brain Model"/>
   <figcaption class="figure-caption">Image by Robina Weermeijer on Unsplash<br/></figcaption>
 </figure>
 
