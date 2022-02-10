@@ -3,6 +3,8 @@ title: "Tackling Strongly Correlated Quantum Systems on OSPool"
 date: 2015-04-01 12:00:00 -0600
 categories: Particle Physics
 card_image: images/Fermion-Bag-300x300.jpg
+websites:
+    - osg
 ---
 
 Duke University Associate Professor of Physics Shailesh Chandrasekharan and his graduate student Venkitesh Ayyar are

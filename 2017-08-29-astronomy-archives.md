@@ -3,6 +3,8 @@ title: "Astronomy archives are creating new science every day"
 date: 2017-08-29 12:00:00 -0600
 categories: Astronomy
 card_image: images/groom-title.jpg
+websites:
+    - osg
 ---
 
 Accumulated data sets from past and current astronomy research are not dead. Researchers are still doing new science with old data and still making new discoveries.

@@ -5,6 +5,8 @@ excerpt: Collaborating with CHTC research computing facilitation staff, UW-Madis
 image_src: images/Gaylen-Fronk-square.jpg
 image_alt: Gaylen Fronk
 author: Josephine Watkins
+websites:
+    - osg
 ---   
 
 ***Collaborating with CHTC research computing facilitation staff, UW-Madison researcher Gaylen Fronk is using HTC to improve cigarette cessation treatments by accounting for the complex differences among patients.***
