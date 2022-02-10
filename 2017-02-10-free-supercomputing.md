@@ -1,7 +1,7 @@
 ---
 title: Free Supercomputing for Research - Scott Cole introduces you to OSG
 date: 2017-02-10 12:00:00 -0600
-websites:
+publish_on:
 - osg
 ---
 

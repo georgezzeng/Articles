@@ -12,7 +12,7 @@ excerpt: >
     Amazon Web Services, Microsoft Azure, and the Google Cloud
     Platform.
 card_image: images/byregion.png
-websites:
+publish_on:
     - osg
 ---
 

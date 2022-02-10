@@ -3,7 +3,7 @@ title: "OSG helps LIGO scientists confirm Einstein's unproven theory"
 date: 2016-02-11 12:00:00 -0600
 categories: Astronomy
 card_image: images/ligo20160211d-smaller-150x150.jpg
-websites:
+publish_on:
 - osg
 ---
 

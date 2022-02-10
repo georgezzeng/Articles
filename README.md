@@ -17,7 +17,7 @@ Then included the following frontmatter
 ```yaml
 ---
 title: 
-websites:
+publish_on:
     - <htcondor, path, osg, chtc>
 canonical: <htcondor, path, osg, chtc>
 banner_src: 

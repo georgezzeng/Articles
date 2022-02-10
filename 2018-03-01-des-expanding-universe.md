@@ -3,7 +3,7 @@ title: Des Expanding Universe
 date: 2018-03-01T12:00:00+00:00
 publish: true
 card_image: images/Dark-Matter-Map-II-e1521045294690.jpg
-websites:
+publish_on:
     - osg
 ---
 

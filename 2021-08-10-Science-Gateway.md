@@ -3,7 +3,7 @@ title: "OSG fuels a student-developed computing platform to advance RNA nanomach
 date: 2021-08-10T12:00:00+00:00
 publish: true
 card_image: images/Science-Gateway-Students.jpeg
-websites:
+publish_on:
     - osg
 --- 
 ***How undergraduates at the University of Nebraska-Lincoln developed a science gateway that enables researchers to build RNA nanomachines for therapeutic, engineering, and basic science applications.***

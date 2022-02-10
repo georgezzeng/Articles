@@ -3,7 +3,7 @@ title: "Tackling Strongly Correlated Quantum Systems on OSPool"
 date: 2015-04-01 12:00:00 -0600
 categories: Particle Physics
 card_image: images/Fermion-Bag-300x300.jpg
-websites:
+publish_on:
     - osg
 ---
 

@@ -5,7 +5,7 @@ excerpt: An evolutionary biologist at the AMNH used HTC services provided by the
 publish: true
 hero_image: images/bat-carousel.jpg
 card_image: images/bat-genomics-Ariadna.png
-websites:
+publish_on:
     - osg
 --- 
 

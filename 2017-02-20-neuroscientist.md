@@ -1,7 +1,7 @@
 ---
 title: For neuroscientist Chris Cox, the OSG helps process mountains of data
 date: 2017-02-20 12:00:00 -0600
-websites:
+publish_on:
     - osg
 ---
 Whether exploring how the brain is fooled by fake news or explaining the decline of knowledge in dementia, cognitive neuroscientists like Chris Cox are relying more on high-throughput computing resources like the Open Science Pool to understand how the brain makes sense of information.

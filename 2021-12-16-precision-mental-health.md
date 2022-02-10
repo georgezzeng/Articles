@@ -5,7 +5,7 @@ excerpt: Collaborating with CHTC research computing facilitation staff, UW-Madis
 image_src: images/Gaylen-Fronk-square.jpg
 image_alt: Gaylen Fronk
 author: Josephine Watkins
-websites:
+publish_on:
     - osg
 ---   
 

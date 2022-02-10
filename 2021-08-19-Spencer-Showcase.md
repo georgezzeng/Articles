@@ -6,7 +6,7 @@ publish: true
 image_src: images/Spencer-Showcase.jpg
 image_alt: Liquid Handler
 author: Josephine Watkins
-websites:
+publish_on:
     - osg
 --- 
 

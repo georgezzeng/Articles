@@ -3,7 +3,7 @@ title: "Astronomy archives are creating new science every day"
 date: 2017-08-29 12:00:00 -0600
 categories: Astronomy
 card_image: images/groom-title.jpg
-websites:
+publish_on:
     - osg
 ---
 

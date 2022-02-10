@@ -3,7 +3,7 @@ title: Machine learning insights into molecular science using the Open Science P
 date: 2017-06-29 12:00:00 -0600
 categories: Machine Learning
 card_image: images/molcryst.png
-websites:
+publish_on:
     - osg
 ---
 

@@ -6,7 +6,7 @@ publish: true
 image_src: images/Hannah-Showcase.jpg
 image_alt: Brain Model
 author: Josephine Watkins
-websites:
+publish_on:
     - osg
 --- 
 

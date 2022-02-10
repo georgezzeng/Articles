@@ -6,7 +6,7 @@ publish: true
 image_src: images/Anirvan-Showcase-1.png
 image_alt: Proton-proton collision
 author: Josephine Watkins
-websites:
+publish_on:
     - osg
 --- 
 
