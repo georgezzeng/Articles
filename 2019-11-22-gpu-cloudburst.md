@@ -11,7 +11,7 @@ excerpt: >
     globally available for sale GPUs (graphics processing units) across
     Amazon Web Services, Microsoft Azure, and the Google Cloud
     Platform.
-card_image: images/byregion.png
+card_image: /byregion.png
 publish_on:
     - osg
 ---
@@ -52,10 +52,10 @@ Earth from some of the most extreme environments in the universe.
 <div class="container">
     <div class="row">
         <div class="col-md">
-            <img src="images/numgpus.png" class="img-fluid figure-img">
+            <img src="/numgpus.png" class="img-fluid figure-img">
         </div>
         <div class="col-md">
-            <img src="images/gpupflops.png" class="img-fluid figure-img">
+            <img src="/gpupflops.png" class="img-fluid figure-img">
         </div>
     </div>
 </div>
@@ -179,7 +179,7 @@ elasticity is there, we believe that this can be applied across all of
 scientific research to get results quickly.”
 
 <figure class="figure float-left">
-<img src="images/byregion.png" class="img-fluid figure-img" width="525">
+<img src="/byregion.png" class="img-fluid figure-img" width="525">
 <figcaption class="figure-caption">Regions used in the GPU experiment across AWS, GCP, and Azure</figcaption>
 </figure>
 

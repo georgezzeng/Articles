@@ -2,7 +2,7 @@
 title: "Protecting ecosystems with HTC" 
 date: 2021-11-09T12:00:00+00:00
 excerpt: Researchers at the USGS are using HTC to pinpoint potential invasive species for the United States.
-image_src: images/USGS-collage.jpg
+image_src: /USGS-collage.jpg
 image_alt: Sattelite image collage graphic
 author: Josephine Watkins
 publish_on:
@@ -14,7 +14,7 @@ publish_on:
 By Josephine Watkins
 
 <figure>
-  <img src="{{ 'images/USGS-collage.jpg' | relative_url }}" alt="Sattelite image collage graphic"/>
+  <img src="{{ '/USGS-collage.jpg' | relative_url }}" alt="Sattelite image collage graphic"/>
   <figcaption class="figure-caption">From left to right: Mississippi River Delta, Colorado Rocky Mountains, Kansas’s Milford Lake. Images by <a href="https://unsplash.com/@usgs">USGS on Unsplash.</a><br/></figcaption>
 </figure>  
 
