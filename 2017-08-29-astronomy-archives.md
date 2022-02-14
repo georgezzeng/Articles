@@ -2,7 +2,7 @@
 title: "Astronomy archives are creating new science every day"
 date: 2017-08-29 12:00:00 -0600
 categories: Astronomy
-card_image: /groom-title.jpg
+card_image: groom-title.jpg
 publish_on:
     - osg
 ---
@@ -24,7 +24,7 @@ Steve Groom serves as task manager for the NASA/IPAC Infrared Science Archive (I
         </p>
     </div>
     <div class="col-md-6">
-        <img class="img-fluid" alt="TRAPPIST-1 system" src="/groom-title.jpg">
+        <img class="img-fluid" alt="TRAPPIST-1 system" src="groom-title.jpg">
     </div>
 </div>
 
@@ -32,7 +32,7 @@ Steve Groom serves as task manager for the NASA/IPAC Infrared Science Archive (I
 
 <div class="row my-5">
     <div class="col-md-6">
-        <img class="w-100 img-fluid" alt="The Spitzer Space Telescope CTA" src="/groom-2.jpg">
+        <img class="w-100 img-fluid" alt="The Spitzer Space Telescope CTA" src="groom-2.jpg">
     </div>
     <div class="col-md-6">
         <p>

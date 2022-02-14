@@ -2,7 +2,7 @@
 title: Machine learning insights into molecular science using the Open Science Pool
 date: 2017-06-29 12:00:00 -0600
 categories: Machine Learning
-card_image: /molcryst.png
+card_image: molcryst.png
 publish_on:
     - osg
 ---
@@ -18,7 +18,7 @@ For studying drug discovery, where small organic molecule binds to a protein rec
 
 <div class="row my-4">
   <div class="col-md-6">
-    <img class="mr-3" alt="Protein model visualization" src="/molcryst.png">
+    <img class="mr-3" alt="Protein model visualization" src="molcryst.png">
   </div>
   <div class="col-md-6">
     <h5 class="mt-0">Protein Model</h5>

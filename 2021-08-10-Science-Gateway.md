@@ -2,7 +2,7 @@
 title: "OSG fuels a student-developed computing platform to advance RNA nanomachines" 
 date: 2021-08-10T12:00:00+00:00
 publish: true
-card_image: /Science-Gateway-Students.jpeg
+card_image: Science-Gateway-Students.jpeg
 publish_on:
     - osg
 --- 
