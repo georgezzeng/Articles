@@ -1,8 +1,12 @@
 ---
-title: " How to Transfer 460 Terabytes? A File Transfer Case Study" 
-date: 2021-01-15T12:00:00+00:00
-publish: true
-card_image:
+title: "How to Transfer 460 Terabytes? A File Transfer Case Study"
+canonical_url: https://osg-htc.org/spotlights/Using-HTCondor-For-Large-File-Transfer.html
+image:
+    path: 
+    alt:
+description: How Greg Daues at the National Center for Super Computing Applications used HTCondor to transfer 460 terabytes of data. 
+card_src:
+card_alt: 
 publish_on:
     - osg
 --- 

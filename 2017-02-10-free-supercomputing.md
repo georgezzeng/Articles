@@ -1,6 +1,17 @@
 ---
 title: Free Supercomputing for Research - Scott Cole introduces you to OSG
-date: 2017-02-10 12:00:00 -0600
+canonical_url: https://osg-htc.org/spotlights/free-supercomputing.html
+image:
+    path: 
+    alt:
+description: | 
+    Scott Cole, a neuroscience PhD student at University of California San Diego, 
+    wrote an article which appeared in PythonWeekly that details how to get up 
+    and running on Open Science Pool.
+excerpt: |
+    Scott Cole, a neuroscience PhD student at University of California San Diego,
+    wrote an article which appeared in PythonWeekly that details how to get up
+    and running on Open Science Pool.
 publish_on:
 - osg
 ---

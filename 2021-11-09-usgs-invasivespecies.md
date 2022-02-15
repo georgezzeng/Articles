@@ -1,9 +1,13 @@
 ---
 title: "Protecting ecosystems with HTC" 
-date: 2021-11-09T12:00:00+00:00
+canonical_url: https://chtc.cs.wisc.edu/usgs-invasivespecies.html
+image:
+    path: https://raw.githubusercontent.com/CHTC/Articles/main/images/USGS-collage.jpg
+    alt: Satellite image collage graphic
+description: Researchers at the USGS are using HTC to pinpoint potential invasive species for the United States.
 excerpt: Researchers at the USGS are using HTC to pinpoint potential invasive species for the United States.
-card_src: USGS-collage.jpg
-card_alt: Sattelite image collage graphic
+card_src: https://raw.githubusercontent.com/CHTC/Articles/main/images/USGS-collage.jpg
+card_alt: Satellite image collage graphic
 author: Josephine Watkins
 publish_on:
     - osg
@@ -14,10 +18,9 @@ publish_on:
 By Josephine Watkins
 
 <figure>
-  <img src="USGS-collage.jpg" alt="Sattelite image collage graphic"/>
+  <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/USGS-collage.jpg" alt="Satellite image collage graphic"/>
   <figcaption class="figure-caption">From left to right: Mississippi River Delta, Colorado Rocky Mountains, Kansas’s Milford Lake. Images by <a href="https://unsplash.com/@usgs">USGS on Unsplash.</a><br/></figcaption>
-</figure>  
-
+</figure>
 
 Benjamin Franklin famously advised that an ounce of prevention is worth a pound of cure, and researcher [Richard Erickson](https://www.usgs.gov/staff-profiles/richard-erickson?qt-staff_profile_science_products=0#qt-staff_profile_science_products) has taken this advice to heart in his mission to protect our lakes and wildlife from invasive species. As a research ecologist at the United States Geological Survey’s (USGS) Upper Midwest Environmental Sciences Center, Erickson uses computation to identify invasive species before they pose a threat to U.S. ecosystems. 
 

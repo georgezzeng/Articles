@@ -1,9 +1,13 @@
 ---
-title: "Antimatter: Using HTC to study very rare processes" 
-date: 2021-08-19T12:00:00+00:00
+title: "Antimatter: Using HTC to study very rare processes"
+canonical_url: https://osg-htc.org/spotlights/Anirvan-Showcase.html
+image:
+    path: https://raw.githubusercontent.com/CHTC/Articles/main/images/Anirvan-Showcase-1.png
+    alt: Proton-proton collision
+description: Anirvan Shukla, a User School participant in 2016, spoke at this year's Showcase about how high throughput computing has transformed his research of antimatter in the last five years.
 excerpt: Anirvan Shukla, a User School participant in 2016, spoke at this year's Showcase about how high throughput computing has transformed his research of antimatter in the last five years.
 publish: true
-card_src: Anirvan-Showcase-1.png
+card_src: https://raw.githubusercontent.com/CHTC/Articles/main/images/Anirvan-Showcase-1.png
 card_alt: Proton-proton collision
 author: Josephine Watkins
 publish_on:
@@ -13,7 +17,7 @@ publish_on:
 By Josephine Watkins
 
 <figure>
-  <img src="Anirvan-Showcase-1.png" alt="Proton-proton collision"/>
+  <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/Anirvan-Showcase-1.png" alt="Proton-proton collision"/>
   <figcaption class="figure-caption">Two protons colliding. (Image credit: NA61/SHINE collaboration)<br/></figcaption>
 </figure>
 
@@ -31,7 +35,7 @@ For instance, to observe antihelium particles, a researcher must simulate approx
 In his presentation at the OSG School, Anirvan noted that over the last two years, he submitted more than 8 million jobs to the OSPool and used nearly 50 million core hours. [The results](https://doi.org/10.1103/PhysRevD.102.063004) from his simulations generated a spectra that had never been produced before, shown below.
 
 <figure>
-  <img src="Anirvan-Showcase-2.png" alt="Chart" width="500px" >
+  <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/Anirvan-Showcase-2.png" alt="Chart" width="500px" >
   <figcaption class="figure-caption">Image credit: Shukla, A. Datta, A. Doetinchem, P. Gomez-Coral, D. Kanitz, C. (2020). Large-scale simulations of antihelium production in cosmic-ray interactions. Phys. Rev. D. <a href="https://doi.org/10.1103/PhysRevD.102.063004">https://doi.org/10.1103/PhysRevD.102.063004</a><br/></figcaption>
 </figure>
 
