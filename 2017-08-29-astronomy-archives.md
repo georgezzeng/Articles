@@ -17,7 +17,7 @@ excerpt: |
     where astronomers have calculated that temperatures are just right — not too hot, not too
     cold — for liquid water to pool on the surface of an Earth-like world.
 categories: Astronomy
-card_src: groom-title.jpg
+card_src: https://raw.githubusercontent.com/CHTC/Articles/main/images/groom-title.jpg
 card_alt: Trappist Solar System
 publish_on:
     - osg
