@@ -13,7 +13,7 @@ publish_on:
 By Josephine Watkins
 
 <figure>
-  <img src="{{ 'Spencer-Showcase.jpg' | relative_url }}" alt="Liquid Handler"/>
+  <img src="Spencer-Showcase.jpg" alt="Liquid Handler"/>
   <figcaption class="figure-caption">Image by the National Cancer Institute on Unsplash<br/></figcaption>
 </figure>
 

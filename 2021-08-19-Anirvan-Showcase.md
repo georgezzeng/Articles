@@ -13,7 +13,7 @@ publish_on:
 By Josephine Watkins
 
 <figure>
-  <img src="{{ 'Anirvan-Showcase-1.png' | relative_url }}" alt="Proton-proton collision"/>
+  <img src="Anirvan-Showcase-1.png" alt="Proton-proton collision"/>
   <figcaption class="figure-caption">Two protons colliding. (Image credit: NA61/SHINE collaboration)<br/></figcaption>
 </figure>
 
@@ -31,7 +31,7 @@ For instance, to observe antihelium particles, a researcher must simulate approx
 In his presentation at the OSG School, Anirvan noted that over the last two years, he submitted more than 8 million jobs to the OSPool and used nearly 50 million core hours. [The results](https://doi.org/10.1103/PhysRevD.102.063004) from his simulations generated a spectra that had never been produced before, shown below.
 
 <figure>
-  <img src="{{ 'Anirvan-Showcase-2.png' | relative_url }}" alt="Chart" width="500px" >
+  <img src="Anirvan-Showcase-2.png" alt="Chart" width="500px" >
   <figcaption class="figure-caption">Image credit: Shukla, A. Datta, A. Doetinchem, P. Gomez-Coral, D. Kanitz, C. (2020). Large-scale simulations of antihelium production in cosmic-ray interactions. Phys. Rev. D. <a href="https://doi.org/10.1103/PhysRevD.102.063004">https://doi.org/10.1103/PhysRevD.102.063004</a><br/></figcaption>
 </figure>
 
