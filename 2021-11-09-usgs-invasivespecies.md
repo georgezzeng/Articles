@@ -10,7 +10,7 @@ card_src: https://raw.githubusercontent.com/CHTC/Articles/main/images/USGS-colla
 card_alt: Satellite image collage graphic
 author: Josephine Watkins
 publish_on:
-    - osg
+    - chtc
 ---   
 
 ***Researchers at the USGS are using HTC to pinpoint potential invasive species for the United States.***

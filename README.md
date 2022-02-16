@@ -24,16 +24,12 @@ canonical_url:
 image:
   path: https://raw.githubusercontent.com/CHTC/Articles/main/images/...
   alt: 
-description: <I would make this the same as excerpt>
-banner_src: https://raw.githubusercontent.com/CHTC/Articles/main/images/...
+description: <This is used as a link description when this article is linked>
+excerpt: <Same as description but used for the cards>
 card_src: https://raw.githubusercontent.com/CHTC/Articles/main/images/...
 card_alt: 
-excerpt: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce consectetur 
-    enim lacus, eget feugiat turpis porta sit amet. Mauris cursus lectus vitae 
-    luctus accumsan. Nullam sit amet condimentum tortor, sed feugiat augue. Quisque 
-    lobortis neque non aliquam faucibus. Nam ultrices nunc ex, sed pulvinar orci 
-    bibendum in.
+banner_src: <optional> https://raw.githubusercontent.com/CHTC/Articles/main/images/
+banner_alt: <optional>
 ---
 ```
 

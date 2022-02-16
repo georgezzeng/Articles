@@ -10,7 +10,7 @@ publish: true
 card_src: https://raw.githubusercontent.com/CHTC/Articles/main/images/resilience-hero-large.jpeg
 card_alt: Hero Image for Morgridge Article Courtesy of Morgridge
 publish_on:
-    - osg
+    - chtc
 --- 
 
 
