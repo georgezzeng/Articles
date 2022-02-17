@@ -11,6 +11,7 @@ card_alt: Satellite image collage graphic
 author: Josephine Watkins
 publish_on:
     - chtc
+    - htcondor
 ---   
 
 ***Researchers at the USGS are using HTC to pinpoint potential invasive species for the United States.***

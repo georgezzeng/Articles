@@ -12,6 +12,7 @@ card_alt: Proton-proton collision
 author: Josephine Watkins
 publish_on:
     - osg
+    - htcondor
 --- 
 
 By Josephine Watkins

@@ -12,6 +12,7 @@ card_alt: Brain Model
 author: Josephine Watkins
 publish_on:
     - osg
+    - htcondor
 --- 
 
 By Josephine Watkins

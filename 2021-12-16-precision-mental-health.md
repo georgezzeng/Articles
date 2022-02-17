@@ -6,11 +6,14 @@ image:
     alt: Gaylen Fronk Headshot
 description: Collaborating with CHTC research computing facilitation staff, UW-Madison researcher Gaylen Fronk is using HTC to improve cigarette cessation treatments by accounting for the complex differences among patients.
 excerpt: Collaborating with CHTC research computing facilitation staff, UW-Madison researcher Gaylen Fronk is using HTC to improve cigarette cessation treatments by accounting for the complex differences among patients.
-card_src: https://raw.githubusercontent.com/CHTC/Articles/main/images/Gaylen-Fronk-square.jpg
-card_alt: Gaylen Fronk
+card_src: https://raw.githubusercontent.com/CHTC/Articles/main/images/mental_health.jpeg
+card_alt: Floating and Glowing Brain
+banner_src: https://raw.githubusercontent.com/CHTC/Articles/main/images/mental_health.jpeg
+banner_alt: Floating and Glowing Brain
 author: Josephine Watkins
 publish_on:
     - chtc
+    - htcondor
 ---   
 
 ***Collaborating with CHTC research computing facilitation staff, UW-Madison researcher Gaylen Fronk is using HTC to improve cigarette cessation treatments by accounting for the complex differences among patients.***
