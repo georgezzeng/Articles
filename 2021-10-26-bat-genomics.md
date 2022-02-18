@@ -7,8 +7,10 @@ image:
 description: An evolutionary biologist at the AMNH used HTC services provided by the OSG to unlock a genomic basis for convergent evolution in bats.
 excerpt: An evolutionary biologist at the AMNH used HTC services provided by the OSG to unlock a genomic basis for convergent evolution in bats.
 publish: true
-hero_image: https://raw.githubusercontent.com/CHTC/Articles/main/images/bat-carousel.jpg
+banner_src: https://raw.githubusercontent.com/CHTC/Articles/main/images/bat-carousel.jpg
+banner_alt: Bat in flight
 card_src: https://raw.githubusercontent.com/CHTC/Articles/main/images/bat-genomics-Ariadna.png
+card_alt: Image of Ariana analyzing bats
 publish_on:
     - osg
 --- 
