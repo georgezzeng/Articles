@@ -17,7 +17,6 @@ publish_on:
     - htcondor
 --- 
 
-By Josephine Watkins
 
 <figure>
   <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/Spencer-Showcase.jpg" alt="Liquid Handler"/>
