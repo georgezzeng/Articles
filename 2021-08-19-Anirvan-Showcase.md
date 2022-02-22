@@ -17,7 +17,6 @@ publish_on:
     - htcondor
 --- 
 
-By Josephine Watkins
 
 <figure>
   <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/Anirvan-Showcase-1.png" alt="Proton-proton collision"/>
