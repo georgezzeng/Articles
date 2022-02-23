@@ -12,11 +12,10 @@ banner_src: https://raw.githubusercontent.com/CHTC/Articles/main/images/cow-ml-i
 banner_alt: Cows Feeding with ML overlay
 author: Hannah Cherens
 publish_on:
-    - chtc
     - htcondor
 --- 
 
-[![ML and Image Analyses for Livestock Data](https://raw.githubusercontent.com/CHTC/Articles/main/images/cow-ml-image-cropped.jpg)](https://www.youtube.com/watch?v=1VfK1lkcGbk&t=1s)
+<iframe class="pb-3" width="100%" height="400px" src="https://www.youtube-nocookie.com/embed/1VfK1lkcGbk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Joao Dorea from the Digital Livestock Lab explains how the use of 
 high-throughput computing is used in the field of animal and dairy 
