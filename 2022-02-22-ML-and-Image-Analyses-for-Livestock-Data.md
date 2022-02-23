@@ -27,10 +27,10 @@ high-throughput computing is used in the field of animal and dairy
 sciences. Computer vision systems and sensors collect 
 animal-level phenotypic data on cows to make more optimized decisions
 about what to do with each animal in terms of health, nutrition, 
-reproduction, and genetics. One shortcoming of doing this has to do
+reproduction, and genetics. One challenge of doing this has to do
 with the sheer size of data that is collected. Processing and 
 storing tens of thousands of images of cows requires significant 
-computation resources.
+computational resources.
 
 By utilizing HTCondor through a collaboration with the [Center for Highthroughput Computing](https://chtc.cs.wisc.edu/), the Digital 
 Livestock Lab has been able to focus their time and money on the livestock. 
@@ -42,4 +42,6 @@ Being able to internalize numerous data sets in parallel has allowed the Digital
 to gain significant insight into livestock systems, all thanks to HTCondor 
 and collaborations with the faculty at the CHTC!
 
-Read more about Joao Dorea and his research on the development of high-throughput phenotyping technologies on his [homepage](https://andysci.wisc.edu/directory/joao-ricardo-reboucas-dorea/).
+Read more about Joao Dorea and his research on the development of 
+high-throughput phenotyping technologies on his 
+[homepage](https://andysci.wisc.edu/directory/joao-ricardo-reboucas-dorea/).
