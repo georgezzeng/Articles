@@ -22,9 +22,9 @@ _The vision of the Digital Livestock Lab is to create state-of-the-art
 computer vision systems and the largest public database for livestock._
 
 In this presentation at HTCondor Week 2021, Joao Dorea from the 
-Digital Livestock Lab explains how the use of 
+Digital Livestock Lab explains how
 high-throughput computing is used in the field of animal and dairy 
-sciences. Computer vision systems and sensors are used to collect 
+sciences. Computer vision systems and sensors collect 
 animal-level phenotypic data on cows to make more optimized decisions
 about what to do with each animal in terms of health, nutrition, 
 reproduction, and genetics. One shortcoming of doing this has to do
@@ -32,7 +32,7 @@ with the sheer size of data that is collected. Processing and
 storing tens of thousands of images of cows requires significant 
 computation resources.
 
-By utilizing HTCondor through a collaboration with the CHTC, the Digital 
+By utilizing HTCondor through a collaboration with the [Center for Highthroughput Computing](https://chtc.cs.wisc.edu/), the Digital 
 Livestock Lab has been able to focus their time and money on the livestock. 
 Specialized to handle computational work that can be split into many pieces
 and run in parallel, image analysis aligns well with the ideal HTCSS workload.
