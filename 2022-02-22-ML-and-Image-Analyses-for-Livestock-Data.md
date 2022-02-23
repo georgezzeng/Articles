@@ -21,7 +21,7 @@ publish_on:
 _The vision of the Digital Livestock Lab is to create state-of-the-art
 computer vision systems and the largest public database for livestock._
 
-In this presentation at HTCondor Week 2021, Joao Dorea from the 
+In this presentation from HTCondor Week 2021, Joao Dorea from the 
 Digital Livestock Lab explains how
 high-throughput computing is used in the field of animal and dairy 
 sciences. Computer vision systems and sensors collect 
