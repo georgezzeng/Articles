@@ -19,9 +19,7 @@ jobs:
           cd article-preview
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          cd _posts
-          git pull
-          cd ..
+          git submodule update --remote
           git add _posts
           git commit -m "Article Submodule Updated"
           git push origin/main
