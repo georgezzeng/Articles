@@ -10,6 +10,6 @@ jobs:
       - run: |
         curl -X POST \
           -H "Accept: application/vnd.github.v3+json" \
-          -H "Authorization: token ${{ secrets.token }}" \
+          -H "Authorization: token ${{ secrets.TOKEN }}" \
           --data '{"event_type": "pull"}' \
           https://api.github.com/repos/CHTC/article-preview/dispatches
