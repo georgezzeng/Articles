@@ -7,10 +7,6 @@ jobs:
   dispatch:
     runs-on: ubuntu-18.04
     steps:
-      - name: Configure for Dev Preview
-        run: |
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
 
       - name: Setup SSH Keys and known_hosts
         uses: webfactory/ssh-agent@v0.5.3
@@ -20,6 +16,8 @@ jobs:
       - name: Pull new posts
         run: |
           git clone https://github.com/CHTC/article-preview.git
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
           cd article-preview/_posts
           git pull
           cd ..
