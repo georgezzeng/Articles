@@ -16,9 +16,10 @@ jobs:
       - name: Pull new posts
         run: |
           git clone https://github.com/CHTC/article-preview.git
+          cd article-preview
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          cd article-preview/_posts
+          cd _posts
           git pull
           cd ..
           git add article-preview/_posts
