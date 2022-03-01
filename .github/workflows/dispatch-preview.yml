@@ -16,13 +16,12 @@ jobs:
       - name: Pull new posts
         run: |
           git clone https://github.com/CHTC/article-preview.git
-          ls
           cd article-preview
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           cd _posts
           git pull
           cd ..
-          git add article-preview/_posts
+          git add _posts
           git commit -m "Article Submodule Updated"
           git push origin/main
