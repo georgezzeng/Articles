@@ -15,7 +15,7 @@ jobs:
 
       - name: Pull new posts
         run: |
-          git clone https://github.com/CHTC/article-preview.git
+          git clone --recurse-submodules https://github.com/CHTC/article-preview.git
           cd article-preview
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
