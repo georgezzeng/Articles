@@ -7,5 +7,22 @@ jobs:
   dispatch:
     runs-on: ubuntu-18.04
     steps:
-      - run: >-
-          curl -X POST -H "Accept: application/vnd.github.v3+json" -H "Authorization: token ${{ secrets.TOKEN }}" --data '{"event_type": "pull"}' https://api.github.com/repos/CHTC/article-preview/dispatches
+      - name: Configure for Dev Preview
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+
+      - name: Setup SSH Keys and known_hosts
+        uses: webfactory/ssh-agent@v0.5.3
+        with:
+          ssh-private-key: ${{ secrets.TOKEN }}
+
+      - name: Pull new posts
+        run: |
+          git clone https://github.com/CHTC/article-preview.git
+          cd article-preview/_posts
+          git pull
+          cd ..
+          git add article-preview/_posts
+          git commit -m "Article Submodule Updated"
+          git push origin/main
