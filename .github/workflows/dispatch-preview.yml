@@ -7,18 +7,16 @@ jobs:
   dispatch:
     runs-on: ubuntu-18.04
     steps:
+      -
+      - name: Checkout Remote Repo
+        uses: actions/checkout@v3
+        with:
+          repository: CHTC/article-preview
+          ssh-key: ${{ secrets.TOKEN }}
 
-      - run: |
-          mkdir -p ~/.ssh
-          ssh-agent -s
-          ssh-keyscan github.com >> ~/.ssh/known_hosts
-          ssh-agent -a "$SSH_AUTH_SOCK" > /dev/null
-          ssh-add - <<< "${{ secrets.DEPLOY_KEY }}"
 
       - name: Pull new posts
         run: |
-          git clone --recurse-submodules https://github.com/CHTC/article-preview.git
-          cd article-preview
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git submodule update --remote
