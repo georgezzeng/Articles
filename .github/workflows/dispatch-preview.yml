@@ -12,6 +12,7 @@ jobs:
         with:
           repository: CHTC/article-preview
           ssh-key: ${{ secrets.TOKEN }}
+          submodules: true
 
 
       - name: Pull new posts
