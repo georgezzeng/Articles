@@ -3,7 +3,7 @@ published: false
 ---
 
 # Articles
-This repository contains all articles published on CHTC, PATh, and HTCSS websites.
+This repository contains all articles published on CHTC, PATh, and HTCSS websites. It seperates them out so we can deploy the same article more easily and reduce build times well creating articles. You can preview the articles here -> [Article Previews]([preview website](https://chtc.github.io/article-preview/)).
 
 ### Guide
 - [Creating a new Article](#creating-a-new-article)
