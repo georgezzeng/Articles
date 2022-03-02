@@ -27,5 +27,7 @@ jobs:
           git submodule update --remote
           git add _posts
 
+          git remote -v
+
           git commit -m "Article Submodule Updated"
           git push origin/main
