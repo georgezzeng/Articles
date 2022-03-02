@@ -15,7 +15,7 @@ jobs:
 
       - name: Pull new posts
         run: |
-          git clone --recursive https://github.com/CHTC/article-preview.git
+          git clone --recursive git@github.com:CHTC/article-preview.git
 
           cd article-preview
 
