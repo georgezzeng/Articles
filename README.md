@@ -5,6 +5,9 @@ published: false
 # Articles
 Contains all articles published on the various CHTC influenced websites.
 
+## Previewing a Article
+Previews are generated from the development branch. Add an article there and look for it in the list on https://chtc.github.io/article-preview/ to see the preview. 
+
 ## Creating a new Article
 To create a new article add a new file to the root of this repo with the following format:
 
