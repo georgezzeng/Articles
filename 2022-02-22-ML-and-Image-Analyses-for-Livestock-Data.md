@@ -4,9 +4,8 @@ canonical_url: https://htcondor.org/featured-users/2022-02-22-ML-and-Image-Analy
 image:
     path: https://raw.githubusercontent.com/CHTC/Articles/main/images/cow-ml-image-cropped.jpg
     alt: Cows Feeding with machine Learning overlay
-description: In this presentation from HTCondor Week 2021, Joao Dorea from the 
-Digital Livestock Lab explains how high-throughput computing is used in the field of animal and dairy sciences.
-excerpt: Collaborating with CHTC research computing facilitation staff, UW-Madison researcher Gaylen Fronk is using HTC to improve cigarette cessation treatments by accounting for the complex differences among patients.
+description: In this presentation from HTCondor Week 2021, Joao Dorea from the Digital Livestock Lab explains how high-throughput computing is used in the field of animal and dairy sciences.
+excerpt: In this presentation from HTCondor Week 2021, Joao Dorea from the Digital Livestock Lab explains how high-throughput computing is used in the field of animal and dairy sciences.
 card_src: https://raw.githubusercontent.com/CHTC/Articles/main/images/cow-ml-image-cropped.jpg
 card_alt: Cows Feeding with ML overlay
 banner_src: https://raw.githubusercontent.com/CHTC/Articles/main/images/cow-ml-image-cropped-banner.jpg
