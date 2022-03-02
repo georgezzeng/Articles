@@ -7,7 +7,10 @@ jobs:
   dispatch:
     runs-on: ubuntu-18.04
     steps:
-
+      - name: Setup SSH Keys and known_hosts
+        uses: webfactory/ssh-agent@v0.5.3
+        with:
+          ssh-private-key: ${{ secrets.DEPLOY_KEY }}
 
 
       - name: Pull new posts
