@@ -16,10 +16,11 @@ jobs:
         run: |
           git clone --recursive https://github.com/CHTC/article-preview.git
 
+          cd article-preview
+
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
 
-          cd article-preview
           git submodule update --remote
           git add _posts
 
