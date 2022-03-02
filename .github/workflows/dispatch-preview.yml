@@ -19,6 +19,8 @@ jobs:
 
           cd article-preview
 
+          git checkout -b refresh-submodules
+
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
 
