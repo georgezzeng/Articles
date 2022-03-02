@@ -30,4 +30,4 @@ jobs:
           git remote -v
 
           git commit -m "Article Submodule Updated"
-          git push origin/main
+          git push origin
