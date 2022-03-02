@@ -7,21 +7,21 @@ jobs:
   dispatch:
     runs-on: ubuntu-18.04
     steps:
-      - name: Checkout Remote Repo
-        uses: actions/checkout@v3
+      - uses: webfactory/ssh-agent@v0.5.4
         with:
-          repository: CHTC/article-preview
-          ssh-key: ${{ secrets.TOKEN }}
+          ssh-private-key: ${{ secrets.TOKEN }}
 
 
       - name: Pull new posts
         run: |
-          cd _posts
-          git pull
-          cd ..
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
+
+          git clone --recursive https://github.com/CHTC/article-preview.git
+
+          cd article-preview
           git submodule update --remote
           git add _posts
+
           git commit -m "Article Submodule Updated"
           git push origin/main
