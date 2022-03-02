@@ -12,12 +12,13 @@ jobs:
         with:
           repository: CHTC/article-preview
           ssh-key: ${{ secrets.TOKEN }}
-          submodules: recursive
 
 
       - name: Pull new posts
         run: |
-          ls
+          cd _posts
+          git pull
+          cd ..
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git submodule update --remote
