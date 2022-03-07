@@ -33,7 +33,7 @@ with the sheer size of data that is collected. Processing and
 storing tens of thousands of images of cows requires significant 
 computational resources.
 
-By utilizing HTCondor through a collaboration with the [Center for Highthroughput Computing](https://chtc.cs.wisc.edu/), the Digital 
+By utilizing HTCondor through a collaboration with the [Center for High Throughput Computing](https://chtc.cs.wisc.edu/), the Digital 
 Livestock Lab has been able to focus their time and money on the livestock. 
 Specialized to handle computational work that can be split into many pieces
 and run in parallel, image analysis aligns well with the ideal HTCSS workload.
