@@ -14,6 +14,7 @@ author: Josephine Watkins
 publish_on:
     - chtc
     - htcondor
+    - path
 ---   
 
 ***Collaborating with CHTC research computing facilitation staff, UW-Madison researcher Gaylen Fronk is using HTC to improve cigarette cessation treatments by accounting for the complex differences among patients.***
