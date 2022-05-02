@@ -108,4 +108,5 @@ To view your article in development you must:
 - View your article
   - When you commit your changes you can view your article ( after a couple of minutes to process ) on the [preview website](https://chtc.github.io/article-preview/)
 - When you are ready to move this article to production you can copy and paste this article and its images using the [Creating a new Article](#creating-a-new-article) guide. 
+- You can see if your change has been made to the website by following the top build [here](https://github.com/CHTC/article-preview/actions/workflows/pages/pages-build-deployment). After this circle is green it will be live on the preview page. 
     
