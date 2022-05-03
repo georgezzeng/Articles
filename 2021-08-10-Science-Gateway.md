@@ -13,7 +13,6 @@ author: Josephine Watkins
 publish_on:
     - osg
     - path
-    - chtc
 --- 
 ***How undergraduates at the University of Nebraska-Lincoln developed a science gateway that enables researchers to build RNA nanomachines for therapeutic, engineering, and basic science applications.***
 
