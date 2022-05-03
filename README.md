@@ -125,12 +125,17 @@ After your Pull Request has been merged into the 'main' branch on this repo you 
 
 The steps to do this are:
  
-1. Go to the site and run the 'Update Submodules' workflow. We use this to pull your changes into the new repo and create a new branch called 'preview-update-submodules'
+1. Go to the site and run the 'Update Submodules' workflow. We use this to pull your changes into the new repo and create a new branch called 'preview-update-submodules'. You then will have to manually trigger a preview page build using another action
 
 - [CHTC Submodule Workflow](https://github.com/CHTC/chtc-website-source/actions/workflows/update-submodules.yml)
 - [OSG Submodule Workflow](https://github.com/osg-htc/osg-htc.github.io/actions/workflows/update-submodules.yml)
 - [PATh Submodule Workflow](https://github.com/path-cc/path-cc.github.io/actions/workflows/update-submodules.yml)
 - [HTCondor Submodule Workflow](https://github.com/htcondor/htcondor-web/actions/workflows/update-submodules.yml)
+
+- [CHTC Preview Workflow](https://github.com/CHTC/chtc-website-source/actions/workflows/deploy-preview.yml)
+- [OSG Preview Workflow](https://github.com/osg-htc/osg-htc.github.io/actions/workflows/deploy-preview.yml)
+- [PATh Preview Workflow](https://github.com/path-cc/path-cc.github.io/actions/workflows/deploy-preview.yml)
+- [HTCondor Preview Workflow](https://github.com/htcondor/htcondor-web/actions/workflows/deploy-preview.yml)
  
 ![Run the Update Submodules Workflow](/images/Submodule_Image.png)
 
