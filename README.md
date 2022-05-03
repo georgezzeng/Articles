@@ -8,6 +8,7 @@ This repository contains all articles published on CHTC, PATh, and HTCSS website
 ### Guide
 - [Creating a new Article](#creating-a-new-article)
 - [Previewing your Article](#previewing-your-article)
+- [Deploying your Article](#deploying-your-article)
 
 ## Creating a new Article
 
@@ -57,7 +58,7 @@ author: <First Last>
 publish_on:
   - <htcondor, path, osg, chtc> - This indicates what website this article will be shown on
   - <htcondor, path, osg, chtc> - If more then one then add as a list
-  - 
+
 canonical_url: <This is a absolute url that points to the canonical site>
 
 image:
@@ -94,6 +95,7 @@ At this point it can be merged into main.
 - All images must be absolute
     - As these images will be served from a variety of folders and depths you must use an absolute url 
     - Absolute URL to use: `https://raw.githubusercontent.com/CHTC/Articles/main/images/`
+    - You should put all of your articles in the main folder and import from there even in the dev branch
   
 ## Previewing your Article
   
@@ -109,4 +111,41 @@ To view your article in development you must:
   - When you commit your changes you can view your article ( after a couple of minutes to process ) on the [preview website](https://chtc.github.io/article-preview/)
 - When you are ready to move this article to production you can copy and paste this article and its images using the [Creating a new Article](#creating-a-new-article) guide. 
 - You can see if your change has been made to the website by following the top build [here](https://github.com/CHTC/article-preview/actions/workflows/pages/pages-build-deployment). After this circle is green it will be live on the preview page. 
-    
+
+## Deploying your Article
+
+These articles get deployed across 4 websites based on what you have put in your 'publish_on' list.
+
+- [CHTC](https://github.com/CHTC/chtc-website-source)
+- [OSG](https://github.com/osg-htc/osg-htc.github.io)
+- [PATh](https://github.com/path-cc/path-cc.github.io)
+- [HTCondor](https://github.com/htcondor/htcondor-web)
+
+After your Pull Request has been merged into the 'main' branch on this repo you must deploy it to the other sites. 
+
+The steps to do this are:
+ 
+1. Go to the site and run the 'Update Submodules' workflow. We use this to pull your changes into the new repo and create a new branch called 'preview-update-submodules'
+
+- [CHTC Submodule Workflow](https://github.com/CHTC/chtc-website-source/actions/workflows/update-submodules.yml)
+- [OSG Submodule Workflow](https://github.com/osg-htc/osg-htc.github.io/actions/workflows/update-submodules.yml)
+- [PATh Submodule Workflow](https://github.com/path-cc/path-cc.github.io/actions/workflows/update-submodules.yml)
+- [HTCondor Submodule Workflow](https://github.com/htcondor/htcondor-web/actions/workflows/update-submodules.yml)
+ 
+![Run the Update Submodules Workflow](/images/Submodule_Image.png)
+
+After this has ran you will see a branch called 'preview-update-submodules' and you should create a pull request into master from this branch. 
+
+- [CHTC Create PR](https://github.com/CHTC/chtc-website-source/compare/master...preview-update-submodules)
+- [OSG Create PR](https://github.com/osg-htc/osg-htc.github.io/compare/master...preview-update-submodules)
+- [PATh Create PR](https://github.com/path-cc/path-cc.github.io/compare/master...preview-update-submodules)
+- [HTCondor Create PR](https://github.com/htcondor/htcondor-web/compare/master...preview-update-submodules)
+
+You can preview your update on the website preview, ( **Remember this takes a bit** ).
+
+- [CHTC Submodule Update Preview](https://chtc.github.io/web-preview/preview-update-submodules)
+- [OSG Submodule Update Preview](https://osg-htc.org/web-preview/preview-update-submodules)
+- [PATh Submodule Update Preview](https://path-cc.io/web-preview/preview-update-submodules)
+- [HTCondor Submodule Update Preview](https://htcondor.com/web-preview/preview-update-submodules)
+
+When you get a review on this page, you can merge into master and your article will be deployed.
