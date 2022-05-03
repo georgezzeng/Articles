@@ -149,3 +149,5 @@ You can preview your update on the website preview, ( **Remember this takes a bi
 - [HTCondor Submodule Update Preview](https://htcondor.com/web-preview/preview-update-submodules)
 
 When you get a review on this page, you can merge into master and your article will be deployed.
+
+**Important**: After you merge delete the 'preview-update-submodules' branch. You **cannot** start this workflow on this site again until it is gone.
