@@ -16,6 +16,7 @@ publish_on:
     - osg
     - htcondor
     - path
+    - chtc
 --- 
 
 

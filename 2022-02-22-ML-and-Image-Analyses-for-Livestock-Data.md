@@ -14,6 +14,7 @@ author: Hannah Cheren
 publish_on:
     - htcondor
     - path
+    - chtc
 --- 
 
 <iframe class="pb-3" width="100%" height="400px" src="https://www.youtube-nocookie.com/embed/1VfK1lkcGbk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
