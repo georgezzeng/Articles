@@ -8,7 +8,7 @@ This repository contains all articles published on CHTC, PATh, and HTCSS website
 ### Guide
 - [Creating a new Article](#creating-a-new-article)
 - [Previewing your Article](#previewing-your-article)
-- [Deploying your Article](#deploying-your-article)
+- [**New**: Deploying your Article](#deploying-your-article)
 
 ## Creating a new Article
 
