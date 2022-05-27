@@ -4,8 +4,8 @@ canonical_url: https://osg-htc.org/spotlights/Spencer-Showcase.html
 image:
     path: https://raw.githubusercontent.com/CHTC/Articles/main/images/Spencer-Showcase.jpg
     alt: Image of Chemistry instrument
-description: Kicking off last week’s OSG User School Showcase, Spencer Ericksen, a researcher at the University of Wisconsin-Madison’s Carbone Cancer Center, described how high throughput computing (HTC) has made his work in early-stage drug discovery infinitely more scalable.
-excerpt: Kicking off last week’s OSG User School Showcase, Spencer Ericksen, a researcher at the University of Wisconsin-Madison’s Carbone Cancer Center, described how high throughput computing (HTC) has made his work in early-stage drug discovery infinitely more scalable.
+description: Kicking off the OSG User School Showcase, Spencer Ericksen, a researcher at the University of Wisconsin-Madison’s Carbone Cancer Center, described how high throughput computing (HTC) has made his work in early-stage drug discovery infinitely more scalable.
+excerpt: Kicking off the OSG User School Showcase, Spencer Ericksen, a researcher at the University of Wisconsin-Madison’s Carbone Cancer Center, described how high throughput computing (HTC) has made his work in early-stage drug discovery infinitely more scalable.
 publish: true
 card_src: https://raw.githubusercontent.com/CHTC/Articles/main/images/Spencer-Showcase.jpg
 card_alt: Liquid Handler
@@ -25,7 +25,7 @@ publish_on:
 </figure>
 
 
-Kicking off last week’s [OSG User School Showcase](https://path-cc.io/news/2021-08-19-Showcase/), Spencer Ericksen, a researcher at the University of Wisconsin-Madison’s Carbone Cancer Center, described how high throughput computing (HTC) has made his work in early-stage drug discovery infinitely more scalable. Spencer works within the Small Molecule Screening Facility, where he partners with researchers across campus to search for small molecules that might bind to and affect the behavior of proteins they study. By using a computational approach, Spencer can help a researcher inexpensively screen many more candidates than possible through traditional laboratory approaches. With as many as [10<sup>33</sup> possible molecules](https://doi.org/10.1007/s10822-013-9672-4), the best binders from computational ‘docking’ might even be investigated as potential drug candidates.
+Kicking off the [OSG User School Showcase](https://path-cc.io/news/2021-08-19-Showcase/), Spencer Ericksen, a researcher at the University of Wisconsin-Madison’s Carbone Cancer Center, described how high throughput computing (HTC) has made his work in early-stage drug discovery infinitely more scalable. Spencer works within the Small Molecule Screening Facility, where he partners with researchers across campus to search for small molecules that might bind to and affect the behavior of proteins they study. By using a computational approach, Spencer can help a researcher inexpensively screen many more candidates than possible through traditional laboratory approaches. With as many as [10<sup>33</sup> possible molecules](https://doi.org/10.1007/s10822-013-9672-4), the best binders from computational ‘docking’ might even be investigated as potential drug candidates.
 
 With traditional laboratory approaches, researchers might test just 100,000 individual compounds using liquid handlers like the one pictured above. However, this approach is expensive, imposing limits both on the number of molecules tested and the number of researchers able to pursue potential binders of the proteins they study.
 
