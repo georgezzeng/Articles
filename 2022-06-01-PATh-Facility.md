@@ -32,8 +32,8 @@ card_alt: PATh Facility hardware
 
 A partnership between the [OSG Consortium](https://osg-htc.org/) and the University of Wisconsin-Madison’s [Center for High Throughput Computing](https://chtc.cs.wisc.edu/) (CHTC), [PATh](https://path-cc.io/) has provided distributed high-throughput computing services and technologies since its inception in 2020. With the launch of the new PATh Facility, the project will soon begin providing the partnership’s first dedicated High Throughput Computing (HTC) resources directly to researchers with NSF-funded research projects. This milestone opens the door to longer runtimes, larger jobs, and greater customization for researchers.
 
-<figure>
-  <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/PATh-Facility-Map.jpg" alt="Map of PATh Facility sites"/>
+<figure class="figure float-end" style="margin-left: 1em">
+  <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/PATh-Facility-Map.jpg" class="figure-img img-fluid rounded" alt="Map of PATh Facility sites" width="500px"/>
   <figcaption class="figure-caption">The sites that make up the PATh Facility<br/></figcaption>
 </figure>
 
