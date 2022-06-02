@@ -1,8 +1,8 @@
 ---
 title: "Astronomy archives are creating new science every day"
-canonical_url: https://chtc.github.io/Articles/images/groom-title.jpg
+canonical_url: https://raw.githubusercontent.com/CHTC/Articles/main/images/groom-title.jpg
 image:
-    path: https://chtc.github.io/Articles/images/groom-title.jpg
+    path: https://raw.githubusercontent.com/CHTC/Articles/main/images/groom-title.jpg
     alt: Trappist Solar System
 description: |
     The TRAPPIST-1 system contains a total of seven planets, all around the size of Earth.
@@ -17,7 +17,7 @@ excerpt: |
     where astronomers have calculated that temperatures are just right — not too hot, not too
     cold — for liquid water to pool on the surface of an Earth-like world.
 categories: Astronomy
-card_src: https://chtc.github.io/Articles/images/groom-title.jpg
+card_src: https://raw.githubusercontent.com/CHTC/Articles/main/images/groom-title.jpg
 card_alt: Trappist Solar System
 publish_on:
     - osg
@@ -40,7 +40,7 @@ Steve Groom serves as task manager for the NASA/IPAC Infrared Science Archive (I
         </p>
     </div>
     <div class="col-md-6">
-        <img class="img-fluid" alt="TRAPPIST-1 system" src="https://chtc.github.io/Articles/images/groom-title.jpg">
+        <img class="img-fluid" alt="TRAPPIST-1 system" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/groom-title.jpg">
     </div>
 </div>
 
@@ -48,7 +48,7 @@ Steve Groom serves as task manager for the NASA/IPAC Infrared Science Archive (I
 
 <div class="row my-5">
     <div class="col-md-6">
-        <img class="w-100 img-fluid" alt="The Spitzer Space Telescope CTA" src="https://chtc.github.io/Articles/images/groom-2.jpg">
+        <img class="w-100 img-fluid" alt="The Spitzer Space Telescope CTA" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/groom-2.jpg">
     </div>
     <div class="col-md-6">
         <p>

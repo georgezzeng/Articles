@@ -2,14 +2,14 @@
 title: "Using HTC for a simulation study on cross-validation for model evaluation in psychological science"
 canonical_url: https://osg-htc.org/spotlights/Hannah-Showcase.html
 image:
-    path: https://chtc.github.io/Articles/images/Hannah-Showcase.jpg
+    path: https://raw.githubusercontent.com/CHTC/Articles/main/images/Hannah-Showcase.jpg
     alt: Brain Model
 description: During the OSG School Showcase, Hannah Moshontz, a postdoctoral fellow at UW-Madison’s Department of Psychology, described her experience of using high throughput computing (HTC) for the very first time, when taking on an entirely new project within the field of psychology.
 excerpt: During the OSG School Showcase, Hannah Moshontz, a postdoctoral fellow at UW-Madison’s Department of Psychology, described her experience of using high throughput computing (HTC) for the very first time, when taking on an entirely new project within the field of psychology.
 publish: true
-card_src: https://chtc.github.io/Articles/images/Hannah-Showcase.jpg
+card_src: https://raw.githubusercontent.com/CHTC/Articles/main/images/Hannah-Showcase.jpg
 card_alt: Brain Model
-banner_src: https://chtc.github.io/Articles/images/Hannah-Showcase-Banner.jpg
+banner_src: https://raw.githubusercontent.com/CHTC/Articles/main/images/Hannah-Showcase-Banner.jpg
 banner_alt: Brain Model
 author: Josephine Watkins
 publish_on:
@@ -21,7 +21,7 @@ publish_on:
 
 
 <figure>
-  <img src="https://chtc.github.io/Articles/images/Hannah-Showcase.jpg" alt="Brain Model"/>
+  <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/Hannah-Showcase.jpg" alt="Brain Model"/>
   <figcaption class="figure-caption">Image by Robina Weermeijer on Unsplash<br/></figcaption>
 </figure>
 

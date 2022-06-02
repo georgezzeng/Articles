@@ -3,7 +3,7 @@ title: "SDSC and IceCube Center Conduct GPU Cloudburst Experiment"
 author: Jan Zverina jzverina@sdsc.edu
 canonical_url: https://osg-htc.org/spotlights/gpu-cloudburst.html
 image:
-    path: https://chtc.github.io/Articles/images/byregion.png
+    path: https://raw.githubusercontent.com/CHTC/Articles/main/images/byregion.png
     alt: Number of cloud instances over time
 description:  >
     The San Diego Supercomputer Center (SDSC) and the
@@ -21,7 +21,7 @@ excerpt: >
     globally available for sale GPUs (graphics processing units) across
     Amazon Web Services, Microsoft Azure, and the Google Cloud
     Platform.
-card_src: https://chtc.github.io/Articles/images/byregion.png
+card_src: https://raw.githubusercontent.com/CHTC/Articles/main/images/byregion.png
 card_alt: Number of cloud instances over time
 publish_on:
     - osg
@@ -63,10 +63,10 @@ Earth from some of the most extreme environments in the universe.
 <div class="container">
     <div class="row">
         <div class="col-md">
-            <img src="https://chtc.github.io/Articles/images/numgpus.png" class="img-fluid figure-img">
+            <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/numgpus.png" class="img-fluid figure-img">
         </div>
         <div class="col-md">
-            <img src="https://chtc.github.io/Articles/images/gpupflops.png" class="img-fluid figure-img">
+            <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/gpupflops.png" class="img-fluid figure-img">
         </div>
     </div>
 </div>
@@ -190,7 +190,7 @@ elasticity is there, we believe that this can be applied across all of
 scientific research to get results quickly.”
 
 <figure class="figure float-left">
-<img src="https://chtc.github.io/Articles/images/byregion.png" class="img-fluid figure-img" width="525">
+<img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/byregion.png" class="img-fluid figure-img" width="525">
 <figcaption class="figure-caption">Regions used in the GPU experiment across AWS, GCP, and Azure</figcaption>
 </figure>
 

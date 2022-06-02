@@ -62,16 +62,16 @@ publish_on:
 canonical_url: <This is a absolute url that points to the canonical site>
 
 image:
-  path: <https://chtc.github.io/Articles/images/...> - An image that will populate the link preview
+  path: <https://raw.githubusercontent.com/CHTC/Articles/main/images/...> - An image that will populate the link preview
   alt: Text Description of image
   
 description: <This is used as a link description when this article is linked>
 excerpt: <Same as description but used for the cards>
 
-card_src: <https://chtc.github.io/Articles/images/...> - An image that will be used in the article cards
+card_src: <https://raw.githubusercontent.com/CHTC/Articles/main/images/...> - An image that will be used in the article cards
 card_alt: Text Description of image
 
-banner_src: <https://chtc.github.io/Articles/images/> - Optional - An image that will be used as a website banner
+banner_src: <https://raw.githubusercontent.com/CHTC/Articles/main/images/> - Optional - An image that will be used as a website banner
 banner_alt: Text Description of image
 ---
 ```
@@ -94,7 +94,7 @@ At this point it can be merged into main.
 
 - All images must be absolute
     - As these images will be served from a variety of folders and depths you must use an absolute url 
-    - Absolute URL to use: `https://chtc.github.io/Articles/images/`
+    - Absolute URL to use: `https://raw.githubusercontent.com/CHTC/Articles/main/images/`
     - You should put all of your articles in the main folder and import from there even in the dev branch
   
 ## Previewing your Article

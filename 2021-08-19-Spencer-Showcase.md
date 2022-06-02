@@ -2,14 +2,14 @@
 title: "Scaling virtual screening to ultra-large virtual chemical libraries" 
 canonical_url: https://osg-htc.org/spotlights/Spencer-Showcase.html
 image:
-    path: https://chtc.github.io/Articles/images/Spencer-Showcase.jpg
+    path: https://raw.githubusercontent.com/CHTC/Articles/main/images/Spencer-Showcase.jpg
     alt: Image of Chemistry instrument
 description: Kicking off the OSG User School Showcase, Spencer Ericksen, a researcher at the University of Wisconsin-Madison’s Carbone Cancer Center, described how high throughput computing (HTC) has made his work in early-stage drug discovery infinitely more scalable.
 excerpt: Kicking off the OSG User School Showcase, Spencer Ericksen, a researcher at the University of Wisconsin-Madison’s Carbone Cancer Center, described how high throughput computing (HTC) has made his work in early-stage drug discovery infinitely more scalable.
 publish: true
-card_src: https://chtc.github.io/Articles/images/Spencer-Showcase.jpg
+card_src: https://raw.githubusercontent.com/CHTC/Articles/main/images/Spencer-Showcase.jpg
 card_alt: Liquid Handler
-banner_src: https://chtc.github.io/Articles/images/Spencer-Showcase-Banner.jpg
+banner_src: https://raw.githubusercontent.com/CHTC/Articles/main/images/Spencer-Showcase-Banner.jpg
 banner_alt: Liquid Handler
 author: Josephine Watkins
 publish_on:
@@ -20,7 +20,7 @@ publish_on:
 
 
 <figure>
-  <img src="https://chtc.github.io/Articles/images/Spencer-Showcase.jpg" alt="Liquid Handler"/>
+  <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/Spencer-Showcase.jpg" alt="Liquid Handler"/>
   <figcaption class="figure-caption">Image by the National Cancer Institute on Unsplash<br/></figcaption>
 </figure>
 

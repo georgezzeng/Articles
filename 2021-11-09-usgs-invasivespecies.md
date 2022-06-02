@@ -2,13 +2,13 @@
 title: "Protecting ecosystems with HTC" 
 canonical_url: https://chtc.cs.wisc.edu/usgs-invasivespecies.html
 image:
-    path: https://chtc.github.io/Articles/images/USGS-collage.jpg
+    path: https://raw.githubusercontent.com/CHTC/Articles/main/images/USGS-collage.jpg
     alt: Satellite image collage graphic
 description: Researchers at the USGS are using HTC to pinpoint potential invasive species for the United States.
 excerpt: Researchers at the USGS are using HTC to pinpoint potential invasive species for the United States.
-card_src: https://chtc.github.io/Articles/images/USGS-collage.jpg
+card_src: https://raw.githubusercontent.com/CHTC/Articles/main/images/USGS-collage.jpg
 card_alt: Satellite image collage graphic
-banner_src: https://chtc.github.io/Articles/images/USGS-collage.jpg
+banner_src: https://raw.githubusercontent.com/CHTC/Articles/main/images/USGS-collage.jpg
 banner_alt: Satellite image collage graphic
 author: Josephine Watkins
 publish_on:
@@ -21,7 +21,7 @@ publish_on:
 
 
 <figure>
-  <img src="https://chtc.github.io/Articles/images/USGS-collage.jpg" alt="Satellite image collage graphic"/>
+  <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/USGS-collage.jpg" alt="Satellite image collage graphic"/>
   <figcaption class="figure-caption">From left to right: Mississippi River Delta, Colorado Rocky Mountains, Kansas’s Milford Lake. Images by <a href="https://unsplash.com/@usgs">USGS on Unsplash.</a><br/></figcaption>
 </figure>
 
