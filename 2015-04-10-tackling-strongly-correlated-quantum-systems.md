@@ -2,7 +2,7 @@
 title: "Tackling Strongly Correlated Quantum Systems on OSPool"
 canonical_url: Illustration of a fermion bag configuration.
 image:
-    path: https://raw.githubusercontent.com/CHTC/Articles/main/images/Fermion-Bag-300x300.jpg
+    path: https://chtc.github.io/Articles/images/Fermion-Bag-300x300.jpg
     alt: Illustration of a fermion bag configuration.
 description: |
     Duke University Associate Professor of Physics Shailesh Chandrasekharan and his graduate student Venkitesh Ayyar are
@@ -10,7 +10,7 @@ description: |
 excerpt: |
     Duke University Associate Professor of Physics Shailesh Chandrasekharan and his graduate student Venkitesh Ayyar are
     using the OSpool to tackle notoriously difficult problems in quantum systems.
-card_src: https://raw.githubusercontent.com/CHTC/Articles/main/images/Fermion-Bag-300x300.jpg
+card_src: https://chtc.github.io/Articles/images/Fermion-Bag-300x300.jpg
 card_alt: Illustration of a fermion bag configuration.
 publish_on:
     - osg
@@ -22,13 +22,13 @@ using the OSpool to tackle notoriously difficult problems in quantum systems.
 <div class="row my-5">
   <div class="col-sm-6">
     <figure class="headshot">
-      <img class="w-75" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/Shailesh-Chandrasekharan-150x150.jpg"/>
+      <img class="w-75" src="https://chtc.github.io/Articles/images/Shailesh-Chandrasekharan-150x150.jpg"/>
       <figcaption>Shailesh Chandrasekharan, courtesy photo</figcaption>
     </figure>
   </div>
   <div class="col-sm-6">
     <figure class="headshot">
-      <img class="w-75" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/Venkitesh-150x150.jpg"/>
+      <img class="w-75" src="https://chtc.github.io/Articles/images/Venkitesh-150x150.jpg"/>
       <br/>
       <figcaption>Venkitesh Ayyar, courtesy photo</figcaption>
     </figure>
@@ -74,7 +74,7 @@ In order to understand a new mechanism for the origin of mass in the universe, A
 study an interacting theory of fermions using the fermion bag approach.
 
 <figure class="my-4">
-  <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/Fermion-Bag-300x300.jpg" width="300" height="300" />
+  <img src="https://chtc.github.io/Articles/images/Fermion-Bag-300x300.jpg" width="300" height="300" />
   <figcaption>Illustration of a fermion bag configuration. Image credit: Shailesh Chandrasekharan</figcaption>
 </figure>
 

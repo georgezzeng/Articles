@@ -2,7 +2,7 @@
 title: Des Expanding Universe
 canonical_url: https://osg-htc.org/spotlights/des-expanding-universe.html
 image:
-    path: https://raw.githubusercontent.com/CHTC/Articles/main/images/Dark-Matter-Map-II-e1521045294690.jpg
+    path: https://chtc.github.io/Articles/images/Dark-Matter-Map-II-e1521045294690.jpg
     alt: Dark Matter Map Graph
 description: |
     DES looks to the Open Science Pool to provide a portion of their computing power.
@@ -13,7 +13,7 @@ excerpt:  |
     Over the last year, DES has gained roughly 4.58 million hours (522 years) of computing
     from OSG.
 publish: true
-card_src: https://raw.githubusercontent.com/CHTC/Articles/main/images/Dark-Matter-Map-II-e1521045294690.jpg
+card_src: https://chtc.github.io/Articles/images/Dark-Matter-Map-II-e1521045294690.jpg
 card_alt: Dark Matter Map Graph
 publish_on:
     - osg
@@ -54,7 +54,7 @@ analysis.
     </p>
   </div>
   <div class="col-md-6">
-    <img class="mr-3" alt="Dark matter map" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/Dark-Matter-Map-II-e1521045294690.jpg">
+    <img class="mr-3" alt="Dark matter map" src="https://chtc.github.io/Articles/images/Dark-Matter-Map-II-e1521045294690.jpg">
   </div>
 </div>
 

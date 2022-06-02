@@ -12,13 +12,13 @@ publish_on:
 canonical_url: https://osg-htc.org/spotlights/PATh-Facility.html
 
 image:
-  path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/PATh-Facility-Hardware.jpg"
+  path: "https://chtc.github.io/Articles/images/PATh-Facility-Hardware.jpg"
   alt: PATh Facility hardware
   
 description: Researchers can now request credits on the PATh Facility, the PATh project’s new resource intended for distributed high throughput computing workflows supporting NSF science.
 excerpt: Researchers can now request credits on the PATh Facility, the PATh project’s new resource intended for distributed high throughput computing workflows supporting NSF science.
 
-card_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/PATh-Facility-Hardware.jpg"
+card_src: "https://chtc.github.io/Articles/images/PATh-Facility-Hardware.jpg"
 card_alt: PATh Facility hardware
 
 ---
@@ -26,14 +26,14 @@ card_alt: PATh Facility hardware
 *Researchers can now request credits on the PATh Facility, the PATh Project’s new resource intended for distributed high throughput computing workflows supporting open science.*
   
 <figure>
-  <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/PATh-Facility-Hardware.jpg" alt="Worker nodes"/>
+  <img src="https://chtc.github.io/Articles/images/PATh-Facility-Hardware.jpg" alt="Worker nodes"/>
   <figcaption class="figure-caption">PATh facility worker nodes destined for Syracuse University Research Computing<br/></figcaption>
 </figure>
 
 A partnership between the [OSG Consortium](https://osg-htc.org/) and the University of Wisconsin-Madison’s [Center for High Throughput Computing](https://chtc.cs.wisc.edu/) (CHTC), [PATh](https://path-cc.io/) has provided distributed high-throughput computing services and technologies since its inception in 2020. With the launch of the new PATh Facility, the project will soon begin providing the partnership’s first dedicated High Throughput Computing (HTC) resources directly to researchers with NSF-funded research projects. This milestone opens the door to longer runtimes, larger jobs, and greater customization for researchers.
 
 <figure class="figure float-end" style="margin-left: 1em">
-  <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/PATh-Facility-Map.jpg" class="figure-img img-fluid rounded" alt="Map of PATh Facility sites" width="500px"/>
+  <img src="https://chtc.github.io/Articles/images/PATh-Facility-Map.jpg" class="figure-img img-fluid rounded" alt="Map of PATh Facility sites" width="500px"/>
   <figcaption class="figure-caption">The sites that make up the PATh Facility<br/></figcaption>
 </figure>
 
