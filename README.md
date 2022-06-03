@@ -58,6 +58,9 @@ author: <First Last>
 publish_on:
   - <htcondor, path, osg, chtc> - This indicates what website this article will be shown on
   - <htcondor, path, osg, chtc> - If more then one then add as a list
+  
+type:
+  - <news, user> - This indicates if this article is based on a user's experience with our services or a news story about what we have done. 
 
 canonical_url: <This is a absolute url that points to the canonical site>
 
