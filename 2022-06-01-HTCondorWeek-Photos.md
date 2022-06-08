@@ -115,4 +115,4 @@ Miron Livny expresses closing remarks as the week comes to a close. Thank you to
 
 ...
 
-*Watch all HTCondor Week 2022 [video recordings](https://www.youtube.com/channel/UCd1UBXmZIgB4p85t2tu-gLw/playlists?view=50&sort=dd&shelf_id=1) on YouTube, browse [presentation slides](https://agenda.hep.wisc.edu/event/1733/timetable/?view=standard) on the event website, and access [all materials from past meetings](https://htcondor.org/past_condor_weeks.html) on our website.*
+*Watch all of the [HTCondor Week 2022 video recordings and browse the presentation slides](https://agenda.hep.wisc.edu/event/1733/timetable/?view=standard) on the HTCondor website material's page, and access [all materials from past meetings](https://htcondor.org/past_condor_weeks.html) on our website.*
