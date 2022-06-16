@@ -20,6 +20,8 @@ excerpt: HTCondor Week 2022 featured over 40 exciting talks, tutorials, and rese
 card_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/HTCondorWeek2022-Collage.jpg"
 card_alt: "Collage of photos from HTCondor Week"
 
+type: news
+
 ---
 
 <figure>
