@@ -21,6 +21,7 @@ excerpt: Researchers can now request credits on the PATh Facility, the PATh proj
 card_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/PATh-Facility-Hardware.jpg"
 card_alt: PATh Facility hardware
 
+type: news
 ---
 
 *Researchers can now request credits on the PATh Facility, the PATh project’s new service intended for distributed high throughput computing workflows supporting NSF science.*
