@@ -5,6 +5,10 @@ published: false
 # Articles
 This repository contains all articles published on CHTC, PATh, and HTCSS websites. It seperates them out so we can deploy the same article more easily and reduce build times well creating articles. You can preview the articles here -> [Article Previews]([preview website](https://chtc.github.io/article-preview/)).
 
+## Video Guide
+
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/UBehPFGi5Hk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Guide
 - [Creating a new Article](#creating-a-new-article)
 - [Previewing your Article](#previewing-your-article)
