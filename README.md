@@ -7,7 +7,7 @@ This repository contains all articles published on CHTC, PATh, and HTCSS website
 
 ## Video Guide
 
-https://www.youtube-nocookie.com/embed/UBehPFGi5Hk
+https://www.youtube.com/watch?v=UBehPFGi5Hk
 
 ### Guide
 - [Creating a new Article](#creating-a-new-article)
