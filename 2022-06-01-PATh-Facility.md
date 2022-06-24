@@ -58,7 +58,7 @@ Marking a monumental moment for the PATh Project, the PATh Facility provides ded
 
 To hear more about the PATh Facility, listen to Brian Bockelman’s talk from the 2022 OSG All-Hands Meeting in March:
 
-<iframe width="896" height="504" src="https://www.youtube.com/embed/47EQu_vCdRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="504" src="https://www.youtube.com/embed/47EQu_vCdRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 … 
 
