@@ -62,4 +62,4 @@ banner_alt: Arrielle C. Opotowsky, a 2021 Ph.D. graduate from the University of 
 
   *Watch a video recording of Arrielle C. Opotowsky’s talk at HTCondor Week 2022, and browse her [slides](https://agenda.hep.wisc.edu/event/1733/contributions/25511/attachments/8299/9577/HTCondorWeek_AOpotowsky.pdf).*
   
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/60lQS9dH0ag" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="100%" height="315" src="https://www.youtube.com/embed/60lQS9dH0ag" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
