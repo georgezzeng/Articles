@@ -10,7 +10,7 @@ publish_on:
   
 type: user
 
-canonical_url: https://osg-htc.org/spotlights/Opotowsky.html
+canonical_url: https://htcondor.org/featured-users/2022-07-06-Opotowsky.html
 
 image:
   path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/Opotowsky-card.jpeg"
