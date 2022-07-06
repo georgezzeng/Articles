@@ -43,7 +43,7 @@ banner_alt: Arrielle C. Opotowsky, a 2021 Ph.D. graduate from the University of 
 
   In trying to learn how she could expedite a nuclear forensics investigation, Opotowsky wanted to see if Gamma Spectroscopy, a “fast measurement”, could be the solution. This measure can potentially point investigators in the right direction, but in days rather than months.
 
-  To test whether this “fast measurement” could expedite a nuclear forensics investigation compared to a “slow measurement,” Opotowsky created a workflow and compared the two measurements.
+  To test whether this “fast measurement” could expedite a nuclear forensics investigation compared to a “slow measurement”, Opotowsky created a workflow and compared the two measurements.
 
   While Opotowsky was a graduate student working on this problem, the workflow she created was running on her personal computer and suddenly stopped working. In a panic, she went to her advisor, [Paul Wilson](https://directory.engr.wisc.edu/ep/faculty/wilson_paul), for help, and he pointed her to the UW-Madison Center for High Throughput Computing (CHTC).
 
