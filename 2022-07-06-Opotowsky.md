@@ -41,7 +41,7 @@ banner_alt: Arrielle C. Opotowsky, a 2021 Ph.D. graduate from the University of 
 
   Opotowsky's work focuses on nuclear forensics. Preventing nuclear terrorism is the primary concern of nuclear security, and nuclear forensics is “the *response* side to a nuclear event occurring,” Opotowsky explains. Typically in a nuclear forensics investigation, specific measurements need to be processed; unfortunately, some of these measurements can take months to process. Opotowsky calls this “slow measure” general mass spectrometry. Although this measurement can help point investigators in the right direction, they wouldn’t be able to do until long after the incident has occurred.
 
-  In trying to learn how she could expedite a nuclear forensics investigation, Opotowsky wanted to see if Gamma Spectroscopy, a “fast measurement,” could be the solution. This measure can potentially point investigators in the right direction, but in days rather than months.
+  In trying to learn how she could expedite a nuclear forensics investigation, Opotowsky wanted to see if Gamma Spectroscopy, a “fast measurement”, could be the solution. This measure can potentially point investigators in the right direction, but in days rather than months.
 
   To test whether this “fast measurement” could expedite a nuclear forensics investigation compared to a “slow measurement,” Opotowsky created a workflow and compared the two measurements.
 
