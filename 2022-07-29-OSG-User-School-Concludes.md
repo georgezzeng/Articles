@@ -1,0 +1,20 @@
+---
+title: "OSPool Hits Record Number of Jobs"
+
+author: Cannon Lock
+
+publish_on:
+- osg
+  canonical_url: https://osg-htc.org/spotlights/OSG-User-School-Concludes.html
+
+description: After a week of participating in the OSG User School 60+ students are being released to use impact research
+    across the globe. In this one week event, students learn to run large-scale computing workloads at their
+    campus or using the national-scale OSPool provided by the OSG Consortium. 
+
+---
+
+<figure>
+  <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/User_School_Collage.jpg" alt="Photo Collage of the User School"/>
+  <figcaption class="figure-caption">Image highlights of the OSG User School provided by Jeff Peterson</figcaption>
+</figure>
+
