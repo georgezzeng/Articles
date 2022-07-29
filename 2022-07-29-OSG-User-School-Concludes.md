@@ -13,7 +13,18 @@ description: After a week of participating in the OSG User School 60+ students a
     across the globe. In this one week event, students learn to run large-scale computing workloads at their
     campus or using the national-scale OSPool provided by the OSG Consortium. 
 
+image:
+    path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/User_School_Collage.jpg"
+    alt: OSG User School 
 
+excerpt: After a week of participating in the OSG User School 60+ students are being released to use impact research
+    across the globe. In this one week event, students learn to run large-scale computing workloads at their
+    campus or using the national-scale OSPool provided by the OSG Consortium.
+
+card_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/User_School_Collage.jpg"
+card_alt: OSG User School Collage
+
+type: news
 
 ---
 
