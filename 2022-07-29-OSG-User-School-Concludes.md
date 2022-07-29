@@ -1,11 +1,13 @@
 ---
 title: "OSPool Hits Record Number of Jobs"
 
-author: Cannon Lock
+author: Hannah Cheren
 
 publish_on:
-- osg
-  canonical_url: https://osg-htc.org/spotlights/OSG-User-School-Concludes.html
+  - osg
+  - path
+
+canonical_url: https://osg-htc.org/spotlights/OSG-User-School-Concludes.html
 
 description: After a week of participating in the OSG User School 60+ students are being released to use impact research
     across the globe. In this one week event, students learn to run large-scale computing workloads at their
