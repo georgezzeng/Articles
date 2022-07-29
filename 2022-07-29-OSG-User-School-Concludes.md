@@ -1,5 +1,5 @@
 ---
-title: "OSPool Hits Record Number of Jobs"
+title: "OSG User School Concludes"
 
 author: Hannah Cheren
 
