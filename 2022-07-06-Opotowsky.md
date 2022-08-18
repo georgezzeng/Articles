@@ -1,5 +1,5 @@
 ---
-title: "Expediting Nuclear Forensics and Security Using High Through Computing"
+title: "Expediting Nuclear Forensics and Security Using High Throughput Computing"
 
 author: Hannah Cheren
 
