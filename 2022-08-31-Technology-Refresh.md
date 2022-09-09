@@ -16,12 +16,12 @@ image:
 
 description: |
     Thanks to the generous support of the Office of the Vice Chancellor for Research and Graduate 
-    Education with funding from the Wisconsin Alumni Research Foundation, we have been able 
+    Education with funding from the Wisconsin Alumni Research Foundation, CHTC has been able 
     to execute a major refresh of hardware.  This provided 207 new servers for our systems, 
     representing over 40,000 batch slots of computing capacity.
 excerpt: |
     Thanks to the generous support of the Office of the Vice Chancellor for Research and Graduate
-    Education with funding from the Wisconsin Alumni Research Foundation, we have been able
+    Education with funding from the Wisconsin Alumni Research Foundation, CHTC has been able
     to execute a major refresh of hardware.  This provided 207 new servers for our systems,
     representing over 40,000 batch slots of computing capacity.
 
@@ -29,7 +29,7 @@ card_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/PATh_Faci
 card_alt: Image of Servers
 ---
 
-Thanks to the generous support of the Office of the Vice Chancellor for Research and Graduate Education with funding from the Wisconsin Alumni Research Foundation, we have been able to execute a major refresh of hardware.  This provided 207 new servers for our systems, representing over 40,000 batch slots of computing capacity. Most of this hardware arrived over the summer and we have started adding them to CHTC systems.
+Thanks to the generous support of the Office of the Vice Chancellor for Research and Graduate Education with funding from the Wisconsin Alumni Research Foundation, CHTC has been able to execute a major refresh of hardware.  This provided 207 new servers for our systems, representing over 40,000 batch slots of computing capacity. Most of this hardware arrived over the summer and we have started adding them to CHTC systems.
 
 Continue reading to learn more about the types of servers we are adding and how to access them.
 
@@ -37,7 +37,7 @@ Continue reading to learn more about the types of servers we are adding and how 
 
 On the HTC system, we are adding 167 servers of new capacity, representing 36,352 job slots and 40 high-end GPU cards.
 
-The new servers will be running CentOS Linux 8 – see our previous email and website page about how to test your jobs and
+The new servers will be running CentOS Linux 8 – CHTC users should see our website page about how to test your jobs and
 take advantage of servers running CentOS Stream 8. Details on user actions needed for this change can be found on the
 [OS transition page](/uw-research-computing/os-transition-htc.html).
 
