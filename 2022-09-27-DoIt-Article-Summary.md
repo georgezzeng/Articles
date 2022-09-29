@@ -41,4 +41,4 @@ card_alt: Image from the original article posted by the UW–⁠Madison Informat
 
 ...
   
-  *Click [here](https://it.wisc.edu/top-story/solving-for-the-future-investment-new-coalition-levels-up-research-computing-infrastructure-at-uw-madison/) to read more.*
+  *Read more [here](https://it.wisc.edu/top-story/solving-for-the-future-investment-new-coalition-levels-up-research-computing-infrastructure-at-uw-madison/).*
