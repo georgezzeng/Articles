@@ -1,5 +1,5 @@
 ---
-title: Summary of "Solving for the future; Investment, new coalition levels up research computing infrastructure at UW–Madison"
+title: "Solving for the future: Investment, new coalition levels up research computing infrastructure at UW–Madison"
 
 
 author: Hannah Cheren
