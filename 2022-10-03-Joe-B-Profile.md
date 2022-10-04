@@ -15,9 +15,9 @@ path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/joes-cat.jpg"
 alt: Picture of Joe's Cat
 
 description: |
-    Staff profile of Joe B. a Systems Administrator at the CHTC.
+    Staff profile of Joe B., a Systems Administrator at the CHTC.
 excerpt: |
-    Staff profile of Joe B. a Systems Administrator at the CHTC.
+    Staff profile of Joe B., a Systems Administrator at the CHTC.
 
 card_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/joes-cat.jpg"
 card_alt: Picture of Joe's Cat
