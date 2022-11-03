@@ -1,7 +1,7 @@
 ---
 title: PATh Extends Access to Diverse Set of High Throughout Computing Research Programs
 
-author: Cannon Lock
+author: SDSC External Relations
 
 publish_on:
 - path
