@@ -1,7 +1,7 @@
 ---
 title: PATh Extends Access to Diverse Set of High Throughout Computing Research Programs
 
-author: SDSC External Relations
+author: Cynthia Dillon
 
 publish_on:
 - path
