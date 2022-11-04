@@ -1,10 +1,11 @@
 ---
 title: PATh Extends Access to Diverse Set of High Throughout Computing Research Programs
 
-author: Cynthia Dillon
+author: 
 
 publish_on:
 - path
+- osg
 
 type: news
 
