@@ -6,10 +6,12 @@ author:
 publish_on:
 - path
 - osg
+- htcondor
+- chtc
 
 type: news
 
-canonical_url: "https://path-cc.io/news/2022-11-03-ucsd-external-release"
+canonical_url: "https://osg-htc.org/news/2022/11/04/path-extends-access.html"
 
 image:
     path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/ucsd-public-relations.png"
