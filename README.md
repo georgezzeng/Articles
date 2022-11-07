@@ -82,6 +82,15 @@ banner_alt: Text Description of image
 ---
 ```
 
+##### Canonical URL
+
+You can use the below list to decide the correct canonical URL, fill in the appropriate tags as suggested above for naming the file. 
+
+- CHTC: https://chtc.cs.wisc.edu/<title>.html
+- OSG: https://osg-htc.org/spotlights/<title>.html
+- PATh: https://path-cc.io/news/<YEAR-MONTH-DAY-title>/
+- HTCondor: https://htcondor.org/featured-users/<YEAR-MONTH-DAY-title>.html
+
 ### Create a Pull-Request to merge the article into production
 
 When you are confident with your content you can create a Pull-Request,
