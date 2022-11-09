@@ -60,6 +60,6 @@ these users with substantial usage:
 - [DairyScience_Dorea](https://andysci.wisc.edu/directory/joao-ricardo-reboucas-dorea/): Joao Dorea’s Animal and Dairy Science group focuses on the development of high-throughput phenotyping technologies.
 
 Any UW student or researcher who wants to utilize high throughput of computing resources 
-towards a given problem can harness the capacity of CHTC Pool. 
+towards a given problem can harness the capacity of the CHTC Pool. 
 
 [Users can sign up here](https://chtc.cs.wisc.edu/uw-research-computing/get-started.html)
