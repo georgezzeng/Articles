@@ -1,5 +1,5 @@
 ---
-title: CHTCPool Hits Record Number of Core Hours
+title: CHTC Pool Hits Record Number of Core Hours
 
 author: Shirley Obih
 
