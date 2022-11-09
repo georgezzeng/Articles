@@ -16,8 +16,8 @@ image:
   path: https://raw.githubusercontent.com/CHTC/Articles/main/images/Pool-Record-Image.jpg
   alt: Pool Record Banner
   
-description: CHTC smashes record 
-excerpt: CHTC smashes record
+description: CHTC users recorded the most ever usage in the CHTC Pool on October 18th this year - utilizing over 700,000 core hours - only to have that record broken again a mere two days later on Oct 20th, with a total of 710,796 core hours reached.
+excerpt: CHTC users recorded the most ever usage in the CHTC Pool on October 18th this year - utilizing over 700,000 core hours - only to have that record broken again a mere two days later on Oct 20th, with a total of 710,796 core hours reached.
 
 card_src: https://raw.githubusercontent.com/CHTC/Articles/main/images/Pool-Record-Image.jpg
 card_alt: Pool Record Banner
