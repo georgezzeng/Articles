@@ -50,7 +50,7 @@ Finally, the hard work of the researchers themselves is another linchpin to thes
 Over 80 users that span many fields of science contributed to this success, including 
 these users with substantial usage:
 
-- [Ice Cube Neutrino Observatory](https://icecube.wisc.edu): an observatory operated by University of Madison, designed to observe the cosmos from deep within the South Pole ice.
+- [Ice Cube Neutrino Observatory](https://icecube.wisc.edu): an observatory operated by University of Wiconsin-Madison, designed to observe the cosmos from deep within the South Pole ice.
 - [ECE_miguel](https://www.ece.uw.edu/people/miguel-a-ortega-vazquez/): In the Department of Electrical and Computer Engineering, Joshua San Miguel’s group explores new paradigms in computer architecture. 
 - [MSE_Szlufarska](https://directory.engr.wisc.edu/mse/Faculty/Szlufarska_Izabela/): Isabel Szlufarska’s lab focuses on computational materials science, mechanical behavior at the nanoscale using atomic scale modeling to understand and design new materials.
 - [Genetics_Payseur](https://payseur.genetics.wisc.edu): Genetics professor Bret Payseur’s lab uses genetics and genomics to understand mechanisms of evolution.
