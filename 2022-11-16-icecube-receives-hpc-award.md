@@ -14,7 +14,7 @@ type: news
 canonical_url: https://cdis.wisc.edu/uw-madisons-icecube-neutrino-observatory-wins-hpcwire-award/
 
 image:
-    path: https://raw.githubusercontent.com/CHTC/Articles/main/images/Icecube_Wins_Award.png - An image that will populate the link preview
+    path: https://raw.githubusercontent.com/CHTC/Articles/main/images/Icecube_Wins_Award.png
     alt: HPCwire 2022 Readers' Choice Awards - Best use of HPC in the Cloud ( Use Case )
 
 description: The UW-Madison Center for High Throughput Computing’s (CHTC) collaboration with the San Diego Supercomputer Center on the IceCube Neutrino Observatory received recognition with the HPCwire 2022 Readers’ Choice Award for Best Use of High Performance Computing (HPC) in the Cloud (Use Case).
