@@ -1,5 +1,6 @@
 ---
-title: CHTC Pool Hits Record Number of Core Hours
+title: Over 240,000 CHTC Jobs Hit Record Daily Capacity Consumption
+
 
 author: Shirley Obih
 
@@ -16,8 +17,8 @@ image:
   path: https://raw.githubusercontent.com/CHTC/Articles/main/images/Pool-Record-Image.jpg
   alt: Pool Record Banner
   
-description: CHTC users recorded the most ever usage in the CHTC Pool on October 18th this year - utilizing over 700,000 core hours - only to have that record broken again a mere two days later on Oct 20th, with a total of 710,796 core hours reached.
-excerpt: CHTC users recorded the most ever usage in the CHTC Pool on October 18th this year - utilizing over 700,000 core hours - only to have that record broken again a mere two days later on Oct 20th, with a total of 710,796 core hours reached.
+description: The Center for High Throughput (CHTC) users continue to be hard at work smashing records with high throughput computational workloads. On October 20th, more than 240,000 jobs completed that day, reporting a total consumption of more than 710,000 core hours. This is equivalent to the capacity of 30,000 cores running non-stop for 24 hours. 
+
 
 card_src: https://raw.githubusercontent.com/CHTC/Articles/main/images/Pool-Record-Image.jpg
 card_alt: Pool Record Banner
@@ -25,14 +26,8 @@ card_alt: Pool Record Banner
 banner_src: https://raw.githubusercontent.com/CHTC/Articles/main/images/Pool-Record-Image.jpg
 banner_alt: Pool Record Banner
 ---
-  
-CHTC users recorded the most ever usage in the CHTC Pool on October 18th this year - utilizing 
-over 700,000 core hours -  only to have that record broken again a mere two days later on Oct 20th, 
-with a total of 710,796 core hours reached.
-
-The Center for High Throughput (CHTC) users are hard at work smashing records with two almost consecutive record numbers of core hour usage. 
-October 20th was the highest daily core hour in the CHTC Pool with 710,796 hours utilized, a feat attained 
-just two days after the October 18th record break of 705,801 core hours. 
+The Center for High Throughput (CHTC) users continue to be hard at work smashing records with high throughput computational workloads. On October 20th, more than 240,000 jobs completed that day, reporting a total consumption of more than 710,000 core hours. This is equivalent to the capacity of 30,000 cores running non-stop for 24 hours. 
+ 
 
 What is contributing to these records? One factor likely is UW’s investment in new hardware. 
 UW-Madison’s research computing hardware recently underwent a [substantial hardware refresh](https://chtc.cs.wisc.edu/DoIt-Article-Summary.html), 
