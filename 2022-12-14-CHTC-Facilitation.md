@@ -15,7 +15,7 @@ canonical_url: "https://chtc.cs.wisc.edu/chtc-facilitation.html"
 
 image:
     path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/Facilitation-cover.jpeg"
-    alt: Research Computing Facilitator Christina Koch with a researcher.
+    alt: Research Computing Facilitators Christina Koch (left) and Rachel Lombardi (right).
 
 description: |
     After adding Research Computing Facilitators in 2013-2014, CHTC has expanded its reach to support researchers in all disciplines interested in using large-scale computing to support their research through the shared computing capacity offered by the CHTC.
@@ -23,7 +23,7 @@ excerpt: |
     After adding Research Computing Facilitators in 2013-2014, CHTC has expanded its reach to support researchers in all disciplines interested in using large-scale computing to support their research through the shared computing capacity offered by the CHTC.
 
 card_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/Facilitation-cover.jpeg"
-card_alt: Research Computing Facilitator Christina Koch with a researcher.
+card_alt: Research Computing Facilitators Christina Koch (left) and Rachel Lombardi (right).
 ---
   ***After adding Research Computing Facilitators in 2013-2014, CHTC has expanded its reach to support researchers in all disciplines interested in using large-scale computing to support their research through the shared computing capacity offered by the CHTC.***
 
