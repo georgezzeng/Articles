@@ -151,5 +151,5 @@ Process:
 
 3. Double check nothing is rendering weird in preview
   - Good idea for new articles, can be skipped if you are confident in the change
-  - Get a review
+  - Get a review ( Feel free to request CannonLock )
 4. Merge Pull Request
