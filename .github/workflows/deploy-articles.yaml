@@ -1,0 +1,16 @@
+name: Dispatch Submodule Update
+on:
+  push:
+    branches: [main]
+
+jobs:
+  Trigger-New-Documentation-Release:
+    runs-on: ubuntu-latest
+    if: startsWith(github.repository, 'chtc/')
+    steps:
+      - name: Trigger Documentation Release
+        run: |
+          curl -X POST -H "Accept: application/vnd.github+json" -H "Authorization: Bearer ${{ secrets.CHTC_TOKEN }}" https://api.github.com/repos/CHTC/chtc-website-source/actions/workflows/update-submodules.yaml/dispatches -d '{"ref":"master"}'
+          curl -X POST -H "Accept: application/vnd.github+json" -H "Authorization: Bearer ${{ secrets.OSG_TOKEN }}" https://api.github.com/repos/osg-htc/osg-htc.github.io/actions/workflows/update-submodules.yaml/dispatches -d '{"ref":"master"}'
+          curl -X POST -H "Accept: application/vnd.github+json" -H "Authorization: Bearer ${{ secrets.HTCONDOR_TOKEN }}" https://api.github.com/repos/htcondor/htcondor-web/actions/workflows/update-submodules.yaml/dispatches -d '{"ref":"master"}'
+          curl -X POST -H "Accept: application/vnd.github+json" -H "Authorization: Bearer ${{ secrets.PATH_TOKEN }}" https://api.github.com/repos/path-cc/path-cc.github.io/actions/workflows/update-submodules.yaml/dispatches -d '{"ref":"master"}'
