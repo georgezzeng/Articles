@@ -128,6 +128,8 @@ To view your article in development you must:
 - You can see if your change has been made to the website by following the top build [here](https://github.com/CHTC/article-preview/actions/workflows/pages/pages-build-deployment). After this circle is green it will be live on the preview page. 
 
 ## Deploying your Article
+  
+[Video Example Of Process Below]
 
 On push to the main "Articles" repository you there will automatically be preview branches created. It will take **15 minutes** before these changes will result in previewable websites for each of the websites. 
 
