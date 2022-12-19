@@ -88,8 +88,8 @@ You can use the below list to decide the correct canonical URL, fill in the appr
 
 - CHTC: https://chtc.cs.wisc.edu/<title>.html
 - OSG: https://osg-htc.org/spotlights/<title>.html
-- PATh: https://path-cc.io/news/<YEAR-MONTH-DAY-title>/
-- HTCondor: https://htcondor.org/featured-users/<YEAR-MONTH-DAY-title>.html
+- PATh: https://path-cc.io/news/<YEAR-MONTH-DAY-title\>/
+- HTCondor: https://htcondor.org/featured-users/<YEAR-MONTH-DAY-title\>.html
 
 ### Create a Pull-Request to merge the article into production
 
@@ -129,39 +129,16 @@ To view your article in development you must:
 
 ## Deploying your Article
 
-These articles get deployed across 4 websites based on what you have put in your 'publish_on' list.
+On push to the main "Articles" repository you there will automatically be preview branches created. It will take **15 minutes** before these changes will result in previewable websites for each of the websites. 
 
-- [CHTC](https://github.com/CHTC/chtc-website-source)
-- [OSG](https://github.com/osg-htc/osg-htc.github.io)
-- [PATh](https://github.com/path-cc/path-cc.github.io)
-- [HTCondor](https://github.com/htcondor/htcondor-web)
-
-After your Pull Request has been merged into the 'main' branch on this repo you must deploy it to the other sites. 
-
-The steps to do this are:
- 
-1. Go to the site and run the 'Update Submodules' workflow. We use this to pull your changes into the new repo and create a new branch called 'preview-update-submodules'. You then will have to manually trigger a preview page build using another action
-
-- [CHTC Submodule Workflow](https://github.com/CHTC/chtc-website-source/actions/workflows/update-submodules.yml)
-- [OSG Submodule Workflow](https://github.com/osg-htc/osg-htc.github.io/actions/workflows/update-submodules.yml)
-- [PATh Submodule Workflow](https://github.com/path-cc/path-cc.github.io/actions/workflows/update-submodules.yml)
-- [HTCondor Submodule Workflow](https://github.com/htcondor/htcondor-web/actions/workflows/update-submodules.yml)
-
-- [CHTC Preview Workflow](https://github.com/CHTC/chtc-website-source/actions/workflows/deploy-preview.yml)
-- [OSG Preview Workflow](https://github.com/osg-htc/osg-htc.github.io/actions/workflows/deploy-preview.yml)
-- [PATh Preview Workflow](https://github.com/path-cc/path-cc.github.io/actions/workflows/deploy-preview.yml)
-- [HTCondor Preview Workflow](https://github.com/htcondor/htcondor-web/actions/workflows/deploy-preview.yml)
- 
-![Run the Update Submodules Workflow](/images/Submodule_Image.png)
-
-After this has ran you will see a branch called 'preview-update-submodules' and you should create a pull request into master from this branch. 
+After the 15 minutes has passed you should follow the below links and create PRs for your changes in each of the websites. In each of the PRs you should copy and paste the preview url in the list below this one.  
 
 - [CHTC Create PR](https://github.com/CHTC/chtc-website-source/compare/master...preview-update-submodules)
 - [OSG Create PR](https://github.com/osg-htc/osg-htc.github.io/compare/master...preview-update-submodules)
 - [PATh Create PR](https://github.com/path-cc/path-cc.github.io/compare/master...preview-update-submodules)
 - [HTCondor Create PR](https://github.com/htcondor/htcondor-web/compare/master...preview-update-submodules)
 
-You can preview your update on the website preview, ( **Remember this takes a bit** ).
+##### Preview Urls
 
 - [CHTC Submodule Update Preview](https://chtc.github.io/web-preview/preview-update-submodules)
 - [OSG Submodule Update Preview](https://osg-htc.org/web-preview/preview-update-submodules)
@@ -169,5 +146,3 @@ You can preview your update on the website preview, ( **Remember this takes a bi
 - [HTCondor Submodule Update Preview](https://htcondor.com/web-preview/preview-update-submodules)
 
 When you get a review on this page, you can merge into master and your article will be deployed.
-
-**Important**: After you merge delete the 'preview-update-submodules' branch. You **cannot** start this workflow on this site again until it is gone.
