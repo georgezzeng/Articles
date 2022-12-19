@@ -129,22 +129,27 @@ To view your article in development you must:
 
 ## Deploying your Article
   
-[Video Example Of Process Below]
+[Video Example Of Process Below](https://youtu.be/2quR18qo7FQ)
 
-On push to the main "Articles" repository you there will automatically be preview branches created. It will take **15 minutes** before these changes will result in previewable websites for each of the websites. 
-
-After the 15 minutes has passed you should follow the below links and create PRs for your changes in each of the websites. In each of the PRs you should copy and paste the preview url in the list below this one.  
+**Wait 15 minutes after last change to deploy so all previews can be built**
+  
+Process:
+  
+1. Create the PRs on all the websites
 
 - [CHTC Create PR](https://github.com/CHTC/chtc-website-source/compare/master...preview-update-submodules)
 - [OSG Create PR](https://github.com/osg-htc/osg-htc.github.io/compare/master...preview-update-submodules)
 - [PATh Create PR](https://github.com/path-cc/path-cc.github.io/compare/master...preview-update-submodules)
 - [HTCondor Create PR](https://github.com/htcondor/htcondor-web/compare/master...preview-update-submodules)
 
-##### Preview Urls
+2. Copy and Paste in the Preview links
 
 - [CHTC Submodule Update Preview](https://chtc.github.io/web-preview/preview-update-submodules)
 - [OSG Submodule Update Preview](https://osg-htc.org/web-preview/preview-update-submodules)
 - [PATh Submodule Update Preview](https://path-cc.io/web-preview/preview-update-submodules)
 - [HTCondor Submodule Update Preview](https://htcondor.com/web-preview/preview-update-submodules)
 
-When you get a review on this page, you can merge into master and your article will be deployed.
+3. Double check nothing is rendering weird in preview
+  - Good idea for new articles, can be skipped if you are confident in the change
+  - Get a review
+4. Merge Pull Request
