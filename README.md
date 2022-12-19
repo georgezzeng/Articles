@@ -131,7 +131,7 @@ To view your article in development you must:
   
 [Video Example Of Process Below](https://youtu.be/2quR18qo7FQ)
 
-**Wait 15 minutes after last change to deploy so all previews can be built**
+**If using preview ability wait 15 minutes after last change to make PRs so the preview website can build.**
   
 Process:
   
@@ -142,14 +142,15 @@ Process:
 - [PATh Create PR](https://github.com/path-cc/path-cc.github.io/compare/master...preview-update-submodules)
 - [HTCondor Create PR](https://github.com/htcondor/htcondor-web/compare/master...preview-update-submodules)
 
-2. Copy and Paste in the Preview links
+2. Paste and Check Preview Site ( Not required )
 
 - [CHTC Submodule Update Preview](https://chtc.github.io/web-preview/preview-update-submodules)
 - [OSG Submodule Update Preview](https://osg-htc.org/web-preview/preview-update-submodules)
 - [PATh Submodule Update Preview](https://path-cc.io/web-preview/preview-update-submodules)
 - [HTCondor Submodule Update Preview](https://htcondor.com/web-preview/preview-update-submodules)
 
-3. Double check nothing is rendering weird in preview
-  - Good idea for new articles, can be skipped if you are confident in the change
-  - Get a review ( Feel free to request CannonLock )
+3. Get a review
+  - Feel free to request CannonLock
+  - If you want reviewer to merge if it looks good, then let them know in the PR comments/description
+  
 4. Merge Pull Request
