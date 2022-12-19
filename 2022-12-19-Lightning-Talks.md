@@ -1,5 +1,5 @@
 ---
-title: "OSG User School 2022 Researches Present Inspirational Student Lightning Talks"
+title: "OSG User School 2022 Researchers Present Inspirational Student Lightning Talks"
 
 author: Hannah Cheren
 
