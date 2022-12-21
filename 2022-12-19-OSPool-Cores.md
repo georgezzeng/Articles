@@ -27,6 +27,11 @@ banner_alt: Record Number of Cores in OSPool
 ---
 Campuses contributing to the capacity of the OSPool led to record breaking number of cores this December, 2022. On December 9th, the OSPool, which provides computing resources to researchers across the country, crossed the 70,000 cores line –– for the very first time.
 
+  <figure>
+  <img class="w-100" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/recordcores.png" alt="Cores crossed the 70,000 line –– for the very first time."/>
+  <figcaption class="figure-caption">Cores crossed the 70,000 lineon December 9th Cores crossed the 70,000 line –– for the very first time..<br/></figcaption>
+</figure>
+
 It is no small feat to top over 70,000 cores in a single day. Over 50 campuses and organizations freely contributed their resources to the OSPool in support of Open Science. These campuses and organizations are dedicated to their mission to support research computing on their own campus and across the country. 
 
 Each year additional campuses and organizations add their contributions to the OSPool. Campuses newly adding computing capacity to the OSPool this year come in all sizes and include Cardiff University, Kansas State, New Mexico State University, University of South Dakota,  University of Maine and more. 
