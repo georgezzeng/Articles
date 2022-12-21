@@ -17,7 +17,7 @@ image:
   path: https://raw.githubusercontent.com/CHTC/Articles/main/images/recordcores.png
   alt: Record Number of Cores in OSPool
   
-description: Campuses contributing to the capacity of the OSPoolled to record breaking number of cores this December, 2022. On December 9th, the OSPool, which provides computing resources to researchers across the country, crossed the 70,000 cores line –– for the very first time.
+description: Campuses contributing to the capacity of the OSPool led to record breaking number of cores this December, 2022. On December 9th, the OSPool, which provides computing resources to researchers across the country, crossed the 70,000 cores line –– for the very first time.
 
 
 
