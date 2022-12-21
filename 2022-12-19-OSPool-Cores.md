@@ -11,7 +11,7 @@ publish_on:
   
 type: news 
 
-canonical_url: https://osg-htc.org/spotlights/OSPool-Cores.html
+canonical_url: "https://osg-htc.org/spotlights/OSPool-Cores.html"
 
 image:
   path: https://raw.githubusercontent.com/CHTC/Articles/main/images/recordcores.png
