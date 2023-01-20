@@ -13,8 +13,8 @@ type: user
 canonical_url: "https://chtc.cs.wisc.edu/materials-science.html"
 
 image:
-path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/materials-science.jpg"
-alt: Computer screen with lines of code. Uploaded by AltumCode on Unsplash.
+    path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/materials-science.jpg"
+    alt: Computer screen with lines of code. Uploaded by AltumCode on Unsplash.
 
 description: |
     Ajay Annamareddy, a research scientist at the University of Wisconsin-Madison, describes how he utilizes high-throughput computing in computational materials science.
@@ -23,6 +23,9 @@ excerpt: |
 
 card_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/materials-science.jpg"
 card_alt: Computer screen with lines of code. Uploaded by AltumCode on Unsplash.
+
+banner_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/materials-science.jpg"
+banner_alt: Computer screen with lines of code. Uploaded by AltumCode on Unsplash.
 ---
   ***Ajay Annamareddy, a research scientist at the University of Wisconsin-Madison, describes how he utilizes high-throughput computing in computational materials science.***
 
