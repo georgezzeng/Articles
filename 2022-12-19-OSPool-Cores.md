@@ -33,7 +33,7 @@ Campuses contributing to the capacity of the [OSPool](https://osg-htc.org/servic
 <br/></figcaption>
 </figure><br>
 
-It is no small feat to top over 70,000 cores in a single day. Over 50 campuses and organizations freely contributed their resources to the [OSPool](https://osg-htc.org/services/open_science_pool.html)in support of Open Science. These campuses and organizations are dedicated to their mission to support research computing on their own campus and across the country. 
+It is no small feat to top over 70,000 cores in a single day. Over 50 campuses and organizations freely contributed their resources to the [OSPool](https://osg-htc.org/services/open_science_pool.html) in support of Open Science. These campuses and organizations are dedicated to their mission to support research computing on their own campus and across the country. 
 
 Each year additional campuses and organizations add their contributions to the OSPool. Campuses newly adding computing capacity to the OSPool this year come in all sizes and include Cardiff University, Kansas State, New Mexico State University, University of South Dakota,  University of Maine and more. 
 
