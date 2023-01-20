@@ -1,5 +1,5 @@
 ---
-title: Empowering the Computational Materials Science Research using HTC
+title: Empowering Computational Materials Science Research using HTC
 
 author: Hannah Cheren
 
@@ -14,7 +14,7 @@ canonical_url: "https://chtc.cs.wisc.edu/materials-science.html"
 
 image:
 path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/materials-science.jpg"
-alt: Computer screen with lines of code. Uploaded by AltumCode on [Unsplash](https://unsplash.com/photos/oZ61KFUQsus).
+alt: Computer screen with lines of code. Uploaded by AltumCode on Unsplash.
 
 description: |
     Ajay Annamareddy, a research scientist at the University of Wisconsin-Madison, describes how he utilizes high-throughput computing in computational materials science.
@@ -22,20 +22,20 @@ excerpt: |
     Ajay Annamareddy, a research scientist at the University of Wisconsin-Madison, describes how he utilizes high-throughput computing in computational materials science.
 
 card_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/materials-science.jpg"
-card_alt: Computer screen with lines of code. Uploaded by AltumCode on [Unsplash](https://unsplash.com/photos/oZ61KFUQsus).
+card_alt: Computer screen with lines of code. Uploaded by AltumCode on Unsplash.
 ---
   ***Ajay Annamareddy, a research scientist at the University of Wisconsin-Madison, describes how he utilizes high-throughput computing in computational materials science.***
 
   <figure>
   <img class="w-100" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/materials-science.jpg" alt="Computer screen with lines of code. Uploaded by AltumCode on [Unsplash](https://unsplash.com/photos/oZ61KFUQsus)."/>
-  <figcaption class="figure-caption">Computer screen with lines of code. Uploaded by AltumCode on [Unsplash](https://unsplash.com/photos/oZ61KFUQsus).<br/></figcaption>
+  <figcaption class="figure-caption">Computer screen with lines of code. Uploaded by AltumCode on Unsplash<br/></figcaption>
 </figure>
 
-  Groundbreaking research is in the works for the [Computational Materials Group (CMG)](https://matmodel.engr.wisc.edu/) at the University of Wisconsin-Madison (UW-Madison). [Ajay Annamareddy](https://matmodel.engr.wisc.edu/members/), a research scientist within CMG, has been a leading user of GPU hours within [CHTC](https://chtc.cs.wisc.edu/). He utilizes this capacity to run machine learning (ML) simulations as applied to material science problems that have gained tremendous interest in the past decade. CHTC resources have allowed him to study hugely data-driven problems that are practically impossible to deal with using regular resources.
+  Groundbreaking research is in the works for the [Computational Materials Group (CMG)](https://matmodel.engr.wisc.edu/) at the University of Wisconsin-Madison (UW-Madison). [Ajay Annamareddy](https://matmodel.engr.wisc.edu/members/), a research scientist within CMG, has been a leading user of GPU hours with the [Center for High Throughput Computing](https://chtc.cs.wisc.edu/) (CHTC). He utilizes this capacity to run machine learning (ML) simulations as applied to material science problems that have gained tremendous interest in the past decade. CHTC resources have allowed him to study hugely data-driven problems that are practically impossible to deal with using regular resources.
 
   Before coming to UW-Madison, Annamareddy received his Ph.D. in Nuclear Engineering from North Carolina State University. He was introduced to modeling and simulation work there, but he started using high-throughput computing (HTC) and CHTC services when he came to UW-Madison to work as a PostDoc with [Prof. Dane Morgan in the Materials Science and Engineering department](https://energy.wisc.edu/about/energy-experts/dane-morgan). He now works for CMG as a Research Scientist, where he’s been racking up GPU hours for over a year. 
 
-  Working is in the field of computational materials, Annamareddy and his group use computers to determine the properties of materials. So, rather than preparing material and measuring it in experiments, they use a computer, which is less expensive and more time efficient. Annamareddy studies metallic glasses. These materials have many valuable properties and applications, but are not easy to make. Instead, he uses computer simulations of these materials to analyze and understand their fundamental properties.
+  Working in the field of computational materials, Annamareddy and his group use computers to determine the properties of materials. So rather than preparing material and measuring it in experiments, they use a computer, which is less expensive and more time efficient. Annamareddy studies metallic glasses. These materials have many valuable properties and applications, but are not easy to make. Instead, he uses computer simulations of these materials to analyze and understand their fundamental properties.
 
   Annamareddy’s group utilizes HTC and high-performance computing (HPC) for their work, so his project lead asked him to contact CHTC and set up an account. Christina Koch, the lead research computing facilitator, responded. “She helped me set up the account and determine how many resources we needed,” Annamareddy explained. “She was very generous in that whenever I exceeded my limits, she would increase them a bit more!”
 
