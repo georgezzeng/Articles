@@ -11,21 +11,21 @@ type: news
 canonical_url: https://chtc.wisc.edu/get-to-know-todd.html
 
 image:
-path: https://raw.githubusercontent.com/CHTC/Articles/main/images/get-to-know-todd-0.jpg
+path: https://raw.githubusercontent.com/CHTC/Articles/main/images/todd-t-article-0.jpg
 alt: Image of Todd T taking a selfie with a tropical beach in the background.
 
 description: Staff profile of the HTCSS Software Lead, Todd Tannenbaum.
 excerpt: Staff profile of the HTCSS Software Lead, Todd Tannenbaum.
 
-card_src: https://raw.githubusercontent.com/CHTC/Articles/main/images/get-to-know-todd-0.jpg
+card_src: https://raw.githubusercontent.com/CHTC/Articles/main/images/todd-t-article-0.jpg
 card_alt: Image of Todd T taking a selfie with a tropical beach in the background.
 
-banner_src: https://raw.githubusercontent.com/CHTC/Articles/main/images/get-to-know-todd-0.jpg
+banner_src: https://raw.githubusercontent.com/CHTC/Articles/main/images/todd-t-article-0.jpg
 banner_alt: Image of Todd T taking a selfie with a tropical beach in the background.
 ---
 
 <figure>
-  <img class="w-100" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/get-to-know-todd-0.jpg" alt="Image of Todd T taking a selfie with a tropical beach in the background."/>
+  <img class="w-100" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/todd-t-article-0.jpg" alt="Image of Todd T taking a selfie with a tropical beach in the background."/>
 </figure>
 
 ## As the technical lead of the CHTC, how did you get started?
@@ -34,7 +34,7 @@ Long ago, I came to UW-Madison to major in computer sciences and upon graduation
 administrator in the Computer Aided EngineeringCenter in the College of Engineering.
 
 <figure class="figure float-end" style="margin-left: 1em;">
-  <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/get-to-know-todd-1.jpg' class="figure-img img-fluid rounded" alt="Retro photograph of Todd sitting in front of a computer with a mullet hairstyle.">
+  <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/todd-t-article-1.png' class="figure-img img-fluid rounded" alt="Retro photograph of Todd sitting in front of a computer with a mullet hairstyle.">
 </figure>
 
 While there, I was introduced to HTCondor –which went by the name of Condor at that time– and created and managed an
@@ -136,7 +136,7 @@ but only so many hours in a day and only so much staff effort available. Figurin
 the largest impact is probably the biggest challenge.
 
 <figure>
-  <img class="w-100" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/get-to-know-todd-2.jpg" alt="Image of Todd T cycling through a cinematic countryside road."/>
+  <img class="w-100" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/todd-t-article-2.jpg" alt="Image of Todd T cycling through a cinematic countryside road."/>
 </figure>
 
 ## How do you like to spend your free time?
@@ -151,7 +151,7 @@ years and I'm also a novice guitar player. My favorite band is The Clash.
 ## What are some of your favorite books? What books have influenced your work?
 
 <figure class="figure float-end" style="margin-left: 1em;">
-  <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/get-to-know-todd-3.jpg' class="figure-img img-fluid rounded" alt="Image of todd holding up a pint of beer and smiling.">
+  <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/todd-t-article-3.jpg' class="figure-img img-fluid rounded" alt="Image of todd holding up a pint of beer and smiling.">
 </figure>
 
 I’m actually one of the founding members of Jordan's Big 10 Pub Book Club – the Big Ten Pub is the closest pub to the
