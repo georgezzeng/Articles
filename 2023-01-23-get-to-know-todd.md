@@ -33,7 +33,7 @@ banner_alt: Image of Todd T taking a selfie with a tropical beach in the backgro
 Long ago, I came to UW-Madison to major in computer sciences and upon graduation, accepted a job as the Unix systems
 administrator in the Computer Aided EngineeringCenter in the College of Engineering.
 
-<figure class="figure float-end" style="margin-left: 1em;">
+<figure class="figure float-md-end" style="margin-left: 1em;">
   <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/todd-t-article-1.png' class="figure-img img-fluid rounded" alt="Retro photograph of Todd sitting in front of a computer with a mullet hairstyle.">
 </figure>
 
@@ -150,7 +150,7 @@ years and I'm also a novice guitar player. My favorite band is The Clash.
 
 ## What are some of your favorite books? What books have influenced your work?
 
-<figure class="figure float-end" style="margin-left: 1em;">
+<figure class="figure float-md-end" style="margin-left: 1em;">
   <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/todd-t-article-6.jpg' class="figure-img img-fluid rounded" alt="Image of todd holding up a pint of beer and smiling.">
 </figure>
 
