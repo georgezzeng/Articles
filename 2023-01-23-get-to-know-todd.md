@@ -1,5 +1,5 @@
 ---
-title: Get T Know Todd Tannenbaum
+title: Get To Know Todd Tannenbaum
 
 author: Shirley Obih
 
