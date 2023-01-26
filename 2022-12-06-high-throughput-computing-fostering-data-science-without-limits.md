@@ -16,8 +16,8 @@ image:
   path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/research-computing-partnership.jpeg"
   alt: Conference Room
 
-description: The Center for High-Throughput Computing (CHTC), a joint partnership of UW-Madison School of Computer, Data & Information Sciences and the Morgridge Institute, sees this onslaught of data and says: Bring it on.
-excerpt: The Center for High-Throughput Computing (CHTC), a joint partnership of UW-Madison School of Computer, Data & Information Sciences and the Morgridge Institute, sees this onslaught of data and says: Bring it on.
+description: "The Center for High-Throughput Computing (CHTC), a joint partnership of UW-Madison School of Computer, Data & Information Sciences and the Morgridge Institute, sees this onslaught of data and says: Bring it on."
+excerpt: "The Center for High-Throughput Computing (CHTC), a joint partnership of UW-Madison School of Computer, Data & Information Sciences and the Morgridge Institute, sees this onslaught of data and says: Bring it on."
 
 card_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/research-computing-partnership.jpeg"
 card_alt: Conference Room
