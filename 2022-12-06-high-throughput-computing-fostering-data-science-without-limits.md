@@ -1,5 +1,5 @@
 ---
-title: High-throughput computing: Fostering data science without limits
+title: "High-throughput computing: Fostering data science without limits"
 
 author: Brian Mattmiller
 
