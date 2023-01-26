@@ -5,6 +5,9 @@ author: Shirley Obih
 
 publish_on:
 - chtc
+- htcondor
+- path
+- osg
 
 type: news
 
