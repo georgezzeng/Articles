@@ -11,8 +11,7 @@ publish_on:
 
 type: news
 
-canonical_url: https://chtc.wisc.edu/get-to-know-todd.html
-
+canonical_url: https://htcondor.org/featured-users/2021-01-23-get-to-know-todd.html
 image:
 path: https://raw.githubusercontent.com/CHTC/Articles/main/images/todd-t-article-0.jpg
 alt: Image of Todd T taking a selfie with a tropical beach in the background.
