@@ -13,8 +13,8 @@ type: news
 
 canonical_url: https://htcondor.org/featured-users/2021-01-23-get-to-know-todd.html
 image:
-path: https://raw.githubusercontent.com/CHTC/Articles/main/images/todd-t-article-0.jpg
-alt: Image of Todd T taking a selfie with a tropical beach in the background.
+  path: https://raw.githubusercontent.com/CHTC/Articles/main/images/todd-t-article-0.jpg
+  alt: Image of Todd T taking a selfie with a tropical beach in the background.
 
 description: Staff profile of the HTCSS Software Lead, Todd Tannenbaum.
 excerpt: Staff profile of the HTCSS Software Lead, Todd Tannenbaum.
