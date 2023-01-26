@@ -11,18 +11,18 @@ publish_on:
 
 type: news
 
-canonical_url: https://morgridge.org/story/high-throughput-computing-fostering-data-science-without-limits/
+canonical_url: "https://morgridge.org/story/high-throughput-computing-fostering-data-science-without-limits/"
 image:
-  path: https://raw.githubusercontent.com/CHTC/Articles/main/images/research-computing-partnership.jpeg
+  path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/research-computing-partnership.jpeg"
   alt: Conference Room
 
 description: The Center for High-Throughput Computing (CHTC), a joint partnership of UW-Madison School of Computer, Data & Information Sciences and the Morgridge Institute, sees this onslaught of data and says: Bring it on.
 excerpt: The Center for High-Throughput Computing (CHTC), a joint partnership of UW-Madison School of Computer, Data & Information Sciences and the Morgridge Institute, sees this onslaught of data and says: Bring it on.
 
-card_src: https://raw.githubusercontent.com/CHTC/Articles/main/images/research-computing-partnership.jpeg
+card_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/research-computing-partnership.jpeg"
 card_alt: Conference Room
 
-banner_src: https://raw.githubusercontent.com/CHTC/Articles/main/images/research-computing-partnership.jpeg
+banner_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/research-computing-partnership.jpeg"
 banner_alt: Conference Room
 ---
 
