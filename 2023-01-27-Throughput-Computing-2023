@@ -3,11 +3,10 @@ title: Save the dates for Throughput Computing 2023 - a joint HTCondor/OSG event
 
 publish_on:
   - htcondor
-  - chtc
   
 type: news 
 
-canonical_url: http://htcondor.org/featured-users/2023-01-27-Throughput-Computing-2023-01-27.html
+canonical_url: http://htcondor.org/featured-users/2023-01-27-Throughput-Computing-2023.html
 
 image:
   path: https://raw.githubusercontent.com/images/capital.jpeg
@@ -21,7 +20,7 @@ card_alt: Madison, Wisconsin
 
 banner_src: https://raw.githubusercontent.com/images/capital.jpeg
 banner_alt: Madison, Wisconsin
-
+---
 
 <p style="font-size: larger; font-weight: bold;">Don't miss these in-person learning opportunities in beautiful Madison, Wisconsin!</p>
 
