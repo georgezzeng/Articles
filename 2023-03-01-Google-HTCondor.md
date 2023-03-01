@@ -1,5 +1,5 @@
 ---
-title: HTCondor and Google Quantum Computing
+title: Google Quantum Computing Utilizing HTCondor
 
 author: Hannah Cheren
 
