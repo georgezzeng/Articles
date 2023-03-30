@@ -23,7 +23,7 @@ banner_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/core-co
 banner_alt: Emile with RAM in Data Center
 ---
 
-<figure>
+<figure class="pb-4">
   <img class="w-100" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/core-comp-gpu.jpeg" alt="Emile with RAM in Data Center"/>
 </figure>
 
