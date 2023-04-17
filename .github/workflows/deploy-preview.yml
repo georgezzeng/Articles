@@ -6,7 +6,7 @@ on:
 
 jobs:
   dispatch:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-latest
     steps:
       - name: Setup SSH Keys and known_hosts
         uses: webfactory/ssh-agent@v0.5.3
