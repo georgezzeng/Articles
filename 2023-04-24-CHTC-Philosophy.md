@@ -64,7 +64,7 @@ As the CHTC is our on-campus laboratory for experimenting with distributing comp
 
   <figure>
   <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/chtc-map.jpg" alt="Institutions using OSPool resources."/>
-  <figcaption class="figure-caption">Map of campuses using OSPool computing resources.<br/></figcaption>
+  <figcaption class="figure-caption">Institutions using OSPool resources.<br/></figcaption>
 </figure>
 
 The OSG and subsequent OSPool provide computing access on a national level in the same way that someone can access an available machine locally. For example, if the machines on campus are unavailable or all being used, users can access machines in the greater OSG Consortium. “But at the end of the day, all this computing, storage and networking research is in service to the needs of people who rely on high throughput computing to accomplish their research,” Thain maintains. “We hope the OSPool will be an accelerator for a broad swath of researchers in all kinds of disciplines, from all over the United States.”
