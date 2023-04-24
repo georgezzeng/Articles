@@ -63,7 +63,7 @@ To mitigate this, [research computing facilitators](https://chtc.cs.wisc.edu/CHT
 As the CHTC is our on-campus laboratory for experimenting with distributing computing, the [Open Science Pool](https://osg-htc.org/services/open_science_pool.html) (OSPool) is a bolder experiment expanding these idea onto a national scale of interconnected campuses.
 
   <figure>
-  <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/chtc-map.jpg" alt="Map of campuses using OSPool computing resources."/>
+  <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/chtc-map.jpg" alt="Institutions using OSPool resources."/>
   <figcaption class="figure-caption">Map of campuses using OSPool computing resources.<br/></figcaption>
 </figure>
 
