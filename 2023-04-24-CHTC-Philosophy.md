@@ -14,25 +14,25 @@ type: news
 canonical_url: "https://chtc.cs.wisc.edu/chtc-philosophy.html"
 
 image:
-path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/chtc-philosophy-banner.jpg"
-alt: Image from Greg Thain’s CHTC Philosophy of High Throughput Computing slideshow.
+path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/chtc-philosophy-server.jpg"
+alt: Image of a server room by Elias from Pixabay.
 
 description: |
     HTCondor Core Developer Greg Thain spoke to UW faculty and researchers about research computing and the missions and goals of the Center for High Throughput Computing (CHTC).
 excerpt: |
     HTCondor Core Developer Greg Thain spoke to UW faculty and researchers about research computing and the missions and goals of the Center for High Throughput Computing (CHTC).
 
-card_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/chtc-philosophy-banner.jpg"
-card_alt: Image from Greg Thain’s CHTC Philosophy of High Throughput Computing slideshow.
+card_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/chtc-philosophy-server.jpg"
+card_alt: Image of a server room by Elias from Pixabay.
 
-banner_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/chtc-philosophy-banner.jpg"
-banner_alt: Image from Greg Thain’s CHTC Philosophy of High Throughput Computing slideshow.
+banner_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/chtc-philosophy-server.jpg"
+banner_alt: Image of a server room by Elias from Pixabay.
 ---
   ***HTCondor Core Developer Greg Thain spoke to UW faculty and researchers about research computing and the missions and goals of the Center for High Throughput Computing (CHTC).***
 
 <figure>
-  <img class="w-100" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/chtc-philosophy-banner.jpg" alt="Photo credits: Greg Thain’s CHTC Philosophy of High Throughput Computing slideshow."/>
-  <figcaption class="figure-caption">Photo credits: Greg Thain’s CHTC Philosophy of High Throughput Computing slideshow.<br/></figcaption>
+  <img class="w-100" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/chtc-philosophy-server.jpg" alt="Image of a server room by Elias from Pixabay."/>
+  <figcaption class="figure-caption">Image of a server room by Elias from Pixabay.<br/></figcaption>
 </figure>
 
 [The Center for High Throughput Computing](https://chtc.cs.wisc.edu/) (CHTC)  is proud to be home to a breadth of research on campus, with over 300 projects and 20 million core hours used by departments on the University of Wisconsin-Madison campus, ranging from the College of Agriculture and Life Sciences (CALS) to the School of Education, School of Pharmacy, and many more. “The CHTC is known best for being a place to run lots of fast jobs for free, to which we hope to continue democratizing computing across the campus,” Greg Thain began in his talks to UW-Madison researchers and staff on March 9 and 17, organized by UW-Madison Chief Technology Officer Todd Shechter.
