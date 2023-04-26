@@ -7,6 +7,7 @@ publish_on:
 - osg
 - path
 - htcondor
+- chtc
 
 type: news
 
