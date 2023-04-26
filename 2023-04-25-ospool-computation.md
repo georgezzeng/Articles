@@ -9,7 +9,7 @@ publish_on:
 - htcondor
 - chtc
 
-type: news
+type: users
 
 canonical_url: https://osg-htc.org/spotlights/2023-04-10-ospool-computation.html
 image:
