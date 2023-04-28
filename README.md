@@ -67,6 +67,9 @@ type: <news, user> - This indicates if this article is based on a user's experie
 
 canonical_url: <This is a absolute url that points to the canonical site>
 
+tag:
+- chtc_featured_article <If you would like this article listed first on the CHTC news page: Note if you add one you must remove one.> 
+
 image:
   path: <https://raw.githubusercontent.com/CHTC/Articles/main/images/...> - An image that will populate the link preview
   alt: Text Description of image
