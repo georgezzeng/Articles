@@ -24,6 +24,9 @@ banner_src: https://raw.githubusercontent.com/CHTC/Articles/main/images/images/e
 banner_alt: European Condor Week Banner
 ---
 
+<figure>
+  <img class="w-100" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/images/european-htcondor-week-2023.png" alt="European HTCondor Workshop Banner"/>
+</figure>
 
 We are very pleased to announce that the 2023 European HTCondor Workshop will be held from Tuesday 19th September to Friday 22nd September, at IJCLab in Orsay, France.
 
