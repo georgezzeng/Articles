@@ -4,7 +4,6 @@ title: 2023 European HTCondor Workshop
 publish_on:
   - chtc
   - path
-  - htcondor
   
 type: news 
 
