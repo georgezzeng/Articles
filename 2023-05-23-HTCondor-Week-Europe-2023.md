@@ -1,8 +1,6 @@
 ---
 title: 2023 European HTCondor Workshop
 
-author: 
-
 publish_on:
   - chtc
   - path
