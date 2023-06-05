@@ -14,8 +14,8 @@ type: news
 canonical_url: "https://chtc.cs.wisc.edu/chtc-philosophy.html"
 
 image:
-path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/chtc-philosophy-server.jpg"
-alt: Image of a server room by Elias from Pixabay.
+    path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/chtc-philosophy-server.jpg"
+    alt: Image of a server room by Elias from Pixabay.
 
 description: |
     HTCondor Core Developer Greg Thain spoke to UW faculty and researchers about research computing and the missions and goals of the Center for High Throughput Computing (CHTC).
