@@ -74,7 +74,6 @@ image:
   path: <https://raw.githubusercontent.com/CHTC/Articles/main/images/...> - An image that will populate the link preview
   alt: Text Description of image
   
-description: <This is used as a link description when this article is linked>
 excerpt: <Same as description but used for the cards>
 
 card_src: <https://raw.githubusercontent.com/CHTC/Articles/main/images/...> - An image that will be used in the article cards
