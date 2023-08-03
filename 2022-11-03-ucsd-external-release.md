@@ -1,5 +1,5 @@
 ---
-title: PATh Extends Access to Diverse Set of High Throughout Computing Research Programs
+title: PATh Extends Access to Diverse Set of High Throughput Computing Research Programs
 
 author: 
 
