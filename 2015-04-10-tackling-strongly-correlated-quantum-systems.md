@@ -1,6 +1,6 @@
 ---
 title: "Tackling Strongly Correlated Quantum Systems on OSPool"
-canonical_url: Illustration of a fermion bag configuration.
+canonical_url:
 image:
     path: https://raw.githubusercontent.com/CHTC/Articles/main/images/Fermion-Bag-300x300.jpg
     alt: Illustration of a fermion bag configuration.
