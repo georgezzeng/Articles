@@ -11,7 +11,7 @@ publish_on:
 
 type: user
 
-canonical_url: https://osg-htc.org/spotlights/2023-04-10-ospool-computation.html
+canonical_url: 
 image:
   path: https://raw.githubusercontent.com/CHTC/Articles/main/images/ospool-comp.jpg
   alt: Microscope beside computer by Tima Miroshnichenko from Pexels.
