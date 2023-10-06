@@ -10,7 +10,7 @@ publish_on:
   
 type: user
 
-canonical_url: https://htcondor.org/2023-06-12-htcondor-helps-enable-mars-research.html
+canonical_url: 
 
 tag:
 - chtc_featured_article
