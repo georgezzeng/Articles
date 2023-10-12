@@ -7,7 +7,7 @@ publish_on:
   
 type: news 
 
-canonical_url: 
+canonical_url: https://htcondor.org/news/htcondor-european-workshop-2023/
 
 image: 
   path: https://raw.githubusercontent.com/CHTC/Articles/main/images/european-htcondor-week-2023.png

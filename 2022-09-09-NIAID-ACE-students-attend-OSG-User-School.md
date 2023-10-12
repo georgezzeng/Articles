@@ -9,7 +9,7 @@ publish_on:
 
 type: news
 
-canonical_url: 
+canonical_url: https://osg-htc.org/spotlights/NIAID-ACE-students-attend-OSG-User-School.html
 
 image:
     path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/NIAID_students.jpeg"

@@ -11,7 +11,7 @@ publish_on:
 
 type: news
 
-canonical_url: 
+canonical_url: https://chtc.cs.wisc.edu/CHTC-Philosophy.html
 
 image:
     path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/chtc-philosophy-server.jpg"

@@ -8,7 +8,7 @@ publish_on:
 
 type: news
 
-canonical_url: 
+canonical_url: https://chtc.cs.wisc.edu/Joe-B-Profile.html
 
 image:
 path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/joes-cat.jpg"
