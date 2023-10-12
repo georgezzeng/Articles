@@ -11,7 +11,7 @@ publish_on:
 
 type: news
 
-canonical_url: 
+canonical_url: https://osg-htc.org/spotlights/ucsd-external-release.html
 
 image:
     path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/ucsd-public-relations.png"

@@ -11,7 +11,7 @@ publish_on:
 
 type: news
 
-canonical_url: 
+canonical_url: https://osg-htc.org/spotlights/get-to-know-todd.html
 image:
   path: https://raw.githubusercontent.com/CHTC/Articles/main/images/todd-t-article-0.jpg
   alt: Image of Todd T taking a selfie with a tropical beach in the background.

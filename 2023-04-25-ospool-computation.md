@@ -11,7 +11,7 @@ publish_on:
 
 type: user
 
-canonical_url: 
+canonical_url: https://htcondor.org/featured-users/2023-04-25-ospool-computation.html
 image:
   path: https://raw.githubusercontent.com/CHTC/Articles/main/images/ospool-comp.jpg
   alt: Microscope beside computer by Tima Miroshnichenko from Pexels.
