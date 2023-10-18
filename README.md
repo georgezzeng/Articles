@@ -76,9 +76,6 @@ image:
   
 excerpt: <Same as description but used for the cards>
 
-card_src: <https://raw.githubusercontent.com/CHTC/Articles/main/images/...> - An image that will be used in the article cards
-card_alt: Text Description of image
-
 banner_src: <https://raw.githubusercontent.com/CHTC/Articles/main/images/> - Optional - An image that will be used as a website banner
 banner_alt: Text Description of image
 ---
