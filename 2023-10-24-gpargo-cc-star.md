@@ -1,5 +1,5 @@
 ---
-title: Great Plains Regional CyberTeam Expanding Both Access and Capacity for Computing from Great Plains Campuses
+title: Great Plains Regional CyberTeam Expanding Capacity for Computing from Great Plains Campuses
 
 author: Hannah Cheren
 
