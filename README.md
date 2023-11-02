@@ -141,7 +141,7 @@ Process:
 - [PATh Create PR](https://github.com/path-cc/path-cc.github.io/compare/master...preview-update-submodules)
 - [HTCondor Create PR](https://github.com/htcondor/htcondor-web/compare/master...preview-update-submodules)
 
-2. Paste and Check Preview Site ( Not required )
+2. Paste and Check Preview Site
 
 - [CHTC Submodule Update Preview](https://chtc.github.io/web-preview/preview-update-submodules)
 - [OSG Submodule Update Preview](https://osg-htc.org/web-preview/preview-update-submodules)
