@@ -149,7 +149,6 @@ Process:
 - [HTCondor Submodule Update Preview](https://htcondor.com/web-preview/preview-update-submodules)
 
 3. Get a review
-  - Feel free to request CannonLock
-  - If you want reviewer to merge if it looks good, then let them know in the PR comments/description
+  - @jstathas is your best bet
   
 4. Merge Pull Request
