@@ -30,7 +30,7 @@ solutions. Planning for 2024’s workshop is already underway.*
 </figure>
 
 The ninth [2023 HTCondor European Workshop](https://indico.cern.ch/event/1274213/) took place September 19–22 
-at [IJCLab](https://www.ijclab.in2p3.fr/en/home/) in Orsay, France, to join communities of high-throughput computing
+at IJCLab in Orsay, France, to join communities of high-throughput computing
 (HTC) users together. Attendees and HTCondor users have the opportunity to learn from developers and vice versa, 
 HTCondor Core Developer Greg Thain says. During the workshops, “[I]nformation [is] going in all directions — developers
 to users, users to users, and users back up to developers,” Thain elaborates. Attendees discuss aspects of 

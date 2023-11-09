@@ -64,7 +64,7 @@ The lightning talks given at this year’s OSG User School illustrate the divers
   <figcaption class="figure-caption">Mike Nsubuga<br/></figcaption>
 </figure>
 
-  [Mike Nsubuga](https://miken.netlify.app/), a Bioinformatics Research fellow at the African Center of Excellence in Bioinformatics and Data-Intensive Sciences ([ACE](https://ace.niaid.nih.gov/)) within the Infectious Disease Institute ([IDI](https://idi.mak.ac.ug/)) at Makerere University in Uganda, presented “*End-to-End AI data systems for targeted surveillance and management of COVID-19 and future pandemics affecting Uganda.*”
+  Mike Nsubuga, a Bioinformatics Research fellow at the African Center of Excellence in Bioinformatics and Data-Intensive Sciences ([ACE](https://ace.niaid.nih.gov/)) within the Infectious Disease Institute ([IDI](https://idi.mak.ac.ug/)) at Makerere University in Uganda, presented “*End-to-End AI data systems for targeted surveillance and management of COVID-19 and future pandemics affecting Uganda.*”
   
   Nsubuga noted that in the United States, there are two physicians for every 1000 people; in Uganda, there is only one physician per 25,000 people. Research shows that AI, automation, and data science can support overburdened health systems and health workers when deployed responsibly.
 Nsubuga and a team of Researchers at ACE are working on creating AI chatbots for automated and personalized symptom assessments in English and Luganda, one of the major languages of Uganda. He's training the AI models using data from the public and healthcare workers to communicate with COVID-19 patients and the general public.
