@@ -30,7 +30,7 @@ research advancements with strategic use of high-throughput computing (HTC).*
 
 OSG leadership created the [OSG David Swanson Award](https://osg-htc.org/outreach/swanson-award/)
 in memoriam of Swanson, who championed throughout his life for both the success of his students 
-and the expansion of OSG and research computing. David Swanson, who died suddenly in 2019, was 
+and the expansion of OSG and research computing. David Swanson, who passed away unexpectedly in 2019, was 
 a computer science and engineering research professor at the University of Nebraska-Lincoln. 
 The award reflects Swanson’s and [OSG School’s](https://osg-htc.org/user-school-2023/) emphasis 
 on helping people develop their skills in technology and advancing science with large-scale 
