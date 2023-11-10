@@ -128,14 +128,14 @@ To view your article in development you must:
 
 ## Deploying your Article
 
-All of the changes that are pushed to the main branch 
-( [https://github.com/CHTC/Articles/tree/main](https://github.com/CHTC/Articles/tree/main) ) 
-will automatically have there changes pushed to the PATh websites and previews made. 
+All of the changes that are pushed to the [main branch](https://github.com/CHTC/Articles/tree/main)
+will automatically have there changes distributed to the PATh websites and previews made. 
+
 To finish deploying them to production you should:
 
 1. Preview the article and make sure it is rendering like you expecting.
 
-    The links below point to the preview url of all four websites. **Make sure to wait ~15 minutes after the change the main before viewing these so they can build.**
+    The links below point to the preview url of all four websites. **Make sure to wait ~15 minutes after the change the main before viewing these so the preview can build.**
     
     - [CHTC Submodule Update Preview](https://chtc.github.io/web-preview/preview-update-submodules)
     - [OSG Submodule Update Preview](https://osg-htc.org/web-preview/preview-update-submodules)
