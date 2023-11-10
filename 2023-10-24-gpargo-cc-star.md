@@ -6,6 +6,7 @@ author: Hannah Cheren
 publish_on:
   - osg
   - path
+  - chtc
 
   
 type: user
@@ -19,7 +20,7 @@ excerpt: Great Plains Augmented Gateway to the OSG (GP-ARRGO) receives National 
 ---
 
 As a multidisciplinary and multi-institutional collaboration, the Great Plains Augmented Regional Gateway to the
-OSG (GP-ARGO) has made significant strides in democratizing computing. Continued support by the CC* award 
+OSG (GP-ARGO) has made significant strides in democratizing computing. Continued support by the [CC* award (NSF 23-526)](https://new.nsf.gov/funding/opportunities/campus-cyberinfrastructure-cc) 
 from the National Science Foundation (NSF) is a testament to its dedication to advancing the field.
   
 The task of effectively supporting computational and data-intensive research at an under-resourced and
@@ -50,7 +51,7 @@ Andresen reminisced.
 
 Handling 18 machines across six states came with challenges, particularly in communicating and managing 18 administrative 
 domains, security protocols, and rule differences. “None of these sites were the same,” Weitzel explained. “Some sites
-were very restrictive, others were very relaxed, and we had to make all of them work.” Kyle Hudson, one of the 
+were very restrictive, others were very relaxed, and we had to make all of them work.” Kyle Hutson, one of the 
 former mentors for the Cyber Infrastructure side of the CyberTeam, played a crucial role in resolving these technical nuances.
 
 With GP-ARGO consistently ranking among the top five OSG entry points for a good part of the last year, the team has 
@@ -72,8 +73,8 @@ fun and exciting.”
 
 Furthermore, the team has ensured the sustainability of this operation. “Most of the institutions we're working with don't 
 have the expertise or the full-time employees to spare,” Andresen explained. Central administration by OSG has been instrumental 
-in this regard, especially recently, regarding restructuring administration roles with the leaving of Kyle Hudson. “If 
-something happens to whoever is the administrator, like leaving for another institution,” Hudson jokingly remarked, “we 
+in this regard, especially recently, regarding restructuring administration roles with the leaving of Kyle Hutson. “If 
+something happens to whoever is the administrator, like leaving for another institution,” Hutson jokingly remarked, “we 
 have four people across four different institutions that all have administrative rights. I was a primary person doing that, 
 but I was not the only person who could do this, so somebody else can take over.”
 
@@ -86,8 +87,8 @@ Despite the immense undertaking, Andresen commented on how fun and exciting the 
 role. “This program only builds stronger connections within the region between all these different professionals,” Weitzel 
 reflected. “It’s allowed us to reach out to different types of people, creating new opportunities that build on each other.”
 
-Echoing this sentiment, Hudson highlighted the project's impact in involving previously less-engaged institutions within GPN with the network's recent expansion from 18 to 19 campuses. “Cameron University heard about some of the things we're doing 
-through their state network, had a spare box, and asked if they could get involved!” Hudson explained.
+Echoing this sentiment, Hutson highlighted the project's impact in involving previously less-engaged institutions within GPN with the network's recent expansion from 18 to 19 campuses. “Cameron University heard about some of the things we're doing 
+through their state network, had a spare box, and asked if they could get involved!” Hutson explained.
 
 Building these regional connections was one of the most important steps in creating this network. The Midwest doesn’t 
 have any major supercomputing centers or institutions with enough people to drive a network of this magnitude forward. 
