@@ -133,9 +133,11 @@ will automatically have there changes distributed to the PATh websites and previ
 
 To finish deploying them to production you should:
 
-1. Preview the article and make sure it is rendering like you expecting.
+1. Preview the article and make sure it is rendering like you're expecting.
 
-    The links below point to the preview url of all four websites. **Make sure to wait ~15 minutes after the change the main before viewing these so the preview can build.**
+    Below are links pointing to the new article preview url of all four websites. 
+
+    **Make sure to wait ~15 minutes after the change the main before viewing these so the preview can build.**
     
     - [CHTC Submodule Update Preview](https://chtc.github.io/web-preview/preview-update-submodules)
     - [OSG Submodule Update Preview](https://osg-htc.org/web-preview/preview-update-submodules)
@@ -144,7 +146,7 @@ To finish deploying them to production you should:
 
 2. Create and Merge the PR
 
-    Below are links to you can quickly create and merge the PR's after you have reviewed them. 
+    Below are links to the PR creation page so you can quickly create and merge the PR's after you have reviewing the preview.
 
     - [CHTC Create PR](https://github.com/CHTC/chtc-website-source/compare/master...preview-update-submodules)
     - [OSG Create PR](https://github.com/osg-htc/osg-htc.github.io/compare/master...preview-update-submodules)
