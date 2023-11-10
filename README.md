@@ -126,7 +126,7 @@ To view your article in development you must:
 - When you are ready to move this article to production you can copy and paste this article and its images using the [Creating a new Article](#creating-a-new-article) guide. 
 - You can see if your change has been made to the website by following the top build [here](https://github.com/CHTC/article-preview/actions/workflows/pages/pages-build-deployment). After this circle is green it will be live on the preview page. 
 
-## Deploying your Article
+## Deploying Articles to Production
 
 All of the changes that are pushed to the [main branch](https://github.com/CHTC/Articles/tree/main)
 will automatically have there changes distributed to the PATh websites and previews made. 
