@@ -127,28 +127,27 @@ To view your article in development you must:
 - You can see if your change has been made to the website by following the top build [here](https://github.com/CHTC/article-preview/actions/workflows/pages/pages-build-deployment). After this circle is green it will be live on the preview page. 
 
 ## Deploying your Article
-  
-[Video Example Of Process Below](https://youtu.be/2quR18qo7FQ)
 
-**If using preview ability wait 15 minutes after last change to make PRs so the preview website can build.**
-  
-Process:
-  
-1. Create the PRs on all the websites
+All of the changes that are pushed to the main branch 
+( [https://github.com/CHTC/Articles/tree/main](https://github.com/CHTC/Articles/tree/main) ) 
+will automatically have there changes pushed to the PATh websites and previews made. 
+To finish deploying them to production you should:
 
-- [CHTC Create PR](https://github.com/CHTC/chtc-website-source/compare/master...preview-update-submodules)
-- [OSG Create PR](https://github.com/osg-htc/osg-htc.github.io/compare/master...preview-update-submodules)
-- [PATh Create PR](https://github.com/path-cc/path-cc.github.io/compare/master...preview-update-submodules)
-- [HTCondor Create PR](https://github.com/htcondor/htcondor-web/compare/master...preview-update-submodules)
+1. Preview the article and make sure it is rendering like you expecting.
 
-2. Paste and Check Preview Site
+    The links below point to the preview url of all four websites. **Make sure to wait ~15 minutes after the change the main before viewing these so they can build.**
+    
+    - [CHTC Submodule Update Preview](https://chtc.github.io/web-preview/preview-update-submodules)
+    - [OSG Submodule Update Preview](https://osg-htc.org/web-preview/preview-update-submodules)
+    - [PATh Submodule Update Preview](https://path-cc.io/web-preview/preview-update-submodules)
+    - [HTCondor Submodule Update Preview](https://htcondor.com/web-preview/preview-update-submodules)
 
-- [CHTC Submodule Update Preview](https://chtc.github.io/web-preview/preview-update-submodules)
-- [OSG Submodule Update Preview](https://osg-htc.org/web-preview/preview-update-submodules)
-- [PATh Submodule Update Preview](https://path-cc.io/web-preview/preview-update-submodules)
-- [HTCondor Submodule Update Preview](https://htcondor.com/web-preview/preview-update-submodules)
+2. Create and Merge the PR
 
-3. Get a review
-  - @jstathas is your best bet
-  
-4. Merge Pull Request
+    Below are links to you can quickly create and merge the PR's after you have reviewed them. 
+
+    - [CHTC Create PR](https://github.com/CHTC/chtc-website-source/compare/master...preview-update-submodules)
+    - [OSG Create PR](https://github.com/osg-htc/osg-htc.github.io/compare/master...preview-update-submodules)
+    - [PATh Create PR](https://github.com/path-cc/path-cc.github.io/compare/master...preview-update-submodules)
+    - [HTCondor Create PR](https://github.com/htcondor/htcondor-web/compare/master...preview-update-submodules)
+
