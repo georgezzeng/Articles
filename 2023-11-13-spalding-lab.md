@@ -61,5 +61,5 @@ In other words, HTC is useful as both a development resource and a production re
 
 Spalding has also spoken at the [OSG School](https://osg-htc.org/user-school-2023/) in the past. Spalding emphasizes that students “should not do something because they think computing will be a bottleneck. There are ways to bring the computing they need to their problem and they should not shy away from a question just because they think it might be difficult to compute. There are people like the CHTC staff that can remove that bottleneck if the person’s willing to learn about it.”
 
-![](https://lh7-us.googleusercontent.com/FTJuj2xrkuzBCGu8_mriZRRbnUk7i4foU9EYpnCZGxjEx7e1AhVXYatqnChnC8TtkmWZEBfO6HtkVUtjsDmBLDEMyOAVIBDIGPfIKrNFcg3bpFYDmr30qXq__qJH2rdCVM0AG3id3Eu44DP8CkVuo5g) 
+
 
