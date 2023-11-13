@@ -17,7 +17,7 @@ image:
   path: https://raw.githubusercontent.com/CHTC/Articles/main/images/spaldinglab.jpg
   alt: Members of the Spalding Research Lab
   
-excerpt: The Spalding lab uses high-throughput computing to study plant physiology
+excerpt: The Spalding lab uses high throughput computing to study plant physiology.
 
 ---
 
@@ -26,21 +26,15 @@ excerpt: The Spalding lab uses high-throughput computing to study plant physiolo
   
 
 Enhancing his research with high throughput computing was a pivotal moment for University of Wisconsin–Madison molecular plant physiologist Edgar Spalding when his
-[research group](https://spalding.botany.wisc.edu/) started using it in 2006. Over the past five years, the research group has used approximately 200,000 computing hours,
-including as a way to "develop the measurement algorithm and to process the tens-of-thousands of images automatically" of maize seedling root growth when rotated horizontally, 
-Spalding says.
+[research group](https://spalding.botany.wisc.edu/) started using it in 2006. Over the past five years, the research group has used approximately 200,000 computing hours, including as a way to "develop the measurement algorithm and to process the tens-of-thousands of images automatically" of maize seedling root growth, Spalding says.
 
 <figure class="figure float-end" style="margin-center: 1em">
   <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/maizespalding.jpg' height="500" width="1033" class="figure-img img-fluid rounded" alt="A graph of the average gravitropic response of each of the maize types">
-  <figcaption class="figure-caption">Data on the average gravitropic response of each of the maize gathered from using HTC<br/></figcaption>
+  <figcaption class="figure-caption">Data on the average gravitropic response of each of the maize gathered from using HTC.<br/></figcaption>
 </figure>
 
 
-Spalding’s research group was studying Arabidopsis plant populations with genetically diverse members and tracking their response to light or gravity due to a mutation — one 
-seedling at a time. Since Arabidopsis seedlings are only a few millimeters tall, Spalding says his research group found that obtaining high-resolution digital images was the 
-best approach to measure the direction of their growth. A computer collected images every few minutes as the seedlings grew. “If we could characterize this whole genetically 
-diverse population, we could use the powerful techniques of statistical genetics to track down the genes affecting the process. That meant we now had thousands and thousands 
-of images to measure,” Spalding explains.
+Spalding’s research group was studying Arabidopsis plant populations with genetically diverse members and tracking their response to light or gravity due to a mutation — one seedling at a time. Since Arabidopsis seedlings are only a few millimeters tall, Spalding says his research group found that obtaining high-resolution digital images was the best approach to measure the direction of their growth. A computer collected images every few minutes as the seedlings grew. “If we could characterize this whole genetically diverse population, we could use the powerful techniques of statistical genetics to track down the genes affecting the process. That meant we now had thousands and thousands of images to measure,” Spalding explains.
 
   
 
