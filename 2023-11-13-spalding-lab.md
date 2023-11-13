@@ -49,7 +49,7 @@ for a different way of computing,” Spalding describes.
 
   
 
-When asked about which accomplishment using high throughput computing (HTC) was most impactful, Spalding said “The way we measure yield-related features from maize ears 
+When asked about which accomplishment using high throughput computing (HTC) was most impactful, Spalding said "the way we measure yield-related features from maize ears 
 and several thousand kernels has had a large impact.” The Spalding Lab had others from around the world asking for their help in making these measurements. “In many cases,
 we can use our workflow [algorithms] running on CHTC to process their images of maize ears and kernels and return data that helps them answer their scientific or crop breeding 
 questions,” Spalding says.
