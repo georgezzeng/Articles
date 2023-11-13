@@ -1,0 +1,84 @@
+---
+title: Plant physiology researchers used high throughput computing to remedy research “bottleneck”
+
+author: Sarah Matysiak
+
+publish_on:
+  - htcondor
+  - path
+  - osg
+  - chtc
+  
+type: user
+
+canonical_url: https://chtc.cs.wisc.edu/spalding-lab.html
+
+image:
+  path: https://raw.githubusercontent.com/CHTC/Articles/main/images/spaldinglab.jpg
+  alt: Members of the Spalding Research Lab
+  
+excerpt: The Spalding lab uses high-throughput computing to study plant physiology
+
+---
+
+**Once they began using HTC resources, the Spalding Lab was able to increase their efficiency in data collection and analysis and develop new methodologies.**
+
+  
+
+Enhancing his research with high throughput computing was a pivotal moment for University of Wisconsin–Madison molecular plant physiologist Edgar Spalding when his
+[research group](https://spalding.botany.wisc.edu/) started using it in 2006. Over the past five years, the research group has used approximately 200,000 computing hours,
+including as a way to "develop the measurement algorithm and to process the tens-of-thousands of images automatically" of maize seedling root growth when rotated horizontally, 
+Spalding says.
+
+<figure class="figure float-end" style="margin-center: 1em">
+  <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/maizespalding.jpg' height="500" width="1033" class="figure-img img-fluid rounded" alt="A graph of the average gravitropic response of each of the maize types">
+  <figcaption class="figure-caption">Data on the average gravitropic response of each of the maize gathered from using HTC types<br/></figcaption>
+</figure>
+
+
+Spalding’s research group was studying Arabidopsis plant populations with genetically diverse members and tracking their response to light or gravity due to a mutation — one 
+seedling at a time. Since Arabidopsis seedlings are only a few millimeters tall, Spalding says his research group found that obtaining high-resolution digital images was the 
+best approach to measure the direction of their growth. A computer collected images every few minutes as the seedlings grew. “If we could characterize this whole genetically 
+diverse population, we could use the powerful techniques of statistical genetics to track down the genes affecting the process. That meant we now had thousands and thousands 
+of images to measure,” Spalding explains.
+
+  
+
+The thousands of digital images to measure created a bottleneck in Spalding’s research. That was before he led an effort with [Center for High Throughput Computing (CHTC)](https://chtc.cs.wisc.edu/) Director Miron Livny, other plant biologists, and computer scientists to develop a proposal for a competitive National Science Foundation grant that would produce cyberinfrastructure to support plant biology research. Though the application wasn’t successful, the connections Spalding made from that meeting were meaningful nonetheless.
+
+  
+
+Speaking with Livny at the meeting — from whom he learned about high throughput computing — helped Spalding realize the inefficiencies of his group in analyzing thousands 
+of seedlings. “[O]ur research up until that point had been focused on one seedling at a time. Faced with large numbers of seedlings to do a broader scale of investigation 
+meant that we had to find computing methodologies that matched our new data type, which was tens of thousands of images instead of a couple of dozen. That drove our need 
+for a different way of computing,” Spalding describes.
+
+  
+
+When asked about which accomplishment using high throughput computing (HTC) was most impactful, Spalding said “The way we measure yield-related features from maize ears 
+and several thousand kernels has had a large impact.” The Spalding Lab had others from around the world asking for their help in making these measurements. “In many cases,
+we can use our workflow [algorithms] running on CHTC to process their images of maize ears and kernels and return data that helps them answer their scientific or crop breeding 
+questions,” Spalding says.
+
+  
+
+The Spalding Lab did not need to adjust the type of data they collected. Rather, using HTC changed the way they created tools to analyze the data. Today, Spalding says his 
+research group continues to use HTC in three ways: “from tool development to extracting the features from the images with the tool that you developed to applying it in the 
+challenge of statistically matching it to elements of the results to elements of the genome.” As his team became more experienced in writing new algorithms to make measurements,
+they realized that HTC was useful in developing new methodologies; it was more than just increased computing capacity.
+
+  
+
+In other words, HTC is useful as both a development resource and a production resource. Making measurements on seedlings and then matching processes to the genome elements that 
+control those processes involved a lot of computation. “We realized that statistical modeling of the measurements from the biology to the genetic information in the population
+also benefited from high throughput computing.” HTC in all these cases, Spalding elaborates, “was beneficial and changed the way we work. It changed the nature of the questions
+we asked.” In addition to these uses of HTC, the research group’s uses of machine learning (ML) also continue to become a bigger part of the tool development stage and in driving
+the methods to train a model to recognize a feature in a seedling.
+
+  
+
+Spalding has also spoken at the [OSG School](https://osg-htc.org/user-school-2023/) in the past. Spalding emphasizes that students “should not do something because they think
+computing will be a bottleneck. There are ways to bring the computing they need to their problem and they should not shy away from a question just because they think it might 
+be difficult to compute. There are people like the CHTC staff that can remove that bottleneck if the person’s willing to learn about it.”
+
+![](https://lh7-us.googleusercontent.com/FTJuj2xrkuzBCGu8_mriZRRbnUk7i4foU9EYpnCZGxjEx7e1AhVXYatqnChnC8TtkmWZEBfO6HtkVUtjsDmBLDEMyOAVIBDIGPfIKrNFcg3bpFYDmr30qXq__qJH2rdCVM0AG3id3Eu44DP8CkVuo5g)
