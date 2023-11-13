@@ -17,7 +17,7 @@ image:
   path: https://raw.githubusercontent.com/CHTC/Articles/main/images/spaldinglab.jpg
   alt: Members of the Spalding Research Lab
   
-excerpt: The Spalding lab uses high throughput computing to study plant physiology.
+excerpt: The Spalding Lab uses high throughput computing to study plant physiology.
 
 ---
 
