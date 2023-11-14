@@ -18,7 +18,7 @@ image:
   path: https://raw.githubusercontent.com/CHTC/Articles/main/images/davidswanson.jpg
   alt: González (left) and Tripathee (right) pictured with their awards. Photo provided by Jimena González.
   
-excerpt: Jimena Gonzàlez and Aashish Tripathee named 2023's David Swanson awardees
+excerpt: Jimena González and Aashish Tripathee named 2023's David Swanson awardees
 
 
 ---
@@ -71,7 +71,7 @@ images, González creates thousands of simulations composed of millions of image
 the quality of the images. Because of the volume of simulations she needs to train, González could 
 be left waiting for up to weeks using machine learning — and the tighter constraints, the greater 
 the waiting time. This put its own constraints on which properties she could experiment with. Some
-ideas, Gonzàlez says, were impossible to do because she couldn’t do them quickly. Implementing HTC 
+ideas, González says, were impossible to do because she couldn’t do them quickly. Implementing HTC 
 shortened the waiting time from days to hours.
 
   
@@ -116,7 +116,7 @@ needs. Koch, who served on the selection committee for the award, explains the c
 students who have taken what they learned at the OSG School and achieved great things with it, like
 tackling a research problem or writing workflows from scratch after coming in with little to no 
 experience. Cartwright says committee members also look for applicants who can give back to the 
-community. Both Gonzàlez and Tripathee embody what the selection committee looks for, Koch explains.
+community. Both González and Tripathee embody what the selection committee looks for, Koch explains.
 
   
 
@@ -127,10 +127,10 @@ had this ongoing relationship with us.”
 
   
 
-Gonzàlez will continue to use HTC to model the mass distribution of each galaxy that produces a 
+González will continue to use HTC to model the mass distribution of each galaxy that produces a 
 gravitational lens. People previously performed the computing for these models by hand, but as 
 the data accumulates, it becomes less feasible for humans to do this computing. To remedy this, 
-Gonzàlez will use machine learning to do the modeling because it requires a great deal of computational power.
+González will use machine learning to do the modeling because it requires a great deal of computational power.
 
   
 
