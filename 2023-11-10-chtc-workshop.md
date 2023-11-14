@@ -20,7 +20,7 @@ excerpt: On November 8, CHTC hosted a hands-on workshop for researchers new to h
 
 ---
 
-### On November 8, CHTC hosted a hands-on workshop for researchers new to high throughput or high performance computing 
+*On November 8, CHTC hosted a hands-on workshop for researchers new to high throughput or high performance computing.* 
 
 The Center for High Throughput Computing (CHTC) facilitation team spent the morning of November 8 with over 50 students, researchers and faculty interested in learning high performance computing (HPC) and high throughput computing (HTC). Lead Research Computing Facilitator, Christina Koch, began by asking everyone in the room who had run into problems with computing on a single computer to raise their hand. Over half the room did so. Participants reported bottlenecks such as month-long run times or loops with millions of iterations. The facilitation team then delved into why these problems were happening and how CHTC could help. 
 
