@@ -1,5 +1,5 @@
 ---
-title: Plant physiology researchers used high throughput computing to remedy research “bottleneck”
+title: Plant physiologists used high throughput computing to remedy research “bottleneck”
 
 author: Sarah Matysiak
 
@@ -26,7 +26,7 @@ excerpt: The Spalding Lab uses high throughput computing to study plant physiolo
   
 
 Enhancing his research with high throughput computing was a pivotal moment for University of Wisconsin–Madison molecular plant physiologist Edgar Spalding when his
-[research group](https://spalding.botany.wisc.edu/) started using it in 2006. Over the past five years, the research group has used approximately 200,000 computing hours, including as a way to "develop the measurement algorithm and to process the tens-of-thousands of images automatically" of maize seedling root growth, Spalding says.
+[research group](https://spalding.botany.wisc.edu/) adopted it in 2006. Over the past five years, the research group has used more than 200,000 computing hours, including to facilitate "the development of the measurement algorithm and the automatic processing of tens-of-thousands of images" of maize seedling root growth, Spalding says.
 
 <figure class="figure float-end" style="margin-center: 1em">
   <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/maizespalding.jpg' height="500" width="1033" class="figure-img img-fluid rounded" alt="A graph of the average gravitropic response of each of the maize types">
