@@ -31,7 +31,8 @@ Enhancing his research with high throughput computing was a pivotal moment for U
 <figure class="figure float-end" style="margin-center: 1em">
   <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/maizespalding.jpg' height="500" width="1033" class="figure-img img-fluid rounded" alt="A graph of the average gravitropic response of each of the maize types">
   <figcaption class="figure-caption">The graph shows the average gravitropic response of each of the maize types. Statistical genetics techniques mapped variation in these curves (the phenotype) to genes that control the process. HTCondor scheduling software and computing resources at CHTC were used to develop the measurement algorithm and to process the tens of thousands of images automatically.<br/></figcaption>
-</figure>
+</figure>  
+
 
 
 Spalding’s research group was studying Arabidopsis plant populations with genetically diverse members and tracking their response to light or gravity due to a mutation — one seedling at a time. Since Arabidopsis seedlings are only a few millimeters tall, Spalding says his research group found that obtaining high-resolution digital images was the best approach to measure the direction of their growth. A computer collected images every few minutes as the seedlings grew. “If we could characterize this whole genetically diverse population, we could use the powerful techniques of statistical genetics to track down the genes affecting the process. That meant we now had thousands and thousands of images to measure,” Spalding explains.
