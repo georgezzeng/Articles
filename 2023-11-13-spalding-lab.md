@@ -30,7 +30,7 @@ Enhancing his research with high throughput computing was a pivotal moment for U
 
 <figure class="figure float-end" style="margin-center: 1em">
   <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/maizespalding.jpg' height="500" width="1033" class="figure-img img-fluid rounded" alt="A graph of the average gravitropic response of each of the maize types">
-  <figcaption class="figure-caption">Data on the average gravitropic response of each of the maize gathered from using HTC.<br/></figcaption>
+  <figcaption class="figure-caption">The graph shows the average gravitropic response of each of the maize types. Statistical genetics techniques mapped variation in these curves (the phenotype) to genes that control the process. HTCondor scheduling software and computing resources at CHTC were used to develop the measurement algorithm and to process the tens of thousands of images automatically.<br/></figcaption>
 </figure>
 
 
@@ -56,5 +56,7 @@ In other words, HTC is useful as both a development resource and a production re
   
 
 Spalding has also shared his HTC experience with the attendees of the annual [OSG School](https://osg-htc.org/user-school-2023/). Spalding emphasizes that students “should not hold back on doing something because they think computing will be a bottleneck. There are ways to bring the computing they need to their problem and they should not shy away from a question just because they think it might be difficult to compute. There are people like the CHTC staff that can remove that bottleneck if the person’s willing to learn about it.”
+
+“Engaged and motivated collaborators like Spalding and his group is what guides CHTC in advancing the state of the art of HTC and drives our commitment to bring these advances to researchers on the UW-Madison campus and around the world,” says Livny.
 
 
