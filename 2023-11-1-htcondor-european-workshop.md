@@ -11,7 +11,7 @@ publish_on:
   
 type: news
 
-canonical_url: https://htcondor.org/featured-users/2023-11-1-2023-htcondor-european-worshop.html
+canonical_url: https://htcondor.org/featured-users/2023-11-1-htcondor-european-workshop.html
 
 image:
   path: https://raw.githubusercontent.com/CHTC/Articles/main/images/groupphoto.png
