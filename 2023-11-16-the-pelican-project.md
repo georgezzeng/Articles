@@ -1,5 +1,5 @@
 ---
-title: The Pelican Project: Building a universal plug for scientific data-sharing
+title: "The Pelican Project: Building a universal plug for scientific data-sharing"
 
 author: Brian Mattmiller
 
@@ -8,6 +8,7 @@ publish_on:
     - htcondor
     - path
     - osg
+    - pelican
   
 type: news
 
