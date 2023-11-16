@@ -12,18 +12,18 @@ publish_on:
   
 type: news
 
-canonical_url: https://morgridge.org/story/the-pelican-project/
+canonical_url: "https://morgridge.org/story/the-pelican-project/"
 
 tag:
 - chtc_featured_article
 
 image:
-  path: https://raw.githubusercontent.com/CHTC/Articles/main/images/researchcomp-pelican.jpg
+  path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/researchcomp-pelican.jpg"
   alt: Emile working in the server room
   
 excerpt: Advancing Open Science: The Pelican Project's Pursuit of Universal Data Accessibility
 
-banner_src: https://raw.githubusercontent.com/CHTC/Articles/main/images/researchcomp-pelican.jpg
+banner_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/researchcomp-pelican.jpg"
 banner_alt: Emile working in the server room
 
 ---
