@@ -8,6 +8,7 @@ publish_on:
   - path
   - osg
   - chtc
+  - pelican
   
 type: user 
 
