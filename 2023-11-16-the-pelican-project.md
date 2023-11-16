@@ -21,7 +21,7 @@ image:
   path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/researchcomp-pelican.jpg"
   alt: Emile working in the server room
   
-excerpt: Advancing Open Science: The Pelican Project's Pursuit of Universal Data Accessibility
+excerpt: "Advancing Open Science: The Pelican Project's Pursuit of Universal Data Accessibility"
 
 banner_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/researchcomp-pelican.jpg"
 banner_alt: Emile working in the server room
