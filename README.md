@@ -92,9 +92,9 @@ You can use the below list to decide the correct canonical URL, fill in the appr
 
 ##### Reserved Characters
 
-Some characters mean something in `yaml` which is the format of the frontmatter at the top of the article. One such 
-is the colon (`:`) which denotes a key-value pair. Since it has a reserved use you must put any values in quotations to prevent it 
-from being misinterpretted.
+Some characters mean something special in `yaml` which is the format of the frontmatter at the top of the article. One such 
+is the colon (`:`) which denotes a key-value pair. Since it has a reserved use you must put any values that include it in 
+quotations to prevent it from being misinterpretted.
 
 For example: 
 
