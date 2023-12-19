@@ -112,6 +112,29 @@ image:
   path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/image.jpg"
 ```
 
+##### Multi-line values
+
+For values that span multiple lines in the metadata on the top of a article you must format them to be 
+valid yaml or just remove the line breaks and make it one line. 
+
+**Invalid - Value includes a newline in it without the appropriate | and tabbing**
+```
+excerpt: This is a really really really really really really really really really really really really
+really really really really really really really really really really long excerpt. 
+```
+
+**Valid - Best Option - Most Readable**
+```
+excerpt: |
+  This is a really really really really really really really really really really really
+  really really really really really really really really really really really long excerpt. 
+``` 
+
+**Valid - Also Okay - Sometimes doesn't fit on screen**
+```
+excerpt: This is a really really really really really really really really really really really really really really really really really really really really really really long excerpt. 
+``` 
+
 ### Create a Pull-Request to merge the article into production
 
 When you are confident with your content you can create a Pull-Request,
