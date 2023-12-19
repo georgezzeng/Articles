@@ -65,18 +65,18 @@ publish_on:
   
 type: <news, user> - This indicates if this article is based on a user's experience with our services or a news story about what we have done. 
 
-canonical_url: <This is a absolute url that points to the canonical site>
+canonical_url: "<This is a absolute url that points to the canonical site>"
 
 tag:
 - chtc_featured_article <If you would like this article listed first on the CHTC news page: Note if you add one you must remove one.> 
 
 image:
-  path: <https://raw.githubusercontent.com/CHTC/Articles/main/images/...> - An image that will populate the link preview
+  path: "<https://raw.githubusercontent.com/CHTC/Articles/main/images/...>" - An image that will populate the link preview
   alt: Text Description of image
   
 excerpt: <Same as description but used for the cards>
 
-banner_src: <https://raw.githubusercontent.com/CHTC/Articles/main/images/> - Optional - An image that will be used as a website banner
+banner_src: "<https://raw.githubusercontent.com/CHTC/Articles/main/images/>" - Optional - An image that will be used as a website banner
 banner_alt: Text Description of image
 ---
 ```
@@ -89,6 +89,28 @@ You can use the below list to decide the correct canonical URL, fill in the appr
 - OSG: https://osg-htc.org/spotlights/<title>.html
 - PATh: https://path-cc.io/news/<YEAR-MONTH-DAY-title\>/
 - HTCondor: https://htcondor.org/featured-users/<YEAR-MONTH-DAY-title\>.html
+
+##### Reserved Characters
+
+Some characters mean something in `yaml` which is the format of the frontmatter at the top of the article. One such 
+is the colon (`:`) which denotes a key-value pair. Since it has a reserved use you must put any values in quotations to prevent it 
+from being misinterpretted.
+
+For example: 
+
+This is wrong because the url below is not quoted and contains a `:`. 
+
+```
+image:
+  path: https://raw.githubusercontent.com/CHTC/Articles/main/images/image.jpg
+```
+
+So we fix it like so:
+
+```
+image:
+  path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/image.jpg"
+```
 
 ### Create a Pull-Request to merge the article into production
 
