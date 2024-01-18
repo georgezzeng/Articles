@@ -21,6 +21,8 @@ excerpt: |
   The OSG Consortium hosted its annual OSG School in August 2023, 
   assisting participants from a wide range of campuses and areas of research through HTC learning.
 
+banner_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-school-2023-01.jpg" 
+banner_alt: 2023 OSG School Attendees
 ---
 
 **![](https://raw.githubusercontent.com/CHTC/Articles/main/images/OSG-User-School.jpg)**
