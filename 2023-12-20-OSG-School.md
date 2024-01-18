@@ -9,7 +9,7 @@ publish_on:
   - htcondor
   - path
   
-type: news
+type: user
 
 canonical_url: "https://chtc.cs.wisc.edu/osgschool.html"
 
