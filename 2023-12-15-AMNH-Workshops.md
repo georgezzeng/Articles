@@ -11,7 +11,7 @@ publish_on:
   
 type: news
 
-canonical_url: "https://osg-htc.org/spotlights/AMNH-workshops.html"
+canonical_url: "https://osg-htc.org/spotlights/AMNH-Workshops.html"
 
 
 image:
@@ -27,9 +27,9 @@ New York-area researchers and tapping into the power of high throughput computin
 ![](https://lh7-us.googleusercontent.com/LG2CvtGsthSFiRNtuf1sSh8V2oWg4ui_BDBiGNAQzM6t0N9_9UprHHNx-XKjSmET32cbpy3DP5jvnQUOrXt_u4saIskKu8CTuDqaHpOgrzgbal51i8R4prNbBAIoIYepHMw3ERldaJiRbVJ06Yvbm6A)
 
 
-After “falling in love with the system” during the [2023 OSG School](https://osg-htc.org/user-school-2023/%20/h), [American Museum of Natural History Museum (AMNH)](https://www.amnh.org/%20/h) 
+After “falling in love with the system” during the [2023 OSG School](https://osg-htc.org/user-school-2023/), [American Museum of Natural History Museum (AMNH)](https://www.amnh.org/%20/h) 
 bioinformatics specialist [Dean Bobo](https://www.amnh.org/research/staff-directory/dean-bobo%20/h) wondered if he could jump on an offer to bring New York institutions’ and 
-researchers’ attention to the [OSPool](https://osg-htc.org/services/open_science_pool.html%20/h), a pool of computing capacity freely available to U.S.-affiliated institution 
+researchers’ attention to the [OSPool](https://osg-htc.org/services/open_science_pool.html), a pool of computing capacity freely available to U.S.-affiliated institution 
 researchers. Research Facilitation Lead Christina Koch mentioned the capacity of the National Science Foundation (NSF)-funded [Partnership to Advance Throughput Computing](https://path-cc.io/) (PATh) 
 project to help institutions put on local trainings. So he reached out to Koch — and indeed the offer did stand!
 

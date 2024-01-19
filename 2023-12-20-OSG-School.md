@@ -11,7 +11,7 @@ publish_on:
   
 type: user
 
-canonical_url: "https://chtc.cs.wisc.edu/osgschool.html"
+canonical_url: "https://chtc.cs.wisc.edu/OSG-School.html"
 
 image:
   path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/OSG-User-School.jpg"
