@@ -65,8 +65,7 @@ contribute capacity to the OSPool, she said.
 
 “I would recommend anyone interested in using HTC [high throughput computing] or just curious about whether or 
 not it would be helpful for their work to reach out to CHTC,” she said. “It’s a great resource and they’re great 
-at teaching you.” Ayars gave a special shout-out to [Rachel Lombardi](https://www.cs.wisc.edu/staff/lombardi-rachel/)  
-and [Christina Koch,](https://www.cs.wisc.edu/staff/koch-christina/) two RCFs at CHTC. Research computing facilitators
+at teaching you.” Ayars gave a special shout-out to [Rachel Lombardi](https://www.cs.wisc.edu/staff/lombardi-rachel/) and [Christina Koch,](https://www.cs.wisc.edu/staff/koch-christina/) two RCFs at CHTC. Research computing facilitators
 help new or potential users of CHTC services understand what computing resources are available on and off the UW-Madison 
 campus and provide support for adapting workloads to harness HTC.
 
