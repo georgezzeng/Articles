@@ -10,9 +10,10 @@ publish_on:
   - chtc
   - pelican
   
-type: news
+type: user
 
-canonical_url: 
+canonical_url: https://public.nrao.edu/news/astronomers-study-the-universe-300-times-faster/
+
 image:
   path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/vla-hubble-ultra-deep.png"
   alt: Image of Hubble Ultra-deep Field at S-Band
@@ -55,3 +56,5 @@ This won’t be the last time NRAO experiments with dispersed data processing. S
 **About NRAO**
 
 The National Radio Astronomy Observatory (NRAO) is a facility of the National Science Foundation, operated under cooperative agreement by Associated Universities, Inc.
+
+[Original Article](https://public.nrao.edu/news/astronomers-study-the-universe-300-times-faster/)
