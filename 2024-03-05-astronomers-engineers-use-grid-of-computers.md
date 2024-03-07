@@ -14,10 +14,10 @@ type: news
 
 canonical_url: 
 image:
-  path: https://raw.githubusercontent.com/CHTC/Articles/main/images/vla-hubble-ultra-deep.png
+  path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/vla-hubble-ultra-deep.png"
   alt: Image of Hubble Ultra-deep Field at S-Band
 
-  banner-src: https://raw.githubusercontent.com/CHTC/Articles/main/images/nrao-map-clear.jpeg
+  banner-src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/nrao-map-clear.jpeg"
   banner-alt: Map of North America and access points from PATh
 ---
 ***Data Processing for Very Large Array Makes Deepest Radio Image of the Hubble Ultra Deep Field***
