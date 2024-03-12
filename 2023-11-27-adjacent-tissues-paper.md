@@ -28,7 +28,7 @@ and ligaments.**
 A recent paper published in the [Journal of the Mechanical Behavior of Biomedical Materials](https://www.sciencedirect.com/science/article/abs/pii/S1751616123004915) by former Ph.D. 
 student in the Department of Mechanical Engineering (and current post-doctoral researcher at the University of Pennsylvania)
 [Jonathon Blank](https://www.med.upenn.edu/orl/personnel/jonathon-blank-ph-d.html) and John Bollinger Chair of Mechanical Engineering
-[Darryl Thelen](https://directory.engr.wisc.edu/me/faculty/thelen_darryl/) used the [Center for High Throughput Computing (CHTC)](https://chtc.github.io/) to obtain their results. 
+[Darryl Thelen](https://directory.engr.wisc.edu/me/faculty/thelen_darryl/) used the [Center for High Throughput Computing (CHTC)](https://chtc.cs.wisc.edu/) to obtain their results. 
 Results that, Blank says, would not have been obtained at the same scale without HTC. “[This project], and a number of other projects, would have had a very small snapshot of the 
 problem at hand, which would not have allowed me to obtain the understanding of shear waves that I did. Throughout my time at UW, I ran tens of thousands of simulations — probably 
 even hundreds of thousands.”
