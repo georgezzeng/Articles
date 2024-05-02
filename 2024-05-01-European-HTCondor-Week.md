@@ -7,7 +7,7 @@ publish_on:
 
 type: news
 
-canonical_url:  (https://htcondor.org/news/2024-5-01-European-HTCondor-Week.html)
+canonical_url:  (https://htcondor.com/featured-users/2024-05-01-European-HTCondor-Week.html)
 
 image:
   path: https://raw.githubusercontent.com/CHTC/Articles/main/images/HTCondor_red_blk_notag.png
