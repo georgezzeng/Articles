@@ -14,9 +14,7 @@ image:
   alt: HTCondor logo
 
 
-excerpt: This workshop is an excellent opportunity to learn about HTCondor in the beautiful Amsterdam. 
-
-
+excerpt: This workshop is an excellent opportunity to learn about HTCondor in the beautiful Amsterdam.
 ---
 
 
@@ -40,4 +38,4 @@ Registration and abstract submission will be opened in due course.
 
 To ease travel, the workshop will begin Tuesday morning and end around Friday lunchtime. 
 
-
+View the [event website](https://indico.cern.ch/event/1386170/) for more details.
