@@ -28,7 +28,6 @@ __Addressing the challenges of transferring large datasets with the OSDF Subhead
 
 <figure>
 <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/sites-use-of-osdf.png" alt="Map of OSDF use"/>
-<figcaption class="figure-caption">Map featuring the locations of current OSDF</figcaption>
 </figure>
 
 
