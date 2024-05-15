@@ -1,6 +1,6 @@
 ---
-short_title: "Use of OSDF" 
-title: "Use of OSDF"
+short_title: "Transferring large datasets with the OSDF" 
+title: "Addressing the challenges of transferring large datasets with the OSDF"
 
 author: Sarah Matysiak
 
@@ -21,10 +21,10 @@ image:
 
 
 excerpt: |
-  Addressing the challenges of transferring large datasets with the OSDF Subheading: Aashish Tripathee has used multiple file transfer systems and experienced challenges with each before using the Open Science Data Federation (OSDF). With the OSDF, Tripathee has already seen an improvement in data transfers.
+ Aashish Tripathee has used multiple file transfer systems and experienced challenges with each before using the Open Science Data Federation (OSDF). With the OSDF, Tripathee has already seen an improvement in data transfers.
 ---
 
-__Addressing the challenges of transferring large datasets with the OSDF Subheading: Aashish Tripathee has used multiple file transfer systems and experienced challenges with each before using the Open Science Data Federation (OSDF). With the OSDF, Tripathee has already seen an improvement in data transfers.__
+__ Aashish Tripathee has used multiple file transfer systems and experienced challenges with each before using the Open Science Data Federation (OSDF). With the OSDF, Tripathee has already seen an improvement in data transfers.__
 
 <figure>
 <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/sites-use-of-osdf.png" alt="Map of OSDF use"/>
