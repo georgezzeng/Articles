@@ -42,7 +42,7 @@ Before using the OSDF, Tripathee had experimented with a variety of data deliver
 Upon switching to the OSDF, Tripathee saw significant improvements and noticed a significant number of jobs now run to completion while facing far fewer data transfer issues: With the OSDF, only about 0.5% of his jobs still show transfer issues.
 
 <figure class="figure float-end" style="margin-left: 1em">
- <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/headshot-use-of-osdf.png' height="300" width="300" class="figure-img img-fluid rounded" alt="Physics post-doctoral research fellow at the University of Michigan Aashish Tripathee.">
+ <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/headshot-use-of-osdf.png' height="200" width="200" class="figure-img img-fluid rounded" alt="Physics post-doctoral research fellow at the University of Michigan Aashish Tripathee.">
   <figcaption class="figure-caption">Physics post-doctoral research fellow at <br>the University of Michigan Aashish Tripathee.</figcaption>
 </figure>
 
