@@ -24,8 +24,6 @@ excerpt: |
   Addressing the challenges of transferring large datasets with the OSDF Subheading: Aashish Tripathee has used multiple file transfer systems and experienced challenges with each before using the Open Science Data Federation (OSDF). With the OSDF, Tripathee has already seen an improvement in data transfers.
 ---
 
-Publish on PATh, OSG, CHTC, HTCondor, and Pelican. Pelican should be the canonical site/link.
-
 __Addressing the challenges of transferring large datasets with the OSDF Subheading: Aashish Tripathee has used multiple file transfer systems and experienced challenges with each before using the Open Science Data Federation (OSDF). With the OSDF, Tripathee has already seen an improvement in data transfers.__
 
 <figure>
@@ -46,7 +44,7 @@ Upon switching to the OSDF, Tripathee saw significant improvements and noticed a
 
 <figure class="figure float-end" style="margin-left: 1em">
  <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/headshot-use-of-osdf.png' height="300" width="300" class="figure-img img-fluid rounded" alt="Physics post-doctoral research fellow at the University of Michigan Aashish Tripathee.">
-  <figcaption class="figure-caption">Physics post-doctoral research fellow at the University of Michigan Aashish Tripathee.</figcaption>
+  <figcaption class="figure-caption">Physics post-doctoral research fellow at <br>the University of Michigan Aashish Tripathee.</figcaption>
 </figure>
 
 The data transfer and storage problems Tripathee encountered are not isolated — difficulties in combining datasets and computing infrastructure are endemic across science. The OSDF is powered by the [Pelican Platform](https://pelicanplatform.org/), which is supported by a new $7.0 million grant from the [National Science Foundation (NSF)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2331480) (OAC-2331480). The project is led by [Brian Bockelman](https://morgridge.org/profile/brian-bockelman/) from the Morgridge Institute for Research, director of the [Center for High Throughput Computing (CHTC)](https://chtc.cs.wisc.edu/) at University of Wisconsin–Madison Miron Livny, and [Frank Würthwein](https://www.sdsc.edu/research/researcher_spotlight/wuerthwein_frank.html), Executive Director of the San Diego Supercomputing Center at the University of California, San Diego. Through this project, the Pelican software will be enhanced to make the OSDF more reliable, easier to use, and more accessible to other fields of science.
