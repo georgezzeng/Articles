@@ -24,7 +24,7 @@ excerpt: |
  Aashish Tripathee has used multiple file transfer systems and experienced challenges with each before using the Open Science Data Federation (OSDF). With the OSDF, Tripathee has already seen an improvement in data transfers.
 ---
 
-__ Aashish Tripathee has used multiple file transfer systems and experienced challenges with each before using the Open Science Data Federation (OSDF). With the OSDF, Tripathee has already seen an improvement in data transfers.__
+*Aashish Tripathee has used multiple file transfer systems and experienced challenges with each before using the Open Science Data Federation (OSDF). With the OSDF, Tripathee has already seen an improvement in data transfers.*
 
 <figure>
 <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/sites-use-of-osdf.png" alt="Map of OSDF use"/>
