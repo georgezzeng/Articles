@@ -23,7 +23,7 @@ throughput computing (HTC) capacity to researchers nationwide. Following a year 
 how it has been enabled by the PATh Facility.
 
 
-banner_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/PATh-Facility-Hardware.jpg"
+banner_src: https://raw.githubusercontent.com/CHTC/Articles/main/images/PATh-Facility-Hardware.jpg
 banner_alt: PATh Facility hardware. 
 
 ---
