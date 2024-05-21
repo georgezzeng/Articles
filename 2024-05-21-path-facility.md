@@ -10,20 +10,18 @@ publish_on:
 - osg
 - htcondor
 
-type: user
-canonical_url: https://path-cc.io/news/2024-05-21-path-facility.html
+type:user
+canonical_url: "https://path-cc.io/news/2024-05-21-path-facility.html"
 
 image:
-   path: https://raw.githubusercontent.com/CHTC/Articles/main/images/PATh-Facility-Hardware.jpg
+   path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/PATh-Facility-Hardware.jpg"
    alt: PATh Facility hardware
   
-excerpt: |
-Since 2022, the Partnership to Advance Throughput Computing (PATh) Facility has provided dedicated high
+excerpt: Since 2022, the Partnership to Advance Throughput Computing (PATh) Facility has provided dedicated high
 throughput computing (HTC) capacity to researchers nationwide. Following a year of expansion, here’s a look into the researchers’ work and
 how it has been enabled by the PATh Facility.
 
-
-banner_src: https://raw.githubusercontent.com/CHTC/Articles/main/images/PATh-Facility-Hardware.jpg
+banner_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/PATh-Facility-Hardware.jpg"
 banner_alt: PATh Facility hardware. 
 
 ---
