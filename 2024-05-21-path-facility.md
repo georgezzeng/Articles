@@ -5,16 +5,16 @@ title: "PATh Facility provides dedicated HTC capacity to NSF-funded projects"
 author: Bryna Goeking
 
 publish_on:
-  - path
-  - chtc
-  - osg
-  - htcondor
+- path
+- chtc
+- osg
+- htcondor
 
 type: user
-canonical_url: "https://path-cc.io/news/2024-05-21-path-facility.html"
+canonical_url: https://path-cc.io/news/2024-05-21-path-facility.html
 
 image:
-   path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/PATh-Facility-Hardware.jpg"
+   path: https://raw.githubusercontent.com/CHTC/Articles/main/images/PATh-Facility-Hardware.jpg
    alt: PATh Facility hardware
   
 excerpt: |
