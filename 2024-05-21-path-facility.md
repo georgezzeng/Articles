@@ -38,7 +38,7 @@ PATh Facility.
 transitioning workflows to run within HTCondor.
 
 “As our ambition grew, we were looking out for a larger system, PATh came as a blessing,” Chakraborty reflected. “The ultimate satisfaction is to get 
-some new understanding and learning of the science we are working on,” he reflected. “We hope that this will be one of our first major achievements using 
+some new understanding and learning of the science we are working on. We hope that this will be one of our first major achievements using 
 the PATh Facility.”
 
 <figure class="figure float-end" style="margin-left: 1em">
@@ -67,7 +67,7 @@ Facility is hardware owned and operated by PATh, we can make more guarantees abo
 resources and run computations of a certain size,” Koch explained.
 
 Following the PATh Facility’s growth, some OSPool users have begun to use the Facility’s dedicated capacity in tandem. One example is [North Carolina State University](https://www.ncsu.edu/) 
-PhD candidate Matthew Dorsey, who relied on capacity from the OSPool for two years before expanding his research to the newer [PATh Facility](https://path-cc.io/facility/).
+Ph.D. candidate Matthew Dorsey, who relied on capacity from the OSPool for two years before expanding his research to the newer [PATh Facility](https://path-cc.io/facility/).
 In doing so, he was able to run larger jobs without worrying about running out of capacity. “The transition to the PATh Facility was extremely easy,” Dorsey said. 
 “I was pleased with how seamless it was.”
 
