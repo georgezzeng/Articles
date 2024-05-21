@@ -9,7 +9,7 @@ publish_on:
   - osg
   - htcondor
 
-type: news
+type: user
 canonical_url: "https://path-cc.io/news/2024-05-21-path-facility.html"
 
 image:
