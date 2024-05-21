@@ -1,5 +1,6 @@
 ---
-title: PATh Facility provides dedicated HTC capacity to NSF-funded projects 
+title: "PATh Facility provides dedicated HTC capacity to NSF-funded projects"
+
 
 author: Bryna Goeking
 
