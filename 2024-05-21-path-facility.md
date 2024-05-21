@@ -1,6 +1,6 @@
 ---
-short_title: "PATh Facility provides dedicated HTC capacity" 
-title: "PATh Facility provides dedicated HTC capacity to NSF-funded projects"
+short_title: "Advancing computational throughput with the NSF PATh Facility" 
+title: "Advancing computational throughput of NSF funded projects with the PATh Facility"
 
 author: Bryna Goeking
 
@@ -11,7 +11,7 @@ publish_on:
 - htcondor
   
 type: news
-canonical_url: "https://path-cc.io/news/2024-05-21-path-facility.html"
+canonical_url: "https://path-cc.io/news/2024-05-21-path-facility/"
 
 image:
    path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/PATh-Facility-Hardware.jpg"
