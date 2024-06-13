@@ -23,7 +23,7 @@ banner_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/noaa-ba
 banner_alt: NOAA Sonar Banner
 
 excerpt: |
-  NOAA funded marine scientist uses OSPool access to high throughput computing to explode her boundaries of research
+  NOAA funded marine scientist uses OSPool access to high throughput computing to explode her boundaries of research.
 ---
 
 Dr. Carrie Wall, a research scientist at the University of Colorado Boulder, shares how access to OSPool resources has allowed her team to expand the scope of their research and to fail, unconstrained by the cost of computing in the cloud and the associated restraints that places on research.
