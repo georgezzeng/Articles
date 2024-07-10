@@ -35,12 +35,4 @@ There will also time and space for short, maybe spontaneous interactive particip
 
 Registration is now open! Find more information on the [event page](https://indico.cern.ch/event/1386170/).
 
-
 To ease travel, the workshop will begin Tuesday morning and end around Friday lunchtime.
-
-
-Want more information? 
-
-Sign up to be on the HTCondor-World [mailing list.](https://lists.cs.wisc.edu/mailman/listinfo/htcondor-world) 
-
-Email us at [HTCondor-world@cs.wisc.edu](https://path-cc.io/events/2024-euro-htcondor/HTCondor-world@cs.wisc.edu) for further questions
