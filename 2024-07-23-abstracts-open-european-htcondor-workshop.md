@@ -1,6 +1,6 @@
 ---
-short_title: "HTCondor Week Europe: Abstract Submission Open" 
-title: "HTCondor Week Europe: Abstract Submission Open"
+short_title: "European HTCondor Workshop: Abstract Submission Open" 
+title: "European HTCondor Workshop: Abstract Submission Open"
 
 author: 
 
