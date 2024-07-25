@@ -29,7 +29,8 @@ excerpt: |
 <img style="width:100%" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/epic-eic-collab.jpg" alt=" Electron Beam Ion Source / Brookhaven National Laboratory"/>
 <figcaption>Electron Beam Ion Source / Brookhaven National Laboratory</figcaption>
 </figure>
-<br><br>Seeking to unlock the secrets of the “glue” binding visible matter in the universe, the [ePIC Collaboration](https://www.bnl.gov/eic/epic.php) stands at the forefront of innovation. Led by a collective of hundreds of scientists and engineers, the Electron-Proton/Ion Collider (ePIC) Collaboration was formed to design, build, and operate the first experiment at the [Electron-Ion Collider](https://www.bnl.gov/eic/) (EIC). This experiment aims to construct the world’s most advanced particle detector, capable of analyzing collisions between electrons and protons or other atomic nuclei.
+
+Seeking to unlock the secrets of the “glue” binding visible matter in the universe, the [ePIC Collaboration](https://www.bnl.gov/eic/epic.php) stands at the forefront of innovation. Led by a collective of hundreds of scientists and engineers, the Electron-Proton/Ion Collider (ePIC) Collaboration was formed to design, build, and operate the first experiment at the [Electron-Ion Collider](https://www.bnl.gov/eic/) (EIC). This experiment aims to construct the world’s most advanced particle detector, capable of analyzing collisions between electrons and protons or other atomic nuclei.
 
 “They are building a detector that can slide seamlessly into EIC’s infrastructure. When these collisions occur, they will capture a wealth of physics data that advances our understanding of high-energy nuclear interactions. The outcomes of these collisions allow us to explore new frontiers in physics” reports Pascal Paschos, the OSG Consortium Facilitator who supports the work of ePIC. Paschos oversees the collaborations’ access to computational capacity necessary to conduct these experiments.
 
