@@ -21,6 +21,9 @@ image:
 banner_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/epic-eic-collab.jpg"
 banner_alt: EPIC/EIC Banner
 
+buttons:
+  - text: Read About This Collaboration
+
 excerpt: |
   Seeking to unlock the secrets of the “glue” binding visible matter in the universe, the ePIC Collaboration stands at the forefront of innovation.
 ---
