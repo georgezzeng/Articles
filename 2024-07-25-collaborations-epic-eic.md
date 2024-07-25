@@ -15,8 +15,8 @@ type: user
 canonical_url: https://osg-htc.org/spotlights/collaborations-epic-eic.html
 
 image:
-path: https://raw.githubusercontent.com/CHTC/Articles/main/images/epic-eic-collab.jpg
-alt: EPIC/EIC Banner
+  path: https://raw.githubusercontent.com/CHTC/Articles/main/images/epic-eic-collab.jpg
+  alt: EPIC/EIC Banner
 
 banner_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/epic-eic-collab.jpg"
 banner_alt: EPIC/EIC Banner
