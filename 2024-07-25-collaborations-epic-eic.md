@@ -25,7 +25,7 @@ buttons:
   - text: Read About This Collaboration
 
 excerpt: |
-  Seeking to unlock the secrets of the “glue” binding visible matter in the universe, the ePIC Collaboration stands at the forefront of innovation.
+  Seeking to unlock the secrets of the “glue” binding visible matter in the universe, the ePIC Collaboration stands at the forefront of innovation. Led by a collective of hundreds of scientists and engineers, the Electron-Proton/Ion Collider (ePIC) Collaboration was formed to design, build, and operate the first experiment at the Electron-Ion Collider (EIC).
 ---
 
 <figure>
