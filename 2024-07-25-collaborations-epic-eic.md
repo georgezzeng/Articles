@@ -22,7 +22,7 @@ banner_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/epic-ei
 banner_alt: EPIC/EIC Banner
 
 excerpt: |
-  Collaborations Between Two National Laboratories and the OSG Consortium Propel Nuclear and High-Energy Physics Forward
+  Seeking to unlock the secrets of the “glue” binding visible matter in the universe, the ePIC Collaboration stands at the forefront of innovation.
 ---
 
 <figure>
