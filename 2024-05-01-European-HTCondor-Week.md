@@ -34,7 +34,18 @@ encouraged to propose a short presentation.
 There will also time and space for short, maybe spontaneous interactive participation ("show us your toolbox sessions") 
 which proved to be very popular in previous meetings. 
 
-Registration and abstract submission will be opened in due course. 
+Abstract submissions are now open for this year's European HTCondor Week! The event will be held 24-27 September at Nikhef in Amsterdam.
+
+We are looking for submissions including (but not limited to):
+
+- Workflows with HTCondor;
+- Data storage, access, and usage with HTCondor;
+- GPU usage with HTCondor from an infrastructure and/or user perspective;
+- HTCondor overlays with, for example, slurm, kubernettes;
+- From el7 to el9: transition stories, feedback, and lessons;
+- User experience with HTCondor (the good and the bad!).
+
+More information can be found at: [https://indico.cern.ch/event/1386170/](https://indico.cern.ch/event/1386170/).
 
 To ease travel, the workshop will begin Tuesday morning and end around Friday lunchtime. 
 
