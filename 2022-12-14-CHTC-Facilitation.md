@@ -9,9 +9,6 @@ publish_on:
 - htcondor
 - osg
 
-tag:
-- chtc_featured_article
-
 type: news
 
 canonical_url: https://chtc.cs.wisc.edu/CHTC-Facilitation.html

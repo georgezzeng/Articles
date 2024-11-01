@@ -14,8 +14,6 @@ type: news
 
 canonical_url: "https://morgridge.org/story/the-pelican-project/"
 
-tag:
-- chtc_featured_article
 
 image:
   path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/researchcomp-pelican.jpg"
