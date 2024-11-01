@@ -127,3 +127,6 @@ different possible compounds and it’s a dream to bring some of
 those to reality. We have developed ways of handling hundreds
 of thousands of genomes, approaching millions, so this is very
 much possible.
+
+This feature was originally published by the Morgridge Institute for Research in their [“Fearless Science” magazine, Fall 2024](https://morgridge.org/wp-content/uploads/Fearless-Science-Mag-Fall-2024-Digital.pdf).
+
