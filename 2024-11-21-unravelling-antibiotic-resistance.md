@@ -1,6 +1,6 @@
 ---
-short_title: "Erik Wright: A Biologist Using High-Throughput Computing"
-title: "Erik Wright: A Biologist Using High-Throughput Computing to Unravel Antibiotic Resistance"
+short_title: "Erik Wright: A Biologist Using High Throughput Computing"
+title: "Erik Wright: A Biologist Using High Throughput Computing to Unravel Antibiotic Resistance"
 
 author: Ria Dhingra and Bryna Goeking
 
