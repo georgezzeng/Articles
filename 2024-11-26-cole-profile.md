@@ -98,7 +98,7 @@ R: What challenges did you face and how did you overcome them?
 
 
 
-C: So it’s actually really funny. On my first day in the office, another developer, Mark Coatsworth, walks into my office to say hello to me. Mark was one of the people who interviewed me. So, he walks in and says, “Hey man, glad to see you here.By the way, I’m leaving in a couple months and you’ll be taking over my responsibilities. And I was like ”No!” *laughs*
+C: So it’s actually really funny. On my first day in the office, another developer, Mark Coatsworth, walks into my office to say hello to me. Mark was one of the people who interviewed me. So, he walks in and says, “Hey man, glad to see you here. By the way, I’m leaving in a couple months and you’ll be taking over my responsibilities. And I was like ”No!” *laughs*
 
 
 
@@ -139,7 +139,7 @@ R: As a young software developer; how have you managed to find your place and co
 
 C: I think the tail end of the pandemic definitely affected my adjustment into CHTC socially. The first day I came in there were only 3 or 4 people in the office besides me. But, as more people came in, I think it was actually relatively easy. Especially in the developer team. We’re all a bunch of nerds, and nerds are easy to get along with when you put them in a room together. We joke, we mess around, we spend a lot of time just talking and working on problems in the hallways.
 
-I think just getting out there and chatting is important. We play sheepshead at lunch on Fridays, we have lengthy conversations about minecraft. CHTC also has annual events like the OSG School and the HTC Week conference, which is also a great opportunity to meet new people.
+I think just getting out there and chatting is important. We play sheepshead at lunch on Fridays, we have lengthy conversations about minecraft. CHTC also has annual events like the OSG School and the Throughput Computing Week conference, which is also a great opportunity to meet new people.
 
 
 
@@ -151,7 +151,7 @@ C: I overall really like it here! The coworkers, the organization, all of it is 
 
 
 
-Specifically though, one of my favorite things is the HTCWeek that we host here in Madison. We get to go and present all the cool stuff we are doing with HTCondor and then we get a lot of admin who come up here and talk to us. I love hearing users come in and tell us why they use HTCondor. And it’s so funny, a common thing you see is users who will do the math and tell you how much computational time has been saved by HTCondor. It’s so gratifying to sit down with researchers and see how me clicking away directly helps them do so many cool things.
+Specifically though, one of my favorite things is the Throughput Computing Week that we host here in Madison. We get to go and present all the cool stuff we are doing with HTCondor and then we get a lot of admin who come up here and talk to us. I love hearing users come in and tell us why they use HTCondor. And it’s so funny, a common thing you see is users who will do the math and tell you how much computational time has been saved by HTCondor. It’s so gratifying to sit down with researchers and see how me clicking away directly helps them do so many cool things.
 
 
 
