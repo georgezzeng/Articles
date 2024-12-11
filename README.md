@@ -45,6 +45,8 @@ YEAR-MONTH-DAY-title.md
 
 ### Populate the new Article
 
+#### Frontmatter
+
 These articles are distributed to a variety of websites so it is 
 important they follow the same template. 
 
@@ -133,7 +135,80 @@ excerpt: |
 **Valid - Also Okay - Sometimes doesn't fit on screen**
 ```
 excerpt: This is a really really really really really really really really really really really really really really really really really really really really really really long excerpt. 
-``` 
+```
+
+#### Content
+
+The content will be coming from your google doc. An easy way to convert a google document into markdown is by 
+copying and pasting the google doc content into https://stackedit.io/app# on the left. You can then copy the content
+newly formatted on the left into the page. 
+
+##### Images
+
+All images follow the same url scheme as those in the frontmatter. They will always be prefixed with `https://raw.githubusercontent.com/CHTC/Articles/main/images/` and appended with the image name. You can see examples below.
+
+##### Markdown Templates
+
+This is a list of items that you might want to add to your article. These are all pulled from existing articles, so you 
+can see how they present in production.
+
+With all of these templates you will have to switch out the:
+
+- src your image - Example -> `src='https://raw.githubusercontent.com/CHTC/Articles/main/images/pratham.jpeg'`
+- alt of your image - Example -> `alt="Pratham"`
+- The captions -> Example: `<p>Fellows at their first presentation, introducing themselves and their projects.</p>` and `<figcaption>Electron Beam Ion Source / Brookhaven National Laboratory</figcaption>`
+
+###### 2 Images Side by Side
+
+Example: https://chtc.cs.wisc.edu/2024-chtc-fellows.html
+
+```html
+<div class="row justify-content-center">
+<div class="col-12 col-md-6">
+<img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/pratham.jpeg' class="figure-img img-fluid rounded" alt="Pratham">
+</div>
+<div class="col-12 col-md-6">
+<img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/fellows.jpeg' class="figure-img img-fluid rounded" alt="Fellows">
+</div>
+<div class="col">
+<p>Fellows at their first presentation, introducing themselves and their projects.</p>
+</div>
+</div>
+```
+
+###### Image As Banner 
+
+Example: https://chtc.cs.wisc.edu/collaborations-epic-eic.html
+
+```html
+<figure>
+<img style="width:100%" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/epic-eic-collab.jpg" alt=" Electron Beam Ion Source / Brookhaven National Laboratory"/>
+<figcaption>Electron Beam Ion Source / Brookhaven National Laboratory</figcaption>
+</figure>
+```
+
+###### Image Floated Left
+
+Example: https://chtc.cs.wisc.edu/unravelling-antibiotic-resistance.html
+
+```html
+<figure style="float: left; margin: 0 1rem 1rem 0;">
+<img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/wright-smile.jpg' height="420" width="300" class="figure-img img-fluid rounded" alt="Erik smiling">
+</figure>
+```
+
+###### Image Floated Right
+
+Example: https://chtc.cs.wisc.edu/unravelling-antibiotic-resistance.html
+
+```html
+<figure style="float: right; margin: 0 1rem 0 1rem;">
+ <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/wright-lab.jpg' height="420" width="300" class="figure-img img-fluid rounded" alt="Erik in the wet lab">
+</figure>
+```
+
+
+
 
 ### Create a Pull-Request to merge the article into production
 
