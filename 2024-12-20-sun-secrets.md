@@ -27,8 +27,6 @@ excerpt: Astronomers and computer scientists at the University of Hawaiʻi, Moan
 <figcaption>Large coronal loops sitting above the solar surface, all imaged in extreme ultraviolet emission (Image credit: NASA/TRACE)</figcaption>
 </figure>
 
-Large coronal loops sitting above the solar surface, all imaged in extreme ultraviolet emission (Image credit: NASA/TRACE)
-
 University of Hawaii-Moana utilizes OSDF and [Pelican](https://pelicanplatform.org/) to help decode Sun’s secrets
 
 [Astronomers and computer scientists at the University of Hawaiʻi, Moana are unlocking the Sun’s magnetic mysteries with the help of cutting-edge data caching and transfer applications provided by the Pelican Project and the Open Science Data Federation (OSDF)](https://www.hawaii.edu/news/2024/11/25/researchers-decode-suns-secrets/). The Pelican Project aims “to make data distribution easy” by providing a platform that makes deploying and accessing data simpler for clients. The OSDF, backed by Pelican, is an OSG service that hosts data origins and caches, facilitating distribution to make harnessing cashes simpler. This collaboration with the Center for High Throughput Computing’s (CHTC) Pelican Project empowers researchers at the Institute for Astronomy (IfA) to quickly access and analyze massive datasets from the [Daniel K. Inouye Solar Telescope](https://nso.edu/telescopes/inouye-solar-telescope/), the world’s most advanced solar observatory.
