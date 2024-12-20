@@ -12,7 +12,7 @@ publish_on:
   
 type: news
 
-canonical_url: "https://chtc.cs.wisc.edu/fellows-program"
+canonical_url: "https://chtc.cs.wisc.edu/htc-euro-workshop-24"
 
 tag:
 - chtc_featured_article
