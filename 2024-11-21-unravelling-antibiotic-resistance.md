@@ -71,5 +71,5 @@ Because of developments such as Clusterize, Wright has begun sending members of 
 In the future, Wright aims to harness the power of growing data in biological research, as the number of genomes continues doubling approximately every few years. With access to OSPool, he hopes to address antibiotic resistance by continuing to work toward the discovery of new small molecules.
 
 
-More on Erik Wright and his work mining genomes can be found in an [interview with him](https://chtc.cs.wisc.edu/mining-genomes.html) in the [Fall 2024 “Fearless Science” magazine](https://morgridge.org/wp-content/uploads/Fearless-Science-Mag-Fall-2024-Digital.pdf), published by [the Morgridge Institute for Research](https://morgridge.org/).
+More on Erik Wright and his work mining genomes can be found in an interview with him in the [Fall 2024 “Fearless Science” magazine](https://morgridge.org/wp-content/uploads/Fearless-Science-Mag-Fall-2024-Digital.pdf), published by [the Morgridge Institute for Research](https://morgridge.org/).
 

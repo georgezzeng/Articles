@@ -35,7 +35,7 @@ body of knowledge that other privileged students have access to,” Slater expla
 trying to get accomplished is to bring these educational and research platforms to students and faculty to really enrich the experience they have as students.”
 
 SKC inhabits an indigenous reserve known as the Flathead Reservation, which includes territory in four western states. Established in 1855, the reservation 
-is home to the [Confederated Salish and Kootenai Tribes](https://csktribes.org/index.php/history-culture). SKC — with just over 600 students — makes up a 
+is home to the Confederated Salish and Kootenai Tribes. SKC — with just over 600 students — makes up a 
 small, but vital portion of the much larger reservation. The college consists largely of tribal descendents or members, making up almost 80 percent of the 
 school population.
 

@@ -21,7 +21,7 @@ publish_on:
 
 *The UNL students involved in the capstone project, on graduation day. Order from left to right: Evan, Josh, Dan, Daniel, and Conner.*
 
-When a science gateway built by a group of undergraduate students is deployed this fall, it will open the door for researchers to leverage the capabilities of advanced software and the capacity of the [Open Science Pool](https://opensciencegrid.org/about/open_science_pool/) (OSPool). Working under the guidance of researcher [Joe Yesselman](https://chem.unl.edu/joseph-yesselman) and longtime OSG contributor [Derek Weitzel](https://derekweitzel.com/), the students united advanced simulation technology and a national, open source of high throughput computing capacity –– all within an intuitive, web-accessible science gateway.
+When a science gateway built by a group of undergraduate students is deployed this fall, it will open the door for researchers to leverage the capabilities of advanced software and the capacity of the [Open Science Pool](https://opensciencegrid.org/about/open_science_pool/) (OSPool). Working under the guidance of researcher Joe Yesselman and longtime OSG contributor [Derek Weitzel](https://derekweitzel.com/), the students united advanced simulation technology and a national, open source of high throughput computing capacity –– all within an intuitive, web-accessible science gateway.
  
 Joe, a biochemist, has been fascinated by computers and mathematical languages for as long as he can remember. Reminiscing to when he first adopted computer programming and coding as a hobby back in high school, he reflects: “English was difficult for me to learn, but for some reason mathematical languages make a lot of sense to me.”
  

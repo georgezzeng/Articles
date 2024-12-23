@@ -32,7 +32,7 @@ The western United States is seeing an unprecedented increase in wildfires. Rese
 team examined how severe wildfires impact the habitats of over 600 species across two megafire 
 years in California. Ayars, a former Post-Baccalaureate Research Fellow at the Rocky Mountain 
 Research Station located in Colorado, investigated this impact on wildlife with Dr. [Gavin Jones](https://www.fs.usda.gov/research/about/people/gavin.jones) 
-and Dr. [Anu Kramer](https://peery.russell.wisc.edu/anu-kramer/) of the University of Wisconsin—Madison. 
+and Dr. Anu Kramer of the University of Wisconsin—Madison. 
 Their research was enabled by capacity provided by the [Center for High Throughput Computing (CHTC)](https://chtc.cs.wisc.edu/) 
 and [published](https://www.pnas.org/doi/10.1073/pnas.2312909120#sec-3) in the Proceedings of the National Academy of Sciences.
 
@@ -65,7 +65,7 @@ contribute capacity to the OSPool, she said.
 
 “I would recommend anyone interested in using HTC [high throughput computing] or just curious about whether or 
 not it would be helpful for their work to reach out to CHTC,” she said. “It’s a great resource and they’re great 
-at teaching you.” Ayars gave a special shout-out to [Rachel Lombardi](https://www.cs.wisc.edu/staff/lombardi-rachel/) and [Christina Koch,](https://www.cs.wisc.edu/staff/koch-christina/) two RCFs at CHTC. Research computing facilitators
+at teaching you.” Ayars gave a special shout-out to Rachel Lombardi and [Christina Koch,](https://www.cs.wisc.edu/staff/koch-christina/) two RCFs at CHTC. Research computing facilitators
 help new or potential users of CHTC services understand what computing resources are available on and off the UW-Madison 
 campus and provide support for adapting workloads to harness HTC.
 
