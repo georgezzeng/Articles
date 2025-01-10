@@ -54,11 +54,6 @@ ________________________________________________________________________________
 
 **Kallen Wank**
 
-<figure>
-<img style="width:100%" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/jan-news-short/building.jpg" alt="UNAM, Main Website"/>
-<figcaption>UNAM, Main Website</figcaption>
-</figure>
-
 The National Autonomous University of Mexico (UNAM) developed [Grid UNAM](https://cuadernos.tic.unam.mx/index.php/cua/article/view/31) as a project to optimize and consolidate computing across its academic entities. The result was the creation of a distributed computing infrastructure utilizing [HTCondor](https://htcondor.org/) as one of its key technologies. The Grid UNAM infrastructure allows sharing the computing and storage power through the integration of the HTCondor-CE for the orchestration and sharing of computing resources. UNAM’S computing infrastructure is designed to support cutting-edge research in fields such as astrophysics, data science, and artificial intelligence and leverages the powerful job scheduling and resource management capabilities of HTCondor.
 
 HTCondor, an open-source software [widely used](https://htcondor.com/about) in computing, serves as the backbone for managing tasks across computing environments in Grid UNAM. Its ability to efficiently distribute workloads allows researchers to run complex simulations and analyses without worrying about system compatibility.
