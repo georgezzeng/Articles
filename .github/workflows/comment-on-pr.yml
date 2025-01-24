@@ -5,7 +5,6 @@ name: Post Comment on PR
 on:
   pull_request:
     branches: ["main"]
-    types: [opened]
 
 permissions:
   content: write
