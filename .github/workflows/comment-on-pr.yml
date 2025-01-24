@@ -1,0 +1,25 @@
+
+
+name: Post Comment on PR
+
+on:
+  pull_requests:
+    branches: ["main"]
+    types: [opened]
+
+permissions:
+  content: write
+
+jobs:
+  comment:
+    runs-on: ubuntu-latest
+    name: Comment on PR
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Comment PR
+        uses: thollander/actions-comment-pull-request@v3
+        with:
+          message: |
+            Hello world! :wave:
