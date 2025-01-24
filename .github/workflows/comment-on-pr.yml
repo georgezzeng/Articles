@@ -1,28 +1,27 @@
-
-
-name: Post Comment on PR
+name: Comment on Pull Request
 
 on:
   pull_request:
-
-
+    types: [opened, edited, synchronize, reopened] # Triggers for specific pull request events
 
 jobs:
-  comment:
+  comment-on-pr:
     runs-on: ubuntu-latest
-    name: Comment on PR
+
     permissions:
-      content: write
-      pull-requests: write
+      pull-requests: write # Ensure the workflow can write to pull requests
+
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-      - uses: actions/github-script@v6
+      - name: Checkout Repository
+        uses: actions/checkout@v4 # Checks out the repository (optional for this use case)
+
+      - name: Post Comment on Pull Request
+        uses: actions/github-script@v6
         with:
           script: |
             github.rest.issues.createComment({
               issue_number: context.issue.number,
               owner: context.repo.owner,
               repo: context.repo.repo,
-              body: '👋 Thanks for reporting!'
+              body: '🎉 Hello, and thank you for your contribution! 🚀'
             })
