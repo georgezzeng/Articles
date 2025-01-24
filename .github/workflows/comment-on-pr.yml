@@ -4,12 +4,10 @@ name: Post Comment on PR
 
 on:
   pull_request:
-    branches: ["main"]
 
 permissions:
   content: write
   pull-requests: write
-
 
 jobs:
   comment:
