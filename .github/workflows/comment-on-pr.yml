@@ -46,7 +46,7 @@ jobs:
               return;
             }
             
-            const files = JSON.parse(core.getInput('files'));
+            const files = JSON.parse(fileOutputs);
             if(files.length === 0){
                 github.rest.issues.createComment({
                 issue_number: context.issue.number,
