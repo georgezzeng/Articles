@@ -16,14 +16,46 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
+      - name: Get changed files
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const core = require('@actions/core');
+            const prFiles = await github.rest.pulls.listFiles({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: context.issue.number,
+            });
+            
+            const mdFiles = prFiles.data.filter(file => file.filename.endsWith('.md')).map(file => file.filename);
+            
+            core.setOutput('files', JSON.stringify(mdFiles))
+
       - name: Post Comment on Pull Request
         uses: actions/github-script@v6
         with: # pull requests are treated as issues so use issues.createComment here
           script: |
+            const core = require('@actions/core');
+            const files = JSON.parse(core.getInput('files'));
+            
+            if(files.length === 0){
+                github.rest.issues.createComment({
+                issue_number: context.issue.number,
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                body: 'No Markdown files detected'
+              });
+              return;
+            }
+            
+            const basePath = "https://chtc.github.io/article-preview?url=";
+            const urls = files.map(file => `${basePath}https://raw.githubusercontent.com/${context.repo.owner}/${context.repo.repo}/refs/heads/${context.payload.pull_request.head.ref}/${file}`);
+            
+            const commentBody = urls.map(url => `🌐 [Preview Article](${url})`).join("\n");
             github.rest.issues.createComment({
-              issue_number: context.issue.number,
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              body: '🎉 Hello, and thank you for your contribution! 🚀'
-            })
+                issue_number: context.issue.number,
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                body: `${commentBody}`
+            });
 
