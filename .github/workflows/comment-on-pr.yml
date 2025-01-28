@@ -35,7 +35,6 @@ jobs:
         uses: actions/github-script@v6
         with: # pull requests are treated as issues so use issues.createComment here
           script: |
-            const core = require('@actions/core');
             const files = JSON.parse(core.getInput('files'));
             
             if(files.length === 0){
