@@ -36,7 +36,6 @@ jobs:
         with: # pull requests are treated as issues so use issues.createComment here
           script: |
             const files = JSON.parse(core.getInput('files'));
-            
             if(files.length === 0){
                 github.rest.issues.createComment({
                 issue_number: context.issue.number,
