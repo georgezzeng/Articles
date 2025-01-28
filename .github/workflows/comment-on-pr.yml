@@ -41,7 +41,7 @@ jobs:
             const basePath = "https://chtc.github.io/article-preview?url=";
             const urls = mdFiles.map(file => `${basePath}https://raw.githubusercontent.com/${context.repo.owner}/${context.repo.repo}/refs/heads/${context.payload.pull_request.head.ref}/${file}`);
             
-            const commentBody = urls.map(url => `🌐 [Preview Article](${url})\n➡️ Full URL: ${url}`).join("\n\n");
+            const commentBody = urls.map(url => `URL to preview article: ${url}`).join("\n\n");
             github.rest.issues.createComment({
                 issue_number: context.issue.number,
                 owner: context.repo.owner,
