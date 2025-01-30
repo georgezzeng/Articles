@@ -36,6 +36,7 @@ jobs:
                 repo: context.repo.repo,
                 body: 'No Markdown files detected'
               });
+              return;
             }
             
             const basePath = "https://chtc.github.io/article-preview?url=";
